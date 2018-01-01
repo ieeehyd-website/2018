@@ -39,8 +39,15 @@ pages:
       - 'Skill Connect': 'skill-connect/skill-connect.md'
   - 'Chapters':
           - 'Computer Society': 'chapters/cs/computers.md'
+          - 'PES/IAS/PELS Society Joint Chapter': 'chapters/pes-ias-pels/pes-ias-pels.md'
+          - 'MTT/AP/EMC Society Joint Chapter': 'chapters/mtt-ap-emc/mtt-ap-emc.md'
+          - 'ComSoc/SP Society Joint Chapter': 'chapters/comsoc-sp/comsoc-sp.md'
+          - 'Computational Intelligence / GRSS Society Joint Chapter': 'chapters/cis-grss/cis-grss.md'
+          - 'Education Society Chapter': 'chapters/edusoc/edusoc.md'
+          - 'Photonics Society Chapter': 'chapters/photonics/photonics.md'
+          - 'Technology and Engineering Management Society Chapter': 'chapters/tems/tems.md'
           - 'CAS/EDS Society Joint Chapter': 'chapters/cas-eds/cas-eds.md'
-  - 'Sub-Section': 
+  - 'Sub-Sections': 
           - 'Vizag Bay': 'sub-sections/vizag/programs/programs.md'
           - 'Guntur (Amaravathi)': 'sub-sections/guntur/programs/programs.md'
           - 'Ananthapur': 'sub-sections/ananthapur/programs/programs.md'
