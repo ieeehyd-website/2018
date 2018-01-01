@@ -29,4 +29,7 @@
 * MkDocs (http://www.mkdocs.org/)
 * MkDocs+ (https://github.com/bwmarrin/MkDocsPlus)
 * MkDocs Material Theme (https://github.com/squidfunk/mkdocs-material)
-* GitHub https://github.com/
+* GitHub (https://github.com/)
+
+## Licence
+* MIT (https://github.com/ieeehyd-website/2018/blob/master/LICENSE)
