@@ -1,2 +1,5 @@
-# 2018
-Beta Website of IEEE Hyderabad Section 2018
+# IEEE Hyderabad Section
+Welcome to IEEE Hyderabad Section.
+
+## Attributions
+https://github.com/bwmarrin/MkDocsPlus
