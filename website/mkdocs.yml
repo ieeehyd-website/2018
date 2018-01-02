@@ -38,7 +38,7 @@ pages:
       - 'SIGHT': 'sight/sight.md'
       - 'Skill Connect': 'skill-connect/skill-connect.md'
   - 'Chapters':
-          - 'Computer Society': 'chapters/cs/computers.md'
+          - 'Computer Society Chapter': 'chapters/cs/computers.md'
           - 'PES/IAS/PELS Society Joint Chapter': 'chapters/pes-ias-pels/pes-ias-pels.md'
           - 'MTT/AP/EMC Society Joint Chapter': 'chapters/mtt-ap-emc/mtt-ap-emc.md'
           - 'ComSoc/SP Society Joint Chapter': 'chapters/comsoc-sp/comsoc-sp.md'
