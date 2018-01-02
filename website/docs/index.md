@@ -63,7 +63,7 @@ Ramamurty, Mr. Elya B. Joffe, Dr Kodali V Prasad, Dr BL Deekshatulu et al.
 12. Section supports meritorious students whose research papers were accepted in reputed international and IEEE conferences.  
 
 ## Growing the IEEE Leadership
-IEEE Hyderabad Section supported formation of 3 sub-sections in the region; Guntur, Vizag and Ananthapur thus enabling local leadership to conduct IEEE events and benefit the members.
+IEEE Hyderabad Section supported formation of 3 sub-sections in the region; Guntur, Vizag and Ananthapuramu thus enabling local leadership to conduct IEEE events and benefit the members.
 
 ## Conferences Organized by the Section
 
