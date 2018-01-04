@@ -48,9 +48,15 @@ pages:
           - 'Technology and Engineering Management Society Chapter': 'chapters/tems/tems.md'
           - 'CAS/EDS Society Joint Chapter': 'chapters/cas-eds/cas-eds.md'
   - 'Sub-Sections': 
-          - 'Vizag Bay': 'sub-sections/vizag/programs/programs.md'
-          - 'Guntur (Amaravathi)': 'sub-sections/guntur/programs/programs.md'
-          - 'Ananthapur': 'sub-sections/ananthapur/programs/programs.md'
+          - 'Vizag Bay':
+                - 'About': 'sub-sections/vizag/vizag.md'
+                - 'Programs': 'sub-sections/vizag/programs/programs.md'
+          - 'Guntur (Amaravathi)': 
+                - 'About': 'sub-sections/guntur/guntur.md'
+                - 'Programs': 'sub-sections/guntur/programs/programs.md'
+          - 'Ananthapur': 
+                - 'About': 'sub-sections/ananthapur/ananthapur.md'
+                - 'Programs': 'sub-sections/ananthapur/programs/programs.md'
   - 'Dashboard':
           - 'Events': 'dashboard/events-summary.md'
           - 'Membership': 'dashboard/membership-summary.md'
