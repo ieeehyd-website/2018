@@ -6,7 +6,7 @@ There are more than 200 professional members and around 1000 student members as 
 ## UPCOMING EVENTS	STUDENT BRANCHES	
 To be announced.
 
-## Past Chairman:
+## Past Chairmen:
 1. 2011-12:	Sri Gopi Kumar Bulusu  
 2. 2013-14:	Prof G.S.N. Raju  
 3. 2015-16:	Dr. S. Lakshminarayana  
