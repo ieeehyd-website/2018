@@ -1,5 +1,5 @@
 # IEEE VIZAG BAY SUB SECTION
-Vizag Bay Sub Section (R0014902) formed on 19-02-2011 under IEEE Hyderabad Section with the geographical boundaries consisting of the districts of Srikakulam, Vizianagaram, Visakhapatnam, East Godavari, West Godavari and Krishna Districts of Andhra Pradesh, India. ** Later it will be updated moving Krishna District to Guntur Sub-section. **
+Vizag Bay Sub Section (R0014902) formed on 19-02-2011 under IEEE Hyderabad Section with the geographical boundaries consisting of the districts of Srikakulam, Vizianagaram, Visakhapatnam, East Godavari, West Godavari and Krishna Districts of Andhra Pradesh, India.
 
 There are more than 200 professional members and around 1000 student members as on today.
 
