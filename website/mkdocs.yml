@@ -1,4 +1,7 @@
 site_name: IEEE Hyderabad
+theme:
+    name: mkdocs
+    custom_dir: ieeehyd_theme
 google_analytics: ['UA-111776382-1', 'ieeehyderabad.org']
 markdown_extensions:
     - smarty
