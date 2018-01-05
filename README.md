@@ -7,6 +7,7 @@
 
 ## Development Process
 * Follow GitHub workflow.
+* Note: You need to have at least one file in a directory to get pushed. So, please do not push empty directories.
 
 ## Build
 * Pull the GitHub Repository (https://github.com/ieeehyd-website/2018)
