@@ -11,7 +11,7 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 |Designation|     Name        |    Organization|E-mail|#Membership|
 |-----------|-----------------|--------|-----------------|----------|
 |![CIS](img/ec/chair.jpg?raw=true) Chairman   |Naresh Kumar M   |NRSC, Hyderabad    |nareshm@ieee.org |SM 92101512|
-|![CIS](img/ec/vicechair.jpg?raw=true) Vice-Chair | KS Rajan |IIIT Hyderabad| rajan@iiit.ac.in| M 92104718|
+|![CIS](img/ec/vicechair.jpg?raw=true) ViceChair | KS Rajan |IIIT Hyderabad| rajan@iiit.ac.in| M 92104718|
 |![CIS](img/ec/secretary.jpg?raw=true) Secretary/Treasurer | T Hitendra Sarma |SRIT, Ananthapuramu |t.hitendrasarma@gmail.com |M 91168866|
 |Member |Mousmi Ajay Chaurasia | MJCET, Hyderabad |mousmi.chaurasia@mjcollege.ac.in| M 91191414|
 |Member | Hari Priya Sakethapuram| NRSC, Hyderabad| priya.s@ieee.org |M 94573404|
