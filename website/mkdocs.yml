@@ -1,4 +1,5 @@
 site_name: IEEE Hyderabad
+site_description: 'IEEE Hyderabad Section. IEEE,Hyderabad,Computers,Communication,Signal Procesing,MTT,AP,EMC,Power Engieering,PES,PELS,IAS,CIS,GRSS,Vizag,Guntur,Anathapuram,Students'
 theme:
     name: mkdocs
     custom_dir: ieeehyd_theme
