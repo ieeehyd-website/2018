@@ -97,7 +97,7 @@ Mobile : 8008783737
 
 
 ### GRSS Outstanding Supporter Award 2017
-#### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving Outstanding the award @ NRSC on 27 Nov 2017
+#### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving the award @ NRSC on 27 Nov 2017
 ![](img/events/Deekshatulu.jpg?raw=true)
 
 ### Featured Interviews
