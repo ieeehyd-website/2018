@@ -37,7 +37,7 @@ pages:
           - 'Student Branches': 'students/branches/sbs.md'
       - 'Affinity Groups':
           - 'Young Professionals (YP)': 'affinity-groups/yp/yp.md'
-          - 'Women in Engineering (WiE)': 'affinity-groups/yp/yp.md'
+          - 'Women in Engineering (WiE)': 'affinity-groups/wie/wie.md'
       - 'Conferences': 'conferences/conferences.md'
       - 'Faraday Memorial Lecture (FML)': 'fml/fml.md'
       - 'Section Student Congress (SSC)': 'students/section-student-congress/ssc.md'
@@ -75,6 +75,7 @@ pages:
       - 'Member Benefits': 'support/member-benefits/member-benefits.md'
       - 'Policies': 'support/policies/policies.md'
       - 'FAQ': 'support/faq/faq.md'
+      - 'Content Instructions': 'support/faq/content-template.md'
       - 'Contact': 'support/contact/ieeehyderabad.md'
       - 'Archives': 'archives/years.md'
   

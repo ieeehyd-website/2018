@@ -7,6 +7,6 @@ The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chair
 **Please RSVP to Venu at  venu_ieee2001@yahoo.com**
 
 ## Links:  
-1. [SLATE 2018 of IEEE Hyderabad Section](IEEEHydSECSlate2018.pdf)  
-2. [Pre-Audited Balance Sheet for the year 2017](2017IEEEHydBalanceSheetDraft.pdf)  
+1. [SLATE 2018 of IEEE Hyderabad Section](/execom/2018/IEEEHydSECSlate2018.pdf)  
+2. [Pre-Audited Balance Sheet for the year 2017](/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)  
 
