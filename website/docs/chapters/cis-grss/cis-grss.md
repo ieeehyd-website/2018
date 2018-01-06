@@ -1,4 +1,4 @@
-![CIS](img/logo/cis-logo.jpg?raw=true)![GRSS](img/logo/grss-logo2.jpg?raw=true) Hyderabad Joint Chapter
+![CIS](img/logo/cis-logo.jpg?raw=true)![GRSS](img/logo/grss-logo2.jpg?raw=true) 
 
 # Joint Chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies
 ## About the Chapter
@@ -20,18 +20,16 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 ## Opportunities
 
 ## Awards and Achievements
-
-## Downloads
-
-### Presentations
-### Videos
-### Datasets
-
 #### CIS Membership promotion Grant - $200  (2016)
 #### CIS Student Chapter - $ 200 (2016)
 #### CIS Outstanding Chapter Award - $2500 (2017)
 #### CIS Activity promotion grant  - $300 (2017)
 #### GRSS Grant on Special Fund - $3000 (2017)
+
+## Downloads
+### Presentations
+### Videos
+### Datasets
 
 
 ## Forthcoming Events
@@ -42,7 +40,7 @@ Venue: Conference Hall, Ground Floor, Block-5 Muffakham Jah College of Engg. & T
 Map https://goo.gl/maps/h83cW1cbVaS2
 Coordinator : Dr. Mousmi Ajay Chaurasia, IEEE MJCET CIS Chapter Advisor, mousmi.ksu@ieee.org,
 Mobile : +91-9160146701
-[Event#1](https://drive.google.com/open?id=17yXhIHsUjIQKsCcHxp5Du7D93kKSPqVL)
+[Flyer Event#1](https://drive.google.com/open?id=17yXhIHsUjIQKsCcHxp5Du7D93kKSPqVL)
 
 ### 2. Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH
 
@@ -52,8 +50,7 @@ University of Hyderabad, Gachibowli, Hyderabad
 Map  https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator : Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS atul.negi@ieee.org
 Mobile : 8008783737
-
-[Event#2](https://drive.google.com/open?id=1lUcQI6O11uVOILwr6zUiF7Wn7nKAOkOd)
+[Flyer Event#2](https://drive.google.com/open?id=1lUcQI6O11uVOILwr6zUiF7Wn7nKAOkOd)
 
 ## Past Events
 ### 1. Workshop on Hadoop Basics	@IIT Hyderabad 08-04-2017 09:00
