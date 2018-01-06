@@ -91,14 +91,14 @@ Mobile : 8008783737
 ## Celebrating Volunteers and Supporters
 ### CIS Outstanding Supporter Award 2017
 #### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017
-![outstandingsupporter1](img/events/ProfSameenOutstandingcissupporter#1.jpg?raw=true)
+![](img/events/Sameen.jpg?raw=true)
 #### Dr. Kavitha, Assistant Professor & Addl.Controller of Examinations, CSE, JNTU Hyderabad receiving the award @ CSE Department, Osmania University on 18 Nov 2017
-![outstandingsupporter1](img/events/DrKavithaOutstandingcissupporter#2.jpg?raw=true)
+![](img/events/Kavitha.jpg?raw=true)
 
 
 ### GRSS Outstanding Supporter Award 2017
 #### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving Outstanding the award @ NRSC on 27 Nov 2017
-![outstandingsupporter1](img/events/profdeekshatuluoutstandinggrsssupport#1.jpg?raw=true)
+![](img/events/Deekshatulu.jpg?raw=true)
 
 ### Featured Interviews
 
