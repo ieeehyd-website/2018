@@ -10,9 +10,9 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 
 |Designation|     Name        |    Organization|E-mail|#Membership|
 |-----------|-----------------|--------|-----------------|----------|
-|![CIS](img/ec/chair.jpg?raw=true) Chairman   |Naresh Kumar M   |NRSC, Hyderabad    |nareshm@ieee.org |SM 92101512|
-|![CIS](img/ec/vicechair.jpg?raw=true) ViceChair | KS Rajan |IIIT Hyderabad| rajan@iiit.ac.in| M 92104718|
-|![CIS](img/ec/secretary.jpg?raw=true) Secretary/Treasurer | T Hitendra Sarma |SRIT, Ananthapuramu |t.hitendrasarma@gmail.com |M 91168866|
+|![chair](img/ec/chair.jpg?raw=true) Chairman   |Naresh Kumar M   |NRSC, Hyderabad    |nareshm@ieee.org |SM 92101512|
+|![vicechair](img/ec/vicechair.jpg?raw=true) ViceChair | KS Rajan |IIIT Hyderabad| rajan@iiit.ac.in| M 92104718|
+|![secretary](img/ec/secretary.jpg?raw=true) Secretary/Treasurer | T Hitendra Sarma |SRIT, Ananthapuramu |t.hitendrasarma@gmail.com |M 91168866|
 |Member |Mousmi Ajay Chaurasia | MJCET, Hyderabad |mousmi.chaurasia@mjcollege.ac.in| M 91191414|
 |Member | Hari Priya Sakethapuram| NRSC, Hyderabad| priya.s@ieee.org |M 94573404|
 |Immediate Past Chairman |Atul Negi |UoH, Hyderabad| atul.negi@ieee.org| SM 3803707|
@@ -84,13 +84,22 @@ Mobile : 8008783737
 ## Reports
 
 ### 2017
-[Activities Report 2017] (https://drive.google.com/open?id=1sLarh8RZegdU7gBRmNbzvC7a5IonsdPM)
+[Activities Report 2017](https://drive.google.com/open?id=1sLarh8RZegdU7gBRmNbzvC7a5IonsdPM)
 
 ### L31
 
 ## Celebrating Volunteers and Supporters
 ### CIS Outstanding Supporter Award 2017
+#### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017
+![outstandingsupporter1](img/events/ProfSameenOutstandingcissupporter#1.jpg?raw=true)
+#### Dr. Kavitha, Assistant Professor & Addl.Controller of Examinations, CSE, JNTU Hyderabad receiving the award @ CSE Department, Osmania University on 18 Nov 2017
+![outstandingsupporter1](img/events/DrKavithaOutstandingcissupporter#2.jpg?raw=true)
+
+
 ### GRSS Outstanding Supporter Award 2017
+#### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving Outstanding the award @ NRSC on 27 Nov 2017
+![outstandingsupporter1](img/events/profdeekshatuluoutstandinggrsssupport#1.jpg?raw=true)
+
 ### Featured Interviews
 
 ## Call for Volunteers
