@@ -3,4 +3,10 @@ body {
     background:none;
     background-attachment: fixed;
     background-color: #f8f8f8;
+    font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-weight: normal;
+    color: #404040;
+    min-height: 100%;
+    overflow-x: hidden;
+    line-height: 2.0;
 }
