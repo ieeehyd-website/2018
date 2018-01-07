@@ -18,7 +18,13 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 |Immediate Past Chairman |Atul Negi |UoH, Hyderabad| atul.negi@ieee.org| SM 3803707|
 
 ## Opportunities
+### Educational Activities 2018 - Graduate Student Research Grants
 
+The IEEE CIS is inviting applications for funding opportunity, for deserving undergraduate, graduate and PhD students who need financial support to carry out their research during an academic break period. Any student with a meritorious project is invited to apply, but scholarships will be granted only to applicants who are student members of the IEEE CIS and students at the time the scholarship is awarded.
+The primary intent of these scholarships is to cover the expenses related to a visit to another university, institute or research agency for collaboration with an identified researcher in the field of interest of the applicant. Funds can be used to cover travel expenses as well as certain living expenses (such as housing). The field of interest of applicants is open, but should be connected with identifiable component of the CIS (neural networks, fuzzy systems, or evolutionary computation).
+The amount of a CIS scholarship varies from $1,000 to $4,000. We expect to award 3-5 scholarships, but it depends on the budget approved by CIS ADCOM. Deadline for submission of applications is Mar 15, 2018. Please refer to the details or contact Bing.Xue@ecs.vuw.ac.nz.
+
+[Source](https://ieee-cis.blogspot.co.uk/2018/01/educational-activities-2018-graduate.html)
 ## Awards and Achievements
 #### CIS Membership promotion Grant - $200  (2016)
 #### CIS Student Chapter - $ 200 (2016)
