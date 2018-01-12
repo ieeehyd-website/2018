@@ -173,3 +173,4 @@ Mobile : +91-9160146701
 
 ## Call for Volunteers
 ### Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us and get the best out of yourself.
+#### [Get in touch with us through mail](nareshm@ieee.org)
