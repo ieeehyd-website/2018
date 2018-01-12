@@ -56,7 +56,7 @@ community, and outline its potential use in a variety of domains. Deep learning 
 capable of making sense out of large volumes of disparate data, and (deep) reinforcement
 learning can deal with complex control and planning scenarios. Therefore, in combination, these
 techniques can be used to address many real world challenges.
-![](img/events/jml2017.jpg)
+![](img/events/jmc2017.jpg)
 ### First Richard Moore Memorial Lecture by Dr. Paul A. Rosen, JPL, NASA and Fellow IEEE
 #### Innovations in synthetic aperture radar: past, present and future
 Abstract :  The age ofspaceborne radar remote sensing was born in 1978 with the launch of SEASAT, an experimental satellite carry an array of microwave instruments − a radiometer, an altimeter, and a synthetic aperture radar. SEASAT demonstrated in its short lifespan theuniqueness and utility of radar’s all−weather day/night capabilities and led to a sustained and accelerating international growth in
@@ -83,7 +83,8 @@ upcoming initiatives that support future directions in Earth and planetary obser
 ## Forthcoming Events
 
 ## Past Events
-### Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH
+### 2018
+#### 2. Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH
 ##### Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM
 Venue:  CMSD Seminar Hall
 University of Hyderabad, Gachibowli, Hyderabad
@@ -92,75 +93,73 @@ Coordinator : Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS atul.negi@iee
 Mobile : 8008783737
 [Flyer Event#2](https://drive.google.com/open?id=1lUcQI6O11uVOILwr6zUiF7Wn7nKAOkOd)
 
-### Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET
+#### 1. Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET
 ##### Sunday, 07th January 2018 Timing: 3:00 PM to 4:30 PM
 Venue: Conference Hall, Ground Floor, Block-5 Muffakham Jah College of Engg. & Tech., Road no 3, Banjara hills, Hyderabad.
 Map https://goo.gl/maps/h83cW1cbVaS2
 Coordinator : Dr. Mousmi Ajay Chaurasia, IEEE MJCET CIS Chapter Advisor, mousmi.ksu@ieee.org,
 Mobile : +91-9160146701
 [Flyer Event#1](https://drive.google.com/open?id=17yXhIHsUjIQKsCcHxp5Du7D93kKSPqVL)
+### 2017
 
-### An Expert Talk on MINING FOR MEDICAL EXPERTISE @Saint Francis on 28-12-2017 10:30
+#### 23. An Expert Talk on MINING FOR MEDICAL EXPERTISE @Saint Francis on 28-12-2017 10:30
 
-### Social Evening with distinguished speaker Prof. Risto Miikkulainen -- @ Vivanta by Taj Begumpet, Hyderabad
+#### 22. Social Evening with distinguished speaker Prof. Risto Miikkulainen -- @ Vivanta by Taj Begumpet, Hyderabad
 
-### Repeat of the DL talk “Evolution of Neural Networks” by distinguished speaker Prof. Risto Miikkulainen -- @ Gokaraju Rangaraju Institute of Engineering and Technology, Kukatpally, Hyderabad
+#### 21. Repeat of the DL talk “Evolution of Neural Networks” by distinguished speaker Prof. Risto Miikkulainen -- @ Gokaraju Rangaraju Institute of Engineering and Technology, Kukatpally, Hyderabad
 
-### Repeat of the DL talk “Evolution of Neural Networks” by Distinguished speaker Prof. Risto Miikkulainen -- @ International Business Machines-India, Building 3, Raheja Mindspace , IBM corporation, Hyderabad
+#### 20. Repeat of the DL talk “Evolution of Neural Networks” by Distinguished speaker Prof. Risto Miikkulainen -- @ International Business Machines-India, Building 3, Raheja Mindspace , IBM corporation, Hyderabad
 
-### IEEE CIS Distinguished Lecture on “Evolution of Neural Networks” by Distinguished speaker Prof. Risto Miikkulainen -- @ International Institute of Information Technology, Hyderabad, Telangana India
+#### 19. IEEE CIS Distinguished Lecture on “Evolution of Neural Networks” by Distinguished speaker Prof. Risto Miikkulainen -- @ International Institute of Information Technology, Hyderabad, Telangana India
 
-### Workshop on Differential Evolution - Concepts, Implementation and Applications	@MEC 29-11-2017 14:30
+#### 18. Workshop on Differential Evolution - Concepts, Implementation and Applications	@MEC 29-11-2017 14:30
 
-### Workshop on Differential Evolution - Concepts, Implementation and Applications @MEC	29-11-2017 09:30
+#### 17. Workshop on Differential Evolution - Concepts, Implementation and Applications @MEC	29-11-2017 09:30
 
-### Social Evening with IEEE GRSS DL Dr. Ramapriyan	@Vivanta By Taj 28-11-2017 19:30
+#### 16. Social Evening with IEEE GRSS DL Dr. Ramapriyan	@Vivanta By Taj 28-11-2017 19:30
 
-### IEEE GRSS Distinguished Lecturer program @IIIT Hyderabad	28-11-2017 14:30
+#### 15. IEEE GRSS Distinguished Lecturer program @IIIT Hyderabad	28-11-2017 14:30
 
-### IEEE GRSS Distinguished Lecturer program	@NRSC 27-11-2017 11:30
+#### 14. IEEE GRSS Distinguished Lecturer program	@NRSC 27-11-2017 11:30
 
-### Felicitation of Prof. B.L. Deekshatulu for outstanding support to GRSS @NRSC 27-11-2017 11:30
+#### 13. Felicitation of Prof. B.L. Deekshatulu for outstanding support to GRSS @NRSC 27-11-2017 11:30
 
-### Richard Moore Memorial Lectures	@NRSC 21-11-2017 11:30
+#### 12. Richard Moore Memorial Lectures	@NRSC 21-11-2017 11:30
 
-### Social evening - Discussion on promoting geoscience and remote sensing - way ahead followed by dinner @ Vivanta by Taj,	20-11-2017 19:00
+#### 11. Social evening - Discussion on promoting geoscience and remote sensing - way ahead followed by dinner @ Vivanta by Taj,	20-11-2017 19:00
 
-### Renaissance in Radar Applications: Vision for Earth and Beyond	@IIIT Hyderabad 20-11-2017 15:00
+#### 10. Renaissance in Radar Applications: Vision for Earth and Beyond	@IIIT Hyderabad 20-11-2017 15:00
 
-### John McCarthy Memorial Lecture 2017	@Osmania University 18-11-2017 10:00
+#### 9. John McCarthy Memorial Lecture 2017	@Osmania University 18-11-2017 10:00
 
-### Workshop on Game theory with applications to Security @MJCET 06-10-2017 09:30
+#### 8. Workshop on Game theory with applications to Security @MJCET 06-10-2017 09:30
 
-### Technical Talk on Improved GA for Channel Allocation in Mobile Computing	@UOH 21-09-2017 15:00
+#### 7. Technical Talk on Improved GA for Channel Allocation in Mobile Computing	@UOH 21-09-2017 15:00
 
-### Technical Talk on Social Implications of Technology	@NRSC 15-09-2017 11:00
+#### 6. Technical Talk on Social Implications of Technology	@NRSC 15-09-2017 11:00
 
-### A Tutorial Talk on Applications of Fuzzy Logic using MATLAB	@MJCET 30-08-2017 09:30
+#### 5. A Tutorial Talk on Applications of Fuzzy Logic using MATLAB	@MJCET 30-08-2017 09:30
 
-### Felicitation of Prof. Kalyanmoy Deb @ IDRBT 	22-08-2017 11:00
+#### 4. Felicitation of Prof. Kalyanmoy Deb @ IDRBT 	22-08-2017 11:00
 
-### Workshop on Hadoop Basics & Advanced @SRIT Ananthpur	28-07-2017 11:00
+#### 3. Workshop on Hadoop Basics & Advanced @SRIT Ananthpur	28-07-2017 11:00
 
-### Seminar on Convolutional Neural Networks and Deep Machine learning	@IIIT Hyderabad 26-07-2017 15:00
+#### 2. Seminar on Convolutional Neural Networks and Deep Machine learning	@IIIT Hyderabad 26-07-2017 15:00
 
-### Workshop on Hadoop Basics	@IIT Hyderabad 08-04-2017 09:00
+#### 1. Workshop on Hadoop Basics	@IIT Hyderabad 08-04-2017 09:00
 
 
 ## Posters
-
-[SAGM 2017](https://drive.google.com/open?id=1o06NOaEiJQ92l1utrTkRXjFIYifnAVfV)
+### 2017
+#### [SAGM 2017](https://drive.google.com/open?id=1o06NOaEiJQ92l1utrTkRXjFIYifnAVfV)
 
 ## Reports
-
 ### 2017
-[Activities Report 2017](https://drive.google.com/open?id=1sLarh8RZegdU7gBRmNbzvC7a5IonsdPM)
-
-### L31
+#### [Activities Report 2017](https://drive.google.com/open?id=1sLarh8RZegdU7gBRmNbzvC7a5IonsdPM)
 
 ## Celebrating Volunteers and Supporters
 ### Felicatation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE
-![](img/events/debidrbt2017.jpg?raw=true)
+![](img/events/debdrbt2017.jpg?raw=true)
 ### CIS Outstanding Supporter Award 2017
 #### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017
 ![](img/events/Sameen.jpg?raw=true)
@@ -173,3 +172,4 @@ Mobile : +91-9160146701
 ### Featured Interviews
 
 ## Call for Volunteers
+### Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expetise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us and get the best out of yourself.
