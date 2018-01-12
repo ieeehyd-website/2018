@@ -37,24 +37,50 @@ The amount of a CIS scholarship varies from $1,000 to $4,000. We expect to award
 
 ## Downloads
 
-### Presentations
-#### Second Richard Moore Memorial Lecture by Prof. Raghu Kirshnapuram, Fellow IEEE
-Abstract :  
-     
+### Presentations 
+#### [Innovations in synthetic aperture radar: past, present and future](https://drive.google.com/open?id=1wdZo8ezkNcx4dI5_hXjGMRzoDgUKFDS1)
+#### [Recent developments in Artificial Intelligence and Potential Applications](https://drive.google.com/open?id=15MFuP7dwJFITZy4mym8-0I3gLPnlmkOe)
+
 ### Videos
-
-
-
-## Forthcoming Events
-
-
 
 ## Flagship Events
 
-### John McCarthy Memorial Lectures
+### Second John McCarthy Memorial Lecture by Prof. Raghu Krishnapuram, Fellow IEEE
+#### Recent developments in Artificial Intelligence and Potential Applications
+Abstract : In the recent past, many areas of artificial Intelligence (AI) such as machine learning and deep
+learning have seen developments at a breakneck speed. Major IT firms are investing heavily in
+these areas to gain a strategic advantage. This intense competition has resulted in many novel AI
+technologies, which are being incorporated into a plethora of applications in a variety of domains.
+This talk will provide an overview of the hype and reality behind the recent claims by the AI
+community, and outline its potential use in a variety of domains. Deep learning techniques are
+capable of making sense out of large volumes of disparate data, and (deep) reinforcement
+learning can deal with complex control and planning scenarios. Therefore, in combination, these
+techniques can be used to address many real world challenges.
+![](img/events/jml2017.jpg)
+### First Richard Moore Memorial Lecture by Dr. Paul A. Rosen, JPL, NASA and Fellow IEEE
+#### Innovations in synthetic aperture radar: past, present and future
+Abstract :  The age ofspaceborne radar remote sensing was born in 1978 with the launch of SEASAT, an experimental satellite carry an array of microwave instruments − a radiometer, an altimeter, and a synthetic aperture radar. SEASAT demonstrated in its short lifespan theuniqueness and utility of radar’s all−weather day/night capabilities and led to a sustained and accelerating international growth in
+the number and variety of radar instrumentsthat are orbiting Earth and the planets. Unlike optical sensors, radarsees the electrical
+and structural properties of an object and therefore give us a view of worlds that is quite different from our everyday experience.
+With wavelengthsthatspan a range from millimetersto kilometers, radars can scatterfrom ice crystals in clouds as well as penetrate
+deep into ice crusts of planetary objects. Spacefaring nations consider Earth imaging radar to be critical to theirscientific and oper−
+ational needs, and a growing number of systems are being launched around the world. The volume of radar data being acquired of
+Earth is growing rapidly as the benefits of continuous time−series around the globe are becoming apparent. Sophisticated
+techniques in change detection and quantitative geodesy using interferometric and polarimetric methods are revolutionizing the
+fields of solid earth science, glaciology, and ecosystems science, among others. Radar altimeters operationally measure ocean
+topography,mm−wavelength radarsounders profile cloud and precipitation, and scatterometers determine oceanwinds. These data
+are becoming essential climate records, with a scientific imperative for continuing measurements. With the availability of low−cost
+space−qualified digital hardware,radars are becomingmore flexible,more capable, and less expensive per unit area observed. Along
+with the standardization of cubesats and smallspacecraG, many companies are now planning dense constellations ofradarsatellites
+to feed the growing commercial market for radar imagery. In addition to facility−class missions are becoming more capable and
+flexible collecting petabytes of data each year. This will only grow in the future. In this talk, an overview of the major developments
+in spaceborne radar systems will be presented, highlighting the intersections of science and innovation in spaceborne radar
+developments, including some of the most interesting science and technology achievements obtained over the years, and describe
+upcoming initiatives that support future directions in Earth and planetary observations.
+![](img/events/rml2017.jpg)
+ 
 
-### Richard Moore Memorial Lectures
-
+## Forthcoming Events
 
 ## Past Events
 ### Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH
@@ -133,13 +159,13 @@ Mobile : +91-9160146701
 ### L31
 
 ## Celebrating Volunteers and Supporters
+### Felicatation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE
+![](img/events/debidrbt2017.jpg?raw=true)
 ### CIS Outstanding Supporter Award 2017
 #### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017
 ![](img/events/Sameen.jpg?raw=true)
 #### Dr. Kavitha, Assistant Professor & Addl.Controller of Examinations, CSE, JNTU Hyderabad receiving the award @ CSE Department, Osmania University on 18 Nov 2017
 ![](img/events/Kavitha.jpg?raw=true)
-
-
 ### GRSS Outstanding Supporter Award 2017
 #### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving the award @ NRSC on 27 Nov 2017
 ![](img/events/Deekshatulu.jpg?raw=true)
