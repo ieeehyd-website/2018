@@ -24,7 +24,7 @@ List of PES/IAS/PELS Joint chapter, Hyderabad section 2017 events
 
 2) DLP ON "SOLAR PV BASED STANDALONE GRID SYSTEMS FOR DEVELOPING COUNTRIES-ADVANTAGES OF D.C" (March 10, 2017)
 
-3) second Chapter Excom meeting (Apr 29, 2017)
+3) Second Chapter Excom meeting (Apr 29, 2017)
 
 4) Future direction meeting of PES/IAS/PELS Joint Chapter (Apr 30, 2017)
 
