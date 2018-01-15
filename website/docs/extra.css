@@ -37,12 +37,10 @@ h5 {
 }
 
 .bs-sidebar.affix {
-    position: fixed;
+    position: auto;
     top: 90px;
     background-color: transparent;
     border:0px solid #fff;
-    overflow-y:auto;
-    height: calc(100vh - 100px);
 }
 
 .well {
