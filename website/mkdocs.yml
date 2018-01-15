@@ -21,6 +21,11 @@ pages:
           - 'AGM 2018': 'section/agm/2018/agm-2018.md'
           - 'AGM 2017': 'section/agm/2017/agm-2017.md'
           - 'SAGM 2017': 'section/sagm/sagm-2017.md'
+      - 'Dashboard':
+          - 'Events': 'dashboard/events-summary.md'
+          - 'Membership': 'dashboard/membership-summary.md'
+          - 'Awards & Recognitions': 'dashboard/awards-recognitions-summary.md'
+          - 'Alumni Network': 'dashboard/alumni-network-summary.md'
       - 'Future Directions': 'section/future-directions/2018.md'
       - 'Industry Engagement': 'section/flagship-programs/industry-relations/industry/engagement.md'
       - 'IEEE Standards': 'section/flagship-programs/industry-relations/standards/participation.md'
@@ -119,11 +124,8 @@ pages:
           - 'Events': 'students/events/details.md'
           - 'Get Involved': 'students/get-involved/volunteering.md'
           - 'Opportunities': 'students/opportunities/jobs-internships.md'
-  - 'Dashboard':
-          - 'Events': 'dashboard/events-summary.md'
-          - 'Membership': 'dashboard/membership-summary.md'
-          - 'Awards & Recognitions': 'dashboard/awards-recognitions-summary.md'
-          - 'Alumni Network': 'dashboard/alumni-network-summary.md'
+  - 'Newsletters': 'section/newsletters/details.md'
+  
   - 'More...':
       - 'Upcoming Events': 'more/announcements/upcoming-events/upcoming-events.md'
       - 'Get Involved': 'section/get-involved/volunteering.md'
