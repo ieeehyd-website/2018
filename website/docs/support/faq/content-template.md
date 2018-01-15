@@ -1,4 +1,11 @@
-#### Before writing Chapter / AG / Section content, please get familiar with Markdown syntax.  
+# Website content
+---
+
+## Markdown
+---
+
+##### Before writing Chapter / AG / Section content, please get familiar with Markdown syntax.
+
 
 ```
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -6,10 +13,12 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Please keep shorter heading names and to the point. 
 Feel free to add content that is relevant to your Chapter / AG. Just follow the Markdown syntax and create content freely.  
 
-# Organization Name
+## Organization Name
+---
+
 ```
 For example:
-# IEEE Computational Intelligence, Geoscience and Remote Sensing Societies Joint Chapter
+## IEEE Computational Intelligence, Geoscience and Remote Sensing Societies Joint Chapter
 ```
 ```
 Place the logo appropriately sized. Contact webmaster@ieeehyd.org for support.
@@ -18,6 +27,8 @@ For example:
 ```
 
 ## About
+---
+
 ```
 For example:
 ## About IEEE CIS/GRSS  
@@ -27,12 +38,16 @@ for the benefit of Human kind. ...
 ```
 
 ## Recent Activities
+---
+
 ```
 For example:
 IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. ...
 ```
 
 ## Executive Committee 2018
+---
+
 | Name        | Designation | Organization    | Email Address  |
 | ------------|:------------|:----------------|:---------------|
 |   ...       | Chair       | ...             | ...            |
@@ -40,6 +55,7 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 |   ...       | Secretary   | ...             | ...            |
 |   ...       | Treasurer   | ...             | ...            |
 |   ...       | Member      | ...             | ...            |
+
 ```
 For example:
 
@@ -54,6 +70,8 @@ For example:
 
 ```
 ## Awards and Achievements
+---
+
 ```
 For example:
 ## Awards and Achievements
@@ -65,6 +83,8 @@ For example:
 ```
 
 ## Get Involved
+---
+
 ```
 For example
 ### Opportunities
@@ -73,6 +93,8 @@ Volunteers are strenght of IEEE...
 ```
 
 ## Forthcoming Events
+---
+
 ```
 For example:
 ### 1. Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET
@@ -84,6 +106,8 @@ Coordinator: Name and contact
 ```
 
 ## Past Events
+---
+
 ```
 For example:
 ### 1. Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET
@@ -95,21 +119,27 @@ Coordinator: Name and contact
 ``` 
 
 ## Posters
+---
+
 ```
 For example:
 ![Event#1](events/flyer/EV1.jpg?raw=true)
 ```
 
-## Celebrating Volunteers and Supporters
+## Volunteer Recognition
+---
+
 ```
 For example:
 Our start volunteer is now innovator of awesome gadget!
 ```
 
 ### Featured Interviews
+---
+
 ```
 For example:
 Our start volunteer is now innovator of awesome gadget!
 ```
 
-### Feel free to add content that is relevant to your Chapter / AG. Just follow the Markdown syntax and create content freely.
+> Feel free to add content that is relevant to your Chapter / AG. Just follow the Markdown syntax and create content freely.

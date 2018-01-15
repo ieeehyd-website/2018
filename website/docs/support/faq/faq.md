@@ -1,13 +1,10 @@
-# Frequently Asked Questions
+## Frequently Asked Questions
+---  
 
-| ** Can I add more pages to my Chapter and AG folders? **    |
-|:------------------------------------------------------------|
-| _Yes. If the newly added pages are listed in the build. It needs some organization of pages section the mkdocs.yml to include the newly added file(s). Cotact webmaster@ieeehyd.org for support._ |  
+#### Git process
+##### What is the Git process to be followed to update my Chapter / AG pages? 
+---
 
-
-| ** What is the Git process to be followed to update my Chapter / AG pages? **    |
-|:---------------------------------------------------------------------------------|  
-  
 1. Login to your GiHub account. Please create one at https://github.com  
 2. Select the ieeehyd-website/2018 repo.  
 Now go to https://github.com/ieeehyd-website/2018  
@@ -37,8 +34,13 @@ Time taken for the Step 7: 5 minutes. Just login and go to your forked repo an v
 ** What if the PULL request is rejected?  **  
 11. IF PULL Request is Rejected.. Go to the Step Step 5 and Follow the steps. In some cases, you have to fork again. This is one of the reasons, please limit your changes to your chapter folder only.  
 ** Publishing the content on to the Web **  
-12. Admin will build the changes and pushes to web hosting. 
+12. Admin will build the changes and pushes to web hosting.
 
-||
-|---|
+---
+
+#### More pages to add?
+##### Can I add more pages to my Chapter and AG folders?
+---
+
+Yes. If the newly added pages are listed in the build. It needs some organization of pages section the mkdocs.yml to include the newly added file(s). Cotact webmaster@ieeehyd.org for support.
 
