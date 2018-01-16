@@ -6,7 +6,7 @@
 
 IEEE CIS/GRSS Chapter Hyderabad is a vibrant group having members from both Industry and academia with sole mission of promoting computational Intelligence technologies that are of societal importance and benefit the Human kind. In the recent years we have seen a phenomenal growth in value driven businesses and mobile platforms that provide valuable user centric services to individuals. On the other hand advances in Geoscience and Remote sensing has transformed our understanding of the earth, oceans, atmosphere, and space systems through improved processing and interpretation. Many of the outcomes are being utilized for societal benefits. The continious collections of data from multiple variety of sensors from multiple satellites is resulting in large volumes of data. The challenges associated with processing and understanding is presently of wide interests to industry, research organizations and academia. The current focus of the Industry is to develop systems that can learn, behave in an intelligent manner to maximize their automation, the growth in utilization of remote sensing data there is huge scope and potential in the growth of CI technologies. The main goal of the chapter is to bring together professionals from academia and Industry to share their research findings on these frontiers. Also, one of our objectives is to harness the skills of young professionals and students through their involvement in the chapter activities. Volunteers are the veins of the chapter, so we are in continuous look out for strong self motivated individuals to volunteer and steer the chapter to realize its vision. We welcome your suggestions and participations in our activities.
 
-### History
+## History
 The Chapter was founded in 2011 by Dr. Amit Kumar. Dr. Amit Kumar chaired the chapter from 2011-2012. The chapter under his leadership received the outstanding CIS chapter award in 2013. Prof. Atul Negi chaired the chapter from 2013 to 2015. The present chair Dr. Naresh Kumar is steering the chapter from 2016 onwards. Under his leadership a computational intelligence, Geoscience and Remote Sensing societies joint chapter was envisaged and formed in 2017. His outstanding contributions as volunteer has won accolades from CIS resulting in yet another outstanding CIS chapter award for actitivites done in 2016.
 
 ## Activities  
@@ -27,7 +27,7 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 
 ## Opportunities  
 ---  
-#### Educational Activities 2018 - Graduate Student Research Grants
+### Educational Activities 2018 - Graduate Student Research Grants
 
 The IEEE CIS is inviting applications for funding opportunity, for deserving undergraduate, graduate and PhD students who need financial support to carry out their research during an academic break period. Any student with a meritorious project is invited to apply, but scholarships will be granted only to applicants who are student members of the IEEE CIS and students at the time the scholarship is awarded.  
 The primary intent of these scholarships is to cover the expenses related to a visit to another university, institute or research agency for collaboration with an identified researcher in the field of interest of the applicant. Funds can be used to cover travel expenses as well as certain living expenses (such as housing). The field of interest of applicants is open, but should be connected with identifiable component of the CIS (neural networks, fuzzy systems, or evolutionary computation).
@@ -51,7 +51,7 @@ CIS Outstanding Chapter Award - $2500 (2013)
 
 ## Flagship Events  
 ---  
-##### Second John McCarthy Memorial Lecture by Prof. Raghu Krishnapuram, Fellow IEEE
+### Second John McCarthy Memorial Lecture by Prof. Raghu Krishnapuram, Fellow IEEE
 Topic: **Recent developments in Artificial Intelligence and Potential Applications**  
 Abstract : In the recent past, many areas of artificial Intelligence (AI) such as machine learning and deep learning have seen developments at a breakneck speed. Major IT firms are investing heavily in
 these areas to gain a strategic advantage. This intense competition has resulted in many novel AI
@@ -64,7 +64,7 @@ techniques can be used to address many real world challenges.
 ![](img/events/jmc2017.jpg)  
 ---  
 
-##### First Richard Moore Memorial Lecture by Dr. Paul A. Rosen, JPL, NASA and Fellow IEEE
+### First Richard Moore Memorial Lecture by Dr. Paul A. Rosen, JPL, NASA and Fellow IEEE
 Topic: ** Innovations in synthetic aperture radar: past, present and future **  
 Abstract :  The age ofspaceborne radar remote sensing was born in 1978 with the launch of SEASAT, an experimental satellite carry an array of microwave instruments − a radiometer, an altimeter, and a synthetic aperture radar. SEASAT demonstrated in its short lifespan theuniqueness and utility of radar’s all−weather day/night capabilities and led to a sustained and accelerating international growth in the number and variety of radar instrumentsthat are orbiting Earth and the planets. Unlike optical sensors, radarsees the electrical and structural properties of an object and therefore give us a view of worlds that is quite different from our everyday experience.
 With wavelengthsthatspan a range from millimetersto kilometers, radars can scatterfrom ice crystals in clouds as well as penetrate deep into ice crusts of planetary objects. Spacefaring nations consider Earth imaging radar to be critical to theirscientific and operational needs, and a growing number of systems are being launched around the world. The volume of radar data being acquired of
@@ -81,7 +81,7 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 ## Past Events  
 ---  
-#### 2018
+### 2018
 2. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH**  
 Date and Time: Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM  
 Venue:  CMSD Seminar Hall University of Hyderabad, Gachibowli, Hyderabad
@@ -98,7 +98,7 @@ Coordinator : Dr. Mousmi Ajay Chaurasia, IEEE MJCET CIS Chapter Advisor, mousmi.
 Mobile : +91-9160146701  
 [Flyer Event#1](https://drive.google.com/open?id=17yXhIHsUjIQKsCcHxp5Du7D93kKSPqVL)
 
-#### 2017
+### 2017
 Event | Description     |
 |-----|-----------------|
 |23   | An Expert Talk on MINING FOR MEDICAL EXPERTISE @Saint Francis on 28-12-2017 10:30 |
@@ -129,7 +129,7 @@ Event | Description     |
 ## Posters  
 ---  
 
-#### 2017
+### 2017
 1. [SAGM 2017](https://drive.google.com/open?id=1o06NOaEiJQ92l1utrTkRXjFIYifnAVfV)
 
 ## Reports  
@@ -141,20 +141,20 @@ Event | Description     |
 ## Volunteer Recognition  
 ---   
 
-#### Felicatation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE  
+### Felicatation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE  
 ![](img/events/debdrbt2017.jpg?raw=true)  
 
-#### CIS Outstanding Supporter Award 2017  
+### CIS Outstanding Supporter Award 2017  
 
-##### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017   
+#### Prof. Sameen Fatima, Principal, UCE, Osmania University receiving the award @ CSE Department, Osmania University on 18 Nov 2017   
 ![](img/events/Sameen.jpg?raw=true)  
 
-##### Dr. Kavitha, Assistant Professor & Addl.Controller of Examinations, CSE, JNTU Hyderabad receiving the award @ CSE Department Osmania University on 18 Nov 2017  
+#### Dr. Kavitha, Assistant Professor & Addl.Controller of Examinations, CSE, JNTU Hyderabad receiving the award @ CSE Department Osmania University on 18 Nov 2017  
 ![](img/events/Kavitha.jpg?raw=true)  
 
-#### GRSS Outstanding Supporter Award 2017  
+### GRSS Outstanding Supporter Award 2017  
 
-##### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving the award @ NRSC on 27 Nov 2017  
+#### Prof. B.L. Deekshatulu, Life Fellow IEEE receiving the award @ NRSC on 27 Nov 2017  
 ![](img/events/Deekshatulu.jpg?raw=true)  
 
 ## Featured Interviews  

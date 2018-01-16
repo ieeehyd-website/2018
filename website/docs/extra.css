@@ -12,15 +12,17 @@ body {
     line-height: 2.0;
 }
 
+
 h1 {
-    font-size: 2em;
+    font-size: 2.2em;
     color: #e74c3c;
 }
 h2 {
-    font-size: 1.6em;
+    /* font-size: 1.6em; */
     color: #e74c3c;
 }
 
+/*
 h3 {
     font-size: 1.4em;
     color: #e74c3c;
@@ -35,7 +37,9 @@ h5 {
     font-size: 1.0em;
     color: #e74c3c;
 }
+*/
 
+*/
 .bs-sidebar.affix {
     position: auto;
     top: 90px;
