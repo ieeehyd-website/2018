@@ -97,7 +97,7 @@ techniques can be used to address many real world challenges.
 ---  
 
 ### First Richard Moore Memorial Lecture by Dr. Paul A. Rosen, JPL, NASA and Fellow IEEE
-Topic: ** Innovations in synthetic aperture radar: past, present and future **  
+#### Topic: Innovations in synthetic aperture radar: past, present and future  
 Abstract :  The age ofspaceborne radar remote sensing was born in 1978 with the launch of SEASAT, an experimental satellite carry an array of microwave instruments − a radiometer, an altimeter, and a synthetic aperture radar. SEASAT demonstrated in its short lifespan theuniqueness and utility of radar’s all−weather day/night capabilities and led to a sustained and accelerating international growth in the number and variety of radar instrumentsthat are orbiting Earth and the planets. Unlike optical sensors, radarsees the electrical and structural properties of an object and therefore give us a view of worlds that is quite different from our everyday experience.
 With wavelengthsthatspan a range from millimetersto kilometers, radars can scatterfrom ice crystals in clouds as well as penetrate deep into ice crusts of planetary objects. Spacefaring nations consider Earth imaging radar to be critical to theirscientific and operational needs, and a growing number of systems are being launched around the world. The volume of radar data being acquired of
 Earth is growing rapidly as the benefits of continuous time−series around the globe are becoming apparent.  
