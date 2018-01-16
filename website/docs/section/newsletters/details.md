@@ -1,7 +1,7 @@
 # Synapse Section Newsletter
 ---  
 
-** SYNAPSE is the Newsletter of the IEEE Hyderabad Section **
+**SYNAPSE is the Newsletter of the IEEE Hyderabad Section**
 
 ### 2017
 ---

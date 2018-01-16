@@ -1,6 +1,6 @@
 # IEEE CAS/EDS Joint Chapter  
 
-** IEEE Circuits and Systems/Electron Devices Society Joint Chapter. **  
+**IEEE Circuits and Systems/Electron Devices Society Joint Chapter.**  
 
 ---  
 

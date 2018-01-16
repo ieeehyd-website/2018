@@ -1,6 +1,6 @@
 ![](img/logo/logonew.jpg "Joint Chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies")
 # IEEE CIS/GRSS Joint Chapter
-** IEEE Computational Intelligence, Geoscience and Remote Sensing Societies Joint Chapter **
+**IEEE Computational Intelligence, Geoscience and Remote Sensing Societies Joint Chapter**
 
 ---
 
@@ -52,7 +52,7 @@ CIS Outstanding Chapter Award - $2500 (2013)
 ## Flagship Events  
 ---  
 ##### Second John McCarthy Memorial Lecture by Prof. Raghu Krishnapuram, Fellow IEEE
-Topic: ** Recent developments in Artificial Intelligence and Potential Applications **  
+Topic: **Recent developments in Artificial Intelligence and Potential Applications**  
 Abstract : In the recent past, many areas of artificial Intelligence (AI) such as machine learning and deep learning have seen developments at a breakneck speed. Major IT firms are investing heavily in
 these areas to gain a strategic advantage. This intense competition has resulted in many novel AI
 technologies, which are being incorporated into a plethora of applications in a variety of domains.
@@ -82,7 +82,7 @@ upcoming initiatives that support future directions in Earth and planetary obser
 ## Past Events  
 ---  
 #### 2018
-2. ** Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH **  
+2. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH**  
 Date and Time: Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM  
 Venue:  CMSD Seminar Hall University of Hyderabad, Gachibowli, Hyderabad
 Map  https://goo.gl/maps/tUJYUc1zAJA2
@@ -90,7 +90,7 @@ Coordinator: Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS atul.negi@ieee
 Mobile: 8008783737  
 [Flyer Event#2](https://drive.google.com/open?id=1lUcQI6O11uVOILwr6zUiF7Wn7nKAOkOd)
 
-1. ** Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET **  
+1. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET**  
 Date and Time: Sunday, 07th January 2018 Timing: 3:00 PM to 4:30 PM
 Venue: Conference Hall, Ground Floor, Block-5 Muffakham Jah College of Engg. & Tech., Road no 3, Banjara hills, Hyderabad.
 Map https://goo.gl/maps/h83cW1cbVaS2

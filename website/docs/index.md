@@ -1,8 +1,8 @@
 # IEEE Hyderabad Section 
 
-** Section Chair Name **: Dr. Lakshmi Narayana Merugu (2016, 2017)  
-** Year Started **: 1984  
-** Current Member Strength **: 5730  
+**Section Chair Name**: Dr. Lakshmi Narayana Merugu (2016, 2017)  
+**Year Started**: 1984  
+**Current Member Strength**: 5730  
 
 ## Section History
 
