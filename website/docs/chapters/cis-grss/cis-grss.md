@@ -1,7 +1,5 @@
 ![](img/logo/logonew.jpg "Joint Chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies")
-# IEEE CIS/GRSS Joint Chapter
-**IEEE Computational Intelligence, Geoscience and Remote Sensing Societies Joint Chapter**
-
+# Joint Chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies
 ---
 
 IEEE CIS/GRSS Chapter Hyderabad is a vibrant group having members from both Industry and academia with sole mission of promoting computational Intelligence technologies that are of societal importance and benefit the Human kind. In the recent years we have seen a phenomenal growth in value driven businesses and mobile platforms that provide valuable user centric services to individuals. On the other hand advances in Geoscience and Remote sensing has transformed our understanding of the earth, oceans, atmosphere, and space systems through improved processing and interpretation. Many of the outcomes are being utilized for societal benefits. The continious collections of data from multiple variety of sensors from multiple satellites is resulting in large volumes of data. The challenges associated with processing and understanding is presently of wide interests to industry, research organizations and academia. The current focus of the Industry is to develop systems that can learn, behave in an intelligent manner to maximize their automation, the growth in utilization of remote sensing data there is huge scope and potential in the growth of CI technologies. The main goal of the chapter is to bring together professionals from academia and Industry to share their research findings on these frontiers. Also, one of our objectives is to harness the skills of young professionals and students through their involvement in the chapter activities. Volunteers are the veins of the chapter, so we are in continuous look out for strong self motivated individuals to volunteer and steer the chapter to realize its vision. We welcome your suggestions and participations in our activities.
@@ -35,6 +33,32 @@ The amount of a CIS scholarship varies from $1,000 to $4,000. We expect to award
 
 [Source](https://ieee-cis.blogspot.co.uk/2018/01/educational-activities-2018-graduate.html)
 
+#### Hands-on Training on "Soil Moisture and Agricultural Monitoring using Microwave Remote Sensing", 7-9 Feb 2018, Ahmedabad Gujarat
+Space Applications Centre (SAC) in collaboration with IEEE GRSS is organizing a three days meet on soil moisture and agriculture monitoring using microwave remote sensing from February 7-9, 2018  at Ahmedabad. The training program is open to young researchers, scientists, students and professionals, who intend to familiarize with basics of SAR, Radiometry, SMAP, NISAR mission and methods for analyzing SAR data for soil moisture and crop monitoring. Faculty for the program are drawn from University of Massachusetts, SMAP team, NASA/JPL and ISRO/SAC. IEEE would provide travel support (up to INR10,000) to limited outstation IEEE GRSS members participating in the training program, on request basis, which can be used for travel/accommodation or both. Reimbursement would be made during the training program on  production of original receipt. Certificate: Participation certificate would be provided on completion of the training.
+
+Request for Travel Grants: Please submit your application for IEEE GRSS travel grant through the link given below.
+
+https://tinyurl.com/ya3yy45f
+Free Register:
+
+https://in.explara.com/e/smap-training/
+
+Space Applications Centre (SAC) has been playing an important role in utilizing space technology through its various applications for socio-economic development of the country. The centre is responsible for the development, realization and qualification of the payloads and related ground systems in the areas of communications, broadcasting, earth observations including remote sensing of natural resources, weather and environmental monitoring, etc. SAC is also a host institution for the training programs related to Satellite Communication and Meteorology activities of the Centre for Space Science & Technology Education in Asia and the Pacific (CSSTEAP) affiliated to the United Nations (UN).
+
+IEEE  Geoscience and Remote Sensing Society provides research and expert interaction opportunities and access to information on  the theory, concepts, and techniques of science and engineering as they apply to the remote sensing of the earth, oceans, atmosphere, and space, as well as the processing, interpretation and dissemination of this information. IEEE GRSS has established six local chapters in India namely Ahmedabad, Bangalore, Bombay, Delhi, Hyderabad and Kolkata (http://www.grss-ieee.org/community/chapters/). For membership, please follow the site at https://www.ieee.org/membership.
+
+NASA-ISRO Synthetic Aperture Radar (NISAR) is being developed jointly by JPL/NASA and ISRO. While ISRO is developing S-band SAR, NASA/JPL is working for the development of L-band SAR. The L- and S- band SAR data from this satellite would be  useful for a variety of applications including soil moisture and crop monitoring (https://nisar.jpl.nasa.gov/; http://www.sac.gov.in/nisar/). Thus, it is appropriate to create awareness on the use of SAR for soil moisture and crop monitoring using available SAR data from various missions.
+
+Soil Moisture Active Passive (SMAP) is an American environmental research satellite launched on 31 January 2015. SMAP is designed to measure soil moisture over a three-year period, every 2-3 days. This permits changes, around the world, to be observed over time scales ranging from major storms to repeated measurements of changes over the seasons.(https://smap.jpl.nasa.gov/)
+
+
+Contact:
+
+Dr. Shiv Mohan (shivmohan.isro@gmail.com)  
+
+Dr. Anup Kumar Das (anup@sac.isro.gov.in)
+
+
 ## Awards and Achievements  
 ---  
 > CIS Membership promotion Grant - $200  (2016)  
@@ -44,15 +68,22 @@ CIS Activity promotion grant  - $300 (2017)
 GRSS Grant on Special Fund - $3000 (2017)  
 CIS Outstanding Chapter Award - $2500 (2013)  
 
-## Downloads & Presentations  
+## Downloads
 ---  
-1. [Innovations in synthetic aperture radar: past, present and future](https://drive.google.com/open?id=1wdZo8ezkNcx4dI5_hXjGMRzoDgUKFDS1)  
-2. [Recent developments in Artificial Intelligence and Potential Applications](https://drive.google.com/open?id=15MFuP7dwJFITZy4mym8-0I3gLPnlmkOe)  
+### Presentations  
+1. [Innovations in synthetic aperture radar: past, present and future, by Dr. Paul A. Rosen, JPL, NASA RML 2017](https://drive.google.com/open?id=1wdZo8ezkNcx4dI5_hXjGMRzoDgUKFDS1)  
+2. [Recent developments in Artificial Intelligence and Potential Applications, Prof. Raghu Krishnapuram, Fellow IEEE, JMC 2017](https://drive.google.com/open?id=15MFuP7dwJFITZy4mym8-0I3gLPnlmkOe)
+
+### Videos
+1. IEEE CIS Distinguished Lecturer Program, Talk on "Evolution of Neural Networks", By Distinguished speaker Prof. Risto Miikkulainen, @ IBM Hyderabad, 14 Dec 2017
+[![IEEE CIS DL](https://i.ytimg.com/vi/6vYpvxdfhns/2.jpg?time=1516098823142)](https://youtu.be/6vYpvxdfhns "Evolution of Neural Networks")
 
 ## Flagship Events  
 ---  
 ### Second John McCarthy Memorial Lecture by Prof. Raghu Krishnapuram, Fellow IEEE
-Topic: **Recent developments in Artificial Intelligence and Potential Applications**  
+
+#### Topic: Recent developments in Artificial Intelligence and Potential Applications
+
 Abstract : In the recent past, many areas of artificial Intelligence (AI) such as machine learning and deep learning have seen developments at a breakneck speed. Major IT firms are investing heavily in
 these areas to gain a strategic advantage. This intense competition has resulted in many novel AI
 technologies, which are being incorporated into a plethora of applications in a variety of domains.
@@ -61,7 +92,8 @@ community, and outline its potential use in a variety of domains. Deep learning 
 capable of making sense out of large volumes of disparate data, and (deep) reinforcement
 learning can deal with complex control and planning scenarios. Therefore, in combination, these
 techniques can be used to address many real world challenges.
-![](img/events/jmc2017.jpg)  
+![](img/events/jmc2017.jpg) 
+
 ---  
 
 ### First Richard Moore Memorial Lecture by Dr. Paul A. Rosen, JPL, NASA and Fellow IEEE
@@ -77,7 +109,7 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 ## Forthcoming Events  
 ---  
-> To be announced soon  
+1. IEEE GRSS Distinguished Lecturer Program "Statistical Information Theory and Geometry for SAR Image Analysis", By Professor Alejandro C. Frery 14 Feb 2018  
 
 ## Past Events  
 ---  
