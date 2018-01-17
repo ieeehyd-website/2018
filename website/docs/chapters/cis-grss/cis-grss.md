@@ -38,10 +38,9 @@ Space Applications Centre (SAC) in collaboration with IEEE GRSS is organizing a 
 
 Request for Travel Grants: Please submit your application for IEEE GRSS travel grant through the link given below.
 
-https://tinyurl.com/ya3yy45f
-Free Register:
+[IEEE GRSS travel grant application](https://tinyurl.com/ya3yy45f)
 
-https://in.explara.com/e/smap-training/
+[Free Register](https://in.explara.com/e/smap-training/)
 
 Space Applications Centre (SAC) has been playing an important role in utilizing space technology through its various applications for socio-economic development of the country. The centre is responsible for the development, realization and qualification of the payloads and related ground systems in the areas of communications, broadcasting, earth observations including remote sensing of natural resources, weather and environmental monitoring, etc. SAC is also a host institution for the training programs related to Satellite Communication and Meteorology activities of the Centre for Space Science & Technology Education in Asia and the Pacific (CSSTEAP) affiliated to the United Nations (UN).
 
@@ -71,11 +70,13 @@ CIS Outstanding Chapter Award - $2500 (2013)
 ## Downloads
 ---  
 ### Presentations  
-1. [Innovations in synthetic aperture radar: past, present and future, by Dr. Paul A. Rosen, JPL, NASA RML 2017](https://drive.google.com/open?id=1wdZo8ezkNcx4dI5_hXjGMRzoDgUKFDS1)  
+1. [Innovations in synthetic aperture radar: past, present and future, by Dr. Paul A. Rosen, JPL, NASA RML 2017](https://drive.google.com/open?id=1wdZo8ezkNcx4dI5_hXjGMRzoDgUKFDS1) 
+
 2. [Recent developments in Artificial Intelligence and Potential Applications, Prof. Raghu Krishnapuram, Fellow IEEE, JMC 2017](https://drive.google.com/open?id=15MFuP7dwJFITZy4mym8-0I3gLPnlmkOe)
 
 ### Videos
 1. IEEE CIS Distinguished Lecturer Program, Talk on "Evolution of Neural Networks", By Distinguished speaker Prof. Risto Miikkulainen, @ IBM Hyderabad, 14 Dec 2017
+
 [![IEEE CIS DL](https://i.ytimg.com/vi/6vYpvxdfhns/2.jpg?time=1516098823142)](https://youtu.be/6vYpvxdfhns "Evolution of Neural Networks")
 
 ## Flagship Events  
@@ -119,15 +120,15 @@ Date and Time: Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM
 Venue:  CMSD Seminar Hall University of Hyderabad, Gachibowli, Hyderabad
 Map  https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator: Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS atul.negi@ieee.org
-Mobile: 8008783737  
-[Flyer Event#2](https://drive.google.com/open?id=1lUcQI6O11uVOILwr6zUiF7Wn7nKAOkOd)
+
+[Flyer Event#2](https://drive.google.com/open?id=1ZuWYuW_z-wLx7MV9gme-dqrlacT8xNYl)
 
 1. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET**  
 Date and Time: Sunday, 07th January 2018 Timing: 3:00 PM to 4:30 PM
 Venue: Conference Hall, Ground Floor, Block-5 Muffakham Jah College of Engg. & Tech., Road no 3, Banjara hills, Hyderabad.
 Map https://goo.gl/maps/h83cW1cbVaS2
 Coordinator : Dr. Mousmi Ajay Chaurasia, IEEE MJCET CIS Chapter Advisor, mousmi.ksu@ieee.org,
-Mobile : +91-9160146701  
+
 [Flyer Event#1](https://drive.google.com/open?id=17yXhIHsUjIQKsCcHxp5Du7D93kKSPqVL)
 
 ### 2017
@@ -162,13 +163,13 @@ Event | Description     |
 ---  
 
 ### 2017
-1. [SAGM 2017](https://drive.google.com/open?id=1o06NOaEiJQ92l1utrTkRXjFIYifnAVfV)
+1. [SAGM 2017](https://drive.google.com/open?id=17wemFLUwlHBweFMiSd5DLbvvCZsi1t5c)
 
 ## Reports  
 ---  
 
 #### 2017
-1. [Activities Report 2017](https://drive.google.com/open?id=1sLarh8RZegdU7gBRmNbzvC7a5IonsdPM)  
+1. [Activities Report 2017](https://drive.google.com/open?id=1t11xQ9Px_1m93fUAmsmJz1P4p90nmq0F)  
 
 ## Volunteer Recognition  
 ---   
@@ -197,4 +198,4 @@ Event | Description     |
 ---  
 Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us and get the best out of yourself.  
 
-##### [Get in touch with us through mail](nareshm@ieee.org)
+##### Get in touch with us or send your suggestions/queries to: [Naresh M, Founding Chairman, IEEE CIS/GRSS Joint Hyderabad Chapter](mailto:nareshm@ieee.org)
