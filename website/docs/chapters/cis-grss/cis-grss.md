@@ -74,6 +74,8 @@ CIS Outstanding Chapter Award - $2500 (2013)
 
 2. [Recent developments in Artificial Intelligence and Potential Applications, Prof. Raghu Krishnapuram, Fellow IEEE, JMC 2017](https://drive.google.com/open?id=15MFuP7dwJFITZy4mym8-0I3gLPnlmkOe)
 
+3. [Autonomous Car-- A New Driver for Resiliency and Testability, Dr. Nirmal R. Saxena, NVIDIA](https://drive.google.com/open?id=1q4lqtHwgmr0VZMbbSzjVhzod1EJcv0wc)
+
 ### Videos
 1. IEEE CIS Distinguished Lecturer Program, Talk on "Evolution of Neural Networks", By Distinguished speaker Prof. Risto Miikkulainen, @ IBM Hyderabad, 14 Dec 2017
 
