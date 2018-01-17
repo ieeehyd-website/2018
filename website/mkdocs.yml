@@ -10,129 +10,29 @@ markdown_extensions:
 
 pages:
   - 'Home': 'index.md'
-  - 'Section':
-      - 'Execom':
-          - '2018': 'section/execom/2018/slate-2018.md'
-          - '2017': 'section/execom/2017/slate-2017.md'
-      - 'SEC Proceedings': 'section/sec-proceedings/2018.md'
-      - 'Finances':
-          - '2017-2018': 'section/finances/finances.md'
-      - 'AGM & SAGM':
-          - 'AGM 2018': 'section/agm/2018/agm-2018.md'
-          - 'AGM 2017': 'section/agm/2017/agm-2017.md'
-          - 'SAGM 2017': 'section/sagm/sagm-2017.md'
-      - 'Dashboard':
-          - 'Events': 'dashboard/events-summary.md'
-          - 'Membership': 'dashboard/membership-summary.md'
-          - 'Awards & Recognitions': 'dashboard/awards-recognitions-summary.md'
-          - 'Alumni Network': 'dashboard/alumni-network-summary.md'
-      - 'Future Directions': 'section/future-directions/2018.md'
-      - 'Industry Engagement': 'section/flagship-programs/industry-relations/industry/engagement.md'
-      - 'IEEE Standards': 'section/flagship-programs/industry-relations/standards/participation.md'
-      - 'Flagship Programs':
-          - 'Conferences': 'section/flagship-programs/conferences/conferences.md'
-          - 'Faraday Memorial Lecture (FML)': 'section/flagship-programs/fml/fml.md'
-          - 'Section Student Congress (SSC)': 'section/flagship-programs/section-student-congress/ssc.md'
-          - 'SIGHT': 'section/flagship-programs/sight/sight.md'
-          - 'Skill Connect': 'section/flagship-programs/skill-connect/skill-connect.md'
-      - 'Get Involved': 'section/get-involved/volunteering.md'
-      - 'Member Benefits': 'support/member-benefits/member-benefits.md'
-      - 'FAQ': 'support/faq/faq.md'
-      - 'Contact': 'support/contact/ieeehyderabad.md'
-      - 'Archives': 'more/archives/years.md'
+  - 'Section': 'section/section.md'
   - 'Chapters/AG':
-          - 'Computer Society':
-                - 'About': 'chapters/cs/computers.md'
-                - 'Programs': 'chapters/cs/events/details.md'
-                - 'Get Involved': 'chapters/cs/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/cs/opportunities/jobs-internships.md'
-          - 'PES/IAS/PELS':
-                - 'About': 'chapters/pes-ias-pels/pes-ias-pels.md'
-                - 'Programs': 'chapters/pes-ias-pels/events/details.md'
-                - 'Get Involved': 'chapters/pes-ias-pels/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/pes-ias-pels/opportunities/jobs-internships.md'
-          - 'MTT/AP/EMC':
-                - 'About': 'chapters/mtt-ap-emc/mtt-ap-emc.md'
-                - 'Programs': 'chapters/mtt-ap-emc/events/details.md'
-                - 'Get Involved': 'chapters/mtt-ap-emc/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/mtt-ap-emc/opportunities/jobs-internships.md'
-          - 'ComSoc/SP':
-                - 'About': 'chapters/comsoc-sp/comsoc-sp.md'
-                - 'Programs': 'chapters/comsoc-sp/events/details.md'
-                - 'Get Involved': 'chapters/comsoc-sp/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/comsoc-sp/opportunities/jobs-internships.md'
-          - 'CIS/GRSS':
-                - 'About': 'chapters/cis-grss/cis-grss.md'
-                - 'Programs': 'chapters/cis-grss/events/details.md'
-                - 'Get Involved': 'chapters/cis-grss/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/cis-grss/opportunities/jobs-internships.md'
-          - 'Education Society':
-                - 'About': 'chapters/edusoc/edusoc.md'
-                - 'Programs': 'chapters/edusoc/events/details.md'
-                - 'Get Involved': 'chapters/edusoc/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/edusoc/opportunities/jobs-internships.md'
-          - 'Photonics':
-                - 'About': 'chapters/photonics/photonics.md'
-                - 'Programs': 'chapters/photonics/events/details.md'
-                - 'Get Involved': 'chapters/photonics/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/photonics/opportunities/jobs-internships.md'
-          - 'TEMS':
-                - 'About': 'chapters/tems/tems.md'
-                - 'Programs': 'chapters/tems/events/details.md'
-                - 'Get Involved': 'chapters/tems/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/tems/opportunities/jobs-internships.md'
-          - 'CAS/EDS':
-                - 'About': 'chapters/cas-eds/cas-eds.md'
-                - 'Programs': 'chapters/cas-eds/events/details.md'
-                - 'Get Involved': 'chapters/cas-eds/get-involved/volunteering.md'
-                - 'Opportunities': 'chapters/cas-eds/opportunities/jobs-internships.md'
-          - 'Women in Engineering (WiE)':
-                - 'About': 'affinity-groups/wie/wie.md'
-                - 'Programs': 'affinity-groups/wie/events/details.md'
-                - 'Get Involved': 'affinity-groups/wie/get-involved/volunteering.md'
-                - 'Opportunities': 'affinity-groups/wie/opportunities/jobs-internships.md'
-          - 'Young Professionals (YP)':
-                - 'About': 'affinity-groups/yp/yp.md'
-                - 'Programs': 'affinity-groups/yp/events/details.md'
-                - 'Get Involved': 'affinity-groups/yp/get-involved/volunteering.md'
-                - 'Opportunities': 'affinity-groups/yp/opportunities/jobs-internships.md'
+          - 'Computer Society': 'chapters/cs/computers.md'
+          - 'PES/IAS/PELS': 'chapters/pes-ias-pels/pes-ias-pels.md'
+          - 'MTT/AP/EMC': 'chapters/mtt-ap-emc/mtt-ap-emc.md'
+          - 'ComSoc/SP': 'chapters/comsoc-sp/comsoc-sp.md'
+          - 'CIS/GRSS': 'chapters/cis-grss/cis-grss.md'
+          - 'Education Society': 'chapters/edusoc/edusoc.md'
+          - 'Photonics': 'chapters/photonics/photonics.md'
+          - 'TEMS': 'chapters/tems/tems.md'
+          - 'CAS/EDS': 'chapters/cas-eds/cas-eds.md'
+          - 'Women in Engineering (WiE)': 'affinity-groups/wie/wie.md'
+          - 'Young Professionals (YP)': 'affinity-groups/yp/yp.md'
   - 'Sub-Sections': 
-          - 'Vizag Bay':
-                - 'About': 'sub-sections/vizag/vizag.md'
-                - 'SEC Proceedings': 'sub-sections/vizag/sec-proceedings/2018.md' 
-                - 'Flagship Programs': 'sub-sections/vizag/flagship-programs/programs.md'
-                - 'Events': 'sub-sections/vizag/events/details.md'
-                - 'Get Involved': 'sub-sections/vizag/get-involved/volunteering.md'
-                - 'Opportunities': 'sub-sections/vizag/opportunities/jobs-internships.md'
-          - 'Guntur (Amaravathi)': 
-                - 'About': 'sub-sections/guntur/guntur.md'
-                - 'SEC Proceedings': 'sub-sections/guntur/sec-proceedings/2018.md' 
-                - 'Flagship Programs': 'sub-sections/guntur/flagship-programs/programs.md'
-                - 'Events': 'sub-sections/guntur/events/details.md'
-                - 'Get Involved': 'sub-sections/guntur/get-involved/volunteering.md'
-                - 'Opportunities': 'sub-sections/guntur/opportunities/jobs-internships.md'
-          - 'Ananthapur': 
-                - 'About': 'sub-sections/ananthapur/ananthapur.md'
-                - 'SEC Proceedings': 'sub-sections/ananthapur/sec-proceedings/2018.md'
-                - 'Flagship Programs': 'sub-sections/ananthapur/flagship-programs/programs.md'
-                - 'Events': 'sub-sections/ananthapur/events/details.md'
-                - 'Get Involved': 'sub-sections/ananthapur/get-involved/volunteering.md'
-                - 'Opportunities': 'sub-sections/ananthapur/opportunities/jobs-internships.md'
-  - 'Students':
-          - 'About': 'students/students.md'
-          - 'Flagship Programs': 'students/flagship-programs/programs.md'
-          - 'Events': 'students/events/details.md'
-          - 'Get Involved': 'students/get-involved/volunteering.md'
-          - 'Opportunities': 'students/opportunities/jobs-internships.md'
+          - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
+          - 'Guntur (Amaravathi)': 'sub-sections/guntur/guntur.md'
+          - 'Ananthapur': 'sub-sections/ananthapur/ananthapur.md'
+  - 'Students': 'students/students.md'
   - 'Newsletters': 'section/newsletters/details.md'
-  
   - 'More...':
       - 'Upcoming Events': 'more/announcements/upcoming-events/upcoming-events.md'
       - 'Get Involved': 'section/get-involved/volunteering.md'
-      - 'Member Benefits': 'support/member-benefits/member-benefits.md'
       - 'FAQ': 'support/faq/faq.md'
-      - 'Policies': 'support/policies/policies.md'
       - 'Content Instructions': 'support/faq/content-template.md'
       - 'Contact': 'support/contact/ieeehyderabad.md'
-      - 'Archives': 'more/archives/years.md'
-  
+
