@@ -1,7 +1,17 @@
 ![](img/logo/logonew.jpg "Joint Chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies")
 # Joint Chapter of IEEE Computational Intelligence, Geoscience and Remote Sensing Societies
 ---
+## Vision
+---
+To be forefront in developing skills and leadership qualities through creation of ample oppurtunities for sharing knowledge, colloboration and networking for better future
 
+
+## Mission
+---
+To promote computional intelligence and related technologies in the areas of geoscience and remote sensing at Hyderabad  
+
+## About
+---
 IEEE CIS/GRSS Chapter Hyderabad is a vibrant group having members from both Industry and academia with sole mission of promoting computational Intelligence technologies that are of societal importance and benefit the Human kind. In the recent years we have seen a phenomenal growth in value driven businesses and mobile platforms that provide valuable user centric services to individuals. On the other hand advances in Geoscience and Remote sensing has transformed our understanding of the earth, oceans, atmosphere, and space systems through improved processing and interpretation. Many of the outcomes are being utilized for societal benefits. The continious collections of data from multiple variety of sensors from multiple satellites is resulting in large volumes of data. The challenges associated with processing and understanding is presently of wide interests to industry, research organizations and academia. The current focus of the Industry is to develop systems that can learn, behave in an intelligent manner to maximize their automation, the growth in utilization of remote sensing data there is huge scope and potential in the growth of CI technologies. The main goal of the chapter is to bring together professionals from academia and Industry to share their research findings on these frontiers. Also, one of our objectives is to harness the skills of young professionals and students through their involvement in the chapter activities. Volunteers are the veins of the chapter, so we are in continuous look out for strong self motivated individuals to volunteer and steer the chapter to realize its vision. We welcome your suggestions and participations in our activities.
 
 ## History
@@ -19,11 +29,26 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 |![chair](img/ec/chair.jpg?raw=true)          |Chairman: Naresh Kumar M |NRSC, Hyderabad    |nareshm@ieee.org  |SM 92101512|
 |![vicechair](img/ec/vicechair.jpg?raw=true)  |Vice Chairman: KS Rajan  |IIIT Hyderabad     |rajan@iiit.ac.in  | M 92104718|
 |![secretary](img/ec/secretary.jpg?raw=true)  |Secretary/Treasurer: T Hitendra Sarma|SRIT, Ananthapuramu|t.hitendrasarma@gmail.com|M 91168866|
-|Member                                       |Mousmi Ajay Chaurasia    |MJCET, Hyderabad |mousmi.chaurasia@mjcollege.ac.in |M 91191414|
+|![member](img/ec/Member1.jpg?raw=true)       |Member: Mousmi Ajay Chaurasia|MJCET, Hyderabad |mousmi.chaurasia@mjcollege.ac.in |M 91191414|
 |Member                                       |Hari Priya Sakethapuram  |NRSC, Hyderabad          |priya.s@ieee.org |M 94573404|
 |![Immediate Past Chairman](img/ec/immediatepastchair.jpg?raw=true) |Immediate Past Chairman: Atul Negi|UoH, Hyderabad|atul.negi@ieee.org|SM 3803707|
 
-## Opportunities  
+## Student Chapters
+---
+|Organizational Unit Name|	Position Description|	Name          |	Email Address|
+|------------------------|---------------------|--------------------|---------------|
+|Hyderabad Univ of	|Counselor|	Atul	Negi	|atul.negi@ieee.org|
+|Lakireddy Balireddy College Of Engineering|	Counselor|		Sai	Reddy-Seelam	|saisn90@gmail.com|
+|Natl Inst of Technology-Warangal|	Counselor|		Venkaiah	Chintham|	ch.venkaiah@gmail.com|
+|Raghu Institute of Technology|	Counselor|		Chowdary	Paladuga|	psr_satish@yahoo.com|
+|SVS Institute of Technology	|Counselor|		KRISHNA	PATTETI|	kpatteti@gmail.com|
+|Santhiram Engineering College|	Counselor|		R SEKHAR REDDI 	K|	raju.gprec@gmail.com|
+|Srinivasa Ramanujam Institute of Technology|	Chair|	praneel kumar peruru|		praneelkumarperuru@ieee.org|
+|                                           |Counselor|	HitendraSarma	Togerchety|	hitendrasarma@ieee.org|
+|Stanley Coll of Eng & Tech for Women|	Chair|		Olivia	Dullapalli|	dolivia125071@stanley.edu.in|
+
+
+## Opportunities  
 ---  
 ### Educational Activities 2018 - Graduate Student Research Grants
 
