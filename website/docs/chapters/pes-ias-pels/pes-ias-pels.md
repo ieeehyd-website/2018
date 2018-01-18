@@ -1,5 +1,6 @@
-# IEEE PES/IAS/PEoint Chapter
-**  IEEE PES/IAS/PELS Society Joint Chapter**  
+# IEEE PES/IAS/PELS Society Joint Chapter
+---
+ 
 A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it consists of PES/IAS/PELS members who share technical interests and geographical proximity.  This Joint Chapter provide PES/IAS/PELS members with the opportunity to meet and learn from fellow IEEE members. This Joint chpater is interested in advancement of the theory and practice of electrical and electronic engineering in the development, design, manufacture and application of electrical systems, apparatus, devices and controls to the processes and equipment of industry and commerce; promotion of safe, reliable and economic installations; industry leadership in energy conservation and environmental, health, and safety issues; creation of voluntary engineering standards and recommended practices; and the professional development of its membership. In striving to build knowledge and awareness of the latest technologies and other advances in Power and Energy, Industry Applications  and Power Electronics, the PES/IAS/PELS Societies' goal is to keep members current and competitive in the workplace, and provide them with the tools necessary to help them grow both personally and professionally.  We invite you to join us, and benefit from a world of invaluable information and support.
 
 ## Recent Activities
