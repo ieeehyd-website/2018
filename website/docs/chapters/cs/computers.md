@@ -4,20 +4,22 @@
 
 The IEEE Computer Society is the world's leading membership organization dedicated to computer science and technology. Serving more than 60,000 members, the IEEE Computer Society is the trusted information, networking, and career-development source for a global community of technology leaders that includes researchers, educators, software engineers, IT professionals, employers, and students. The IEEE Computer Society is the community for technology leaders. As the computing professional's single, unmatched source for technology information, inspiration and collaboration, we are the organization that computing's leaders, innovators, and researchers trust. IEEE Computer Society is a global network of technology professionals which provides computing and IT Professional with trusted, high quality, state-of-the art information on an demand-basis. Computer Society members network in 168 countries with 221 chapters.
 
-IEEE Computer Society Chapter under Hyderabad Section is driven with a Technology Passion to make a difference to the community. The group encompasses with enthusiastic members from Industry and academics. The Mission of IEEE Computer Society is to promote the usage of technology to influence the quality of Life in the society.  a Techno Enthusiasts group having members from both Industry and academia with sole mission of promoting Technology Knowledge and its relevance to make a strong impact to the change in the society. The goal of the IEEE Computer Society is to drive an understanding on technology impact technologies that are of societal importance and benefit the Human kind. Technology Trends driving the next generation revolution to drive the convergence of technologies, construct General Purpose Technology and shift from linear to exponential in adoption. Computer Society members work in Industry, Academica, Government and Self-Employed. Computer Society members are responsible for 
-  |     |       |
-|--------------------------------------------------------------|-----------------------------------------------------|
-| Software Development/Design Engineering                      | Internet of Things                                  |
-| Cloud Computing                                              | UI Design / Development                             |
-| Systems Engineering                                          | Website Applications Development                    |
-| Security and Privacy                                         | Artificial Inteligence                              |
-| Embedded Systems Development                                 | Quality Assurance                                   |
-| Data Analytics                                               | Multi-Core Programming                              |
-| IS / IT / ICT                                                | Computer Graphics and Progamming                    |
-| Mobile Application Development                               | Green Computing                                     |
-| High Performance Computing                                   | Big Data                                            |
-| Games and Simulation                                         | Smart Grid                                          |
-| Blockchain                                                   | Quantum Computing                                   |
+IEEE Computer Society Chapter under Hyderabad Section is driven with a Technology Passion to make a difference to the community. The group encompasses with enthusiastic members from Industry and academics. The Mission of IEEE Computer Society is to promote the usage of technology to influence the quality of Life in the society.  a Techno Enthusiasts group having members from both Industry and academia with sole mission of promoting Technology Knowledge and its relevance to make a strong impact to the change in the society. The goal of the IEEE Computer Society is to drive an understanding on technology impact technologies that are of societal importance and benefit the Human kind. Technology Trends driving the next generation revolution to drive the convergence of technologies, construct General Purpose Technology and shift from linear to exponential in adoption. Computer Society members work in Industry, Academica, Government and Self-Employed. Computer Society members are responsible for
+
+|                                            |                    |
+|:-------------------------------------------|--------------------|
+| Software Development/Design Engineering    | Internet of Things |
+| Cloud Computing                            | UI Design / Development|
+| Systems Engineering                        | Website Applications Development|
+| Security and Privacy                       | Artificial Inteligence|
+| Embedded Systems Development               | Quality Assurance |
+| Data Analytics                             | Multi-Core Programming|
+| IS / IT / ICT                              | Computer Graphics and Progamming|
+| Mobile Application Development             | Green Computing|
+| High Performance Computing                 | Big Data |
+| Games and Simulation                       | Smart Grid|
+| Blockchain                                 | Quantum Computing|
+
  
 ## Activities
 ---  
