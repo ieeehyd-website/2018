@@ -24,8 +24,7 @@ IEEE Women in Engineering (WIE) is one of the largest international professional
 |5   |IEEE & WIE Awareness Program. Kakatiya University, Warangal- 22nd April, 2017|
 |6   |Inauguration of WIE AG MREC Autonomous, Hyderabad- 3rd July, 2017|
 |7   |Inauguration of WIE AG KMIT, Hyderabad- 29th July, 2017|
-|8   |Imparting Interest in Engineering Skills among rural Girl students- Vizag Bay Section- 21st & 28th
-October, 2017|
+|8   |Imparting Interest in Engineering Skills among rural Girl students- Vizag Bay Section- 21st & 28th October, 2017|
 |9   |WIE Zonal congress, Warangal- 18th & 19th August, 2017|
 |10  |Industrial Visit, NRSC- 8th October, 2017|
 |11  |Insight of technology for Youngsters- 30th October, 2017|
@@ -42,12 +41,10 @@ October, 2017|
 |5   |Invited Talk at NNRG, Hyderabad- 25 th June,2016|
 |6   |Inauguration of WIE AG NNRG, Hyderabad- 25th June, 2016|
 |7   |Workhsop on Android APP Development, VITS Hyderabad- 16th July, 2016|
-|8   |Career Guidance and Opportunities for Women at Matrusri Engineering College, Hyderabad- 6th
-August, 2016|
+|8   |Career Guidance and Opportunities for Women at Matrusri Engineering College, Hyderabad- 6th August, 2016|
 |9   |Technical Colloquium, GCET- 17th September, 2016|
 |10  |Inauguration of WIE AG GNITC, Hyderabad- 19th October, 2016|
 |11  |Sustainable Practices, VITS Hyderabad- 24th October, 2016|
-|12  |Imparting Enlightment in Engineering Education in Tribal Girl Students, Vizag Bay Section- 22nd &
-29th October, 2016|
+|12  |Imparting Enlightment in Engineering Education in Tribal Girl Students, Vizag Bay Section- 22nd & 29th October, 2016|
 |13 |R10 50 th Year Celebration and Launching of all Hyderabad WIE AG Network- 1st Noember, 2016.|
 
