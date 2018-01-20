@@ -21,8 +21,8 @@ The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chair
 
 #### Links
 
-1. [SLATE 2018 of IEEE Hyderabad Section](/execom/2018/IEEEHydSECSlate2018.pdf)
-2. [Pre-Audited Balance Sheet for the year 2017](/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)
+1. [SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
+2. [Pre-Audited Balance Sheet for the year 2017](/section/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)
 3. [IEEE Hyderabad Section ByLaws](/section/society/Bylaws_IEEEHYD_Jun_2010.pdf)
 
 > NOTE: Only higher garde members (GSM, Associates, Members, Senior Members, Life Members, Life Senior Members, Fellows, Life Fellows) are eligible to attend the AGM.
