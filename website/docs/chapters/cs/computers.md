@@ -1,6 +1,14 @@
 [](img/logo/ComputerSocietyLogo-RGB.gif "IEEE Computer Society")
 # IEEE Computer Society Chapter
+
 ---
+
+All major areas of computing and information technology: computer hardware, software, multimedia, IT, security, networking, mobile computing, and more.
+[Read on IEEE...](https://www.ieee.org/membership_services/membership/societies/membership_societies_index.html)
+
+|                                                                  |                           |
+|------------------------------------------------------------------|---------------------------|
+|[![CS](/media/chapters/cs-logo.png)](/chapters/cs/computers.md)   |                           |
 
 The IEEE Computer Society is the world's leading membership organization dedicated to computer science and technology. Serving more than 60,000 members, the IEEE Computer Society is the trusted information, networking, and career-development source for a global community of technology leaders that includes researchers, educators, software engineers, IT professionals, employers, and students. The IEEE Computer Society is the community for technology leaders. As the computing professional's single, unmatched source for technology information, inspiration and collaboration, we are the organization that computing's leaders, innovators, and researchers trust. IEEE Computer Society is a global network of technology professionals which provides computing and IT Professional with trusted, high quality, state-of-the art information on an demand-basis. Computer Society members network in 168 countries with 221 chapters.
 
@@ -20,13 +28,15 @@ IEEE Computer Society Chapter under Hyderabad Section is driven with a Technolog
 | Games and Simulation                       | Smart Grid|
 | Blockchain                                 | Quantum Computing|
 
- 
 ## Activities
----  
+
+---
+
 IEEE Computer Society chapter Hyderabad Section has organized more than 20 events this year. We have organized Technical Seminars, Faculty Development Programs, Technology Workshops, Webinars and Student Congress Conference with IEEE Distinguished Speakers and experts coming from Industry, Academia and other professional bodies.  Recently, we have organized a flagship Conference on "Demystifying AI and Blockchain" as IEEE All Hyderabad Section ComputerS Society Student Congress at Vaagdevi College of Engineering, Warangal. This conference was attended by over 300 delegates giving deeper insights into AI and Blockchain with a view on Real-time projects.
 
-## Executive Committee  
----  
+## Executive Committee
+
+---
 
 |                                             | Name & Designation      |Organization       |E-mail            |#Membership      |
 |---------------------------------------------|-------------------------|-------------------|------------------|-----------------|
@@ -35,9 +45,10 @@ IEEE Computer Society chapter Hyderabad Section has organized more than 20 event
 |![secretary](img/ec/secretary.jpg?raw=true)  |Secretary/Treasurer: Dr M A Jabbar |Vardhaman College of Engineering,Hyderabad|jabbar.meerja@gmail.com|SM 91119906|
 |![Immediate Past Chairman](img/ec/immediatepastchair.jpg?raw=true) |Immediate Past Chairman: Kolluru Sudhakar|Novartis, Hyderabad|sudhakar.kolluru@gmail.com||
 
+## Flagship Events
 
-## Flagship Events  
----  
+---
+
 ### IEEE Hyderabad Section Computer Society Student Congress
 
 #### Topic: Demystifying AI and Blockchain
@@ -45,9 +56,10 @@ IEEE Computer Society chapter Hyderabad Section has organized more than 20 event
 Abstract :IEEE All Hyderabad Computer Society Student Congress brings you "Demystifying AI and Blockchain Conference" between January 5, 2018 to January 7, 2018 at Vaagdevi College of Engineering. The congress aim is to bring the connection among the students to collaborate together on new technology ideas and understand the new dimension of changes in the advancement of computing technologies. Driving the advancement is to affirm human life. This platform enables students to have simplified understanding of AI and Blockchain and help you understand how it can help in building scalable applications for the industry.
 ![](img/events/Picture9.jpg) ![](img/events/Picture10.jpg)
 
---- 
+---
 
 ### 2017 and 2018
+
 Event | Description     |
 |-----|-----------------|
 |23   | IEEE AHCSSC - Demystifying AI and Blockchain, Vaagdevi College of Engineering, Jan 5 to Jan 7, 2018 |
@@ -75,11 +87,10 @@ Event | Description     |
 | 2   | IEEE CS Chapter Inauguration : Vaagdevi College of Engineering, Warangal  |
 | 1   | Conference:Emerging Trends in Intelligent Machines, in collaboration with Industrial Relations Committee  |
 
+## Call for Volunteers
 
-
-
-# Call for Volunteers 
 ---
-olunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us in IEEE Computer Society Chapter and get the best out of yourself to Create Impact.
+
+Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us in IEEE Computer Society Chapter and get the best out of yourself to Create Impact.
 
 #### [Get in touch with us through mail](bala.peddigari@ieee.org or balasparks@gmail.com)

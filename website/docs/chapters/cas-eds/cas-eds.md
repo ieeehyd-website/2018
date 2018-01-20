@@ -1,22 +1,24 @@
-# IEEE CAS/EDS Joint Chapter  
+# IEEE CAS/EDS Joint Chapter
+
+** IEEE Circuits and Systems/Electron Devices Society Joint Chapter. **
 
 ---
 
-#### IEEE Circuits and Systems/Electron Devices Society Joint Chapter
-
-|                                                                     |                                |
-|-------------------------------------------------------------------- |--------------------------------|
-|[![CAS](/media/chapters/cass-logo.gif)](/chapters/cas-eds/cas-eds.md)|[![EDS](/media/chapters/eds-logo.png)](/chapters/cas-eds/cas-eds.md) |
+|                                                                   |                            |
+|------------------------------------------------------------------:|:---------------------------|
+|[![CAS](/media/chapters/cass-logo.png)](/chapters/cas-eds/cas-eds.md)|[![EDS](/media/chapters/eds-logo.png)](/chapters/cas-eds/cas-eds.md) |
 
 CAS's unique and profound expertise in circuits, systems, signals, modeling, analysis, and design have a decisive impact on sustainable energy, bio-health, green information technology, nano-technology, and scalable information technology systems. Membership includes access to multiple periodicals, networking opportunities, and reduced conference registration rates.
 
 EDS promotes excellence in the field of electron devices by enhancing the quality of life for humanity through its members’ contributions in R&D, manufacturing, and application of electronic and ionic devices. Membership includes access to multiple periodicals, opportunities to network with peers, the Resource Center, and exclusive webinars.  
 
 ### History
+
 The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was established in 2011 in IEEE Hyderabad Section. In a short period of time that chapter has become one of the most active society chapters of Hyderabad section. It has organised three IEEE International Conferences - PrimeAsia 2012, PrimeAsia 2013 and PrimeAsia 2015.  It has established International Linkages with - IEEE CAS Japan, Singapore, Malaysia, Indonesia and Sri Lanka by way of conducting joint workshops and conferences in collaboration with these countries. The chapter aims at bidding for ISCAS and APCCAS to bring them to Hyderabad.
 
 ## Executive Committee 2018
----  
+
+---
 
 | Name                     | Designation                     | Organization                 | Email Address                     |
 | -------------------------|:--------------------------------| :--------------------------- | :-------------------------------- |

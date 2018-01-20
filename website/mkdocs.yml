@@ -14,7 +14,7 @@ pages:
     - 'Section': 
                 - 'IEEE Hyderabad Section': 'section/section.md'
                 - 'Future Directions Committee': 'section/future-directions/2018.md'
-                - 'Newsletters': 'section/newsletters/details.md'
+                - 'News Room': 'news-room/details.md'
                 - 'Contact': 'support/contact/ieeehyderabad.md'
     - 'Sub-Sections': 
                 - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
@@ -56,7 +56,7 @@ pages:
                 - 'Student Branches': 'students/branches/sbs.md'
 
     - 'More...':
-        - 'Newsletters': 'section/newsletters/details.md'
+        - 'News Room': 'news-room/details.md'
         - 'Upcoming Events': 'more/announcements/upcoming-events/upcoming-events.md'
         - 'Get Involved': 'section/get-involved/volunteering.md'
         - 'FAQ': 'support/faq/faq.md'

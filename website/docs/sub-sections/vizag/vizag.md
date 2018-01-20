@@ -10,7 +10,16 @@ There are more than 200 professional members and around 1000 student members as 
 
 > To be announced.
 
-## Past Chairmen
+## Past Events Report
+
+---
+
+### 2017
+
+[IEEE Vizag Bay Sub Section Report 2017](/sub-sections/vizag/events/Events_2017_Vizag_Bay.pdf)
+
+## Sub-Section Chairmen
+
 ---
 
 Year       | Name of the Chairman     |
@@ -21,10 +30,10 @@ Year       | Name of the Chairman     |
 |2017-18   | Dr. Abraham Varughese. (Present) |
 
 ## Contact
+
 ---
 
 For more information and assocaite with IEEE Vizag Bay Sub Section, Please contact:  
 1. abraham.v@nstl.drdo.in  
 2. vijaya.m@nstl.drdo.in  
 3. sln@ieee.org
-
