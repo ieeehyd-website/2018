@@ -13,9 +13,8 @@ pages:
 
     - 'Section': 
                 - 'IEEE Hyderabad Section': 'section/section.md'
+                - 'Future Directions Committee': 'section/future-directions/2018.md'
                 - 'Newsletters': 'section/newsletters/details.md'
-                - 'Member Benefits': 'support/member-benefits/member-benefits.md'
-                - 'Policies': 'support/policies/policies.md'
                 - 'Contact': 'support/contact/ieeehyderabad.md'
     - 'Sub-Sections': 
                 - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
