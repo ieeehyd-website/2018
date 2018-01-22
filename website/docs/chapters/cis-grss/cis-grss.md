@@ -33,20 +33,34 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 |![member](img/ec/member2.jpg?raw=true)       |Member : Hari Priya Sakethapuram  |NRSC, Hyderabad          |priya.s@ieee.org |M 94573404|
 |![Immediate Past Chairman](img/ec/immediatepastchair.jpg?raw=true) |Immediate Past Chairman: Atul Negi|UoH, Hyderabad|atul.negi@ieee.org|SM 3803707|
 
-## Student Chapters
+## Student Branch Chapter
 ---
-|Organizational Unit Name|	Position Description|	Name          |	Email Address|
-|------------------------|---------------------|--------------------|---------------|
-|Hyderabad Univ of	|Counselor|	Atul	Negi	|atul.negi@ieee.org|
-|Lakireddy Balireddy College Of Engineering|	Counselor|		Sai	Reddy-Seelam	|saisn90@gmail.com|
-|Natl Inst of Technology-Warangal|	Counselor|		Venkaiah	Chintham|	ch.venkaiah@gmail.com|
-|Raghu Institute of Technology|	Counselor|		Chowdary	Paladuga|	psr_satish@yahoo.com|
-|SVS Institute of Technology	|Counselor|		KRISHNA	PATTETI|	kpatteti@gmail.com|
-|Santhiram Engineering College|	Counselor|		R SEKHAR REDDI 	K|	raju.gprec@gmail.com|
-|Srinivasa Ramanujam Institute of Technology|	Chair|	praneel kumar peruru|		praneelkumarperuru@ieee.org|
-|                                           |Counselor|	HitendraSarma	Togerchety|	hitendrasarma@ieee.org|
-|Stanley Coll of Eng & Tech for Women|	Chair|		Olivia	Dullapalli|	dolivia125071@stanley.edu.in|
+### Muffakham Jah College of Engineering and Technology, Hyderabad 
 
+### Srinivasa Ramanujam Institute of Technology, Anantapur
+
+## Pre-College Materials
+---
+The CIS Pre-College Activities Subcommittee has prepared some CI-related introductory materials, which may be helpful for you to promote your activities for pre-college students and industry members. There are two packages, including the Artificial Neural Networks pack and Fuzzy Logic pack. You can find more details below:
+
+### Artificial Neural Networks pack comprises of:
+An interactive power point presentation which examines how we learn using our brain and examines, what exactly is an artificial neural network
+A basic introduction to how an artificial neural network learns.
+Introduction to a simple Eyeball Neural Network and associated activity- how does the network learn to detect apples?
+A hands-on classroom activity where you get to identify features and classify items in a bag.
+
+[Download Artificial Neural Networks Pre-College material](https://drive.google.com/open?id=169b-DFsZNinlH8CDNl-E7HDGvRBjFqsG) 
+
+### Fuzzy Logic pack comprises of:
+An interactive power point presentation featuring key facts and introductory information on fuzzy logic and fuzzy systems
+Two activity sheets, which can be completed as part of a classroom tutorial
+A Teachers lesson plan giving suggestions on how to use the teaching pack with timings for each section and a guide on how to run the activities 
+
+[Download Fuzzy Logic Pre-college material](https://drive.google.com/open?id=15zUj3G3WD0wZJqJG7-zgdZqth9U932_k) 
+
+#### If you have any questions, please feel free to contact Manuel Roveri (manuel.roveri@polimi.it) and Amir Hussain (hussain.doctor@gmail.com), from Pre-College Activities Subcommittee, or ayslam@eee.hku.hk.
+
+### Please cite this website if you are using this material in your course work.
 
 ## Opportunities  
 ---  
