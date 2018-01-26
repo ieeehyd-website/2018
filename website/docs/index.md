@@ -4,16 +4,21 @@
 
 **Section Chair Name**: Dr. Lakshmi Narayana Merugu (2016, 2017)  
 **Year Started**: 1984  
-**Current Member Strength**: 5730  
+**Current Member Strength**: 5730+
 
-## AGM 2018
+## Vision
+
+> TO BE AN ESSENTIAL RESOURCE FOR THE PROFESSIONAL DEVELOPMENT IN SPECIFIC FIELDS OF INTEREST OF IEEE FOR THE BENEFIT OF MANKIND.
+
+## Mission
+
+> TO PROVIDE A PLATFORM FOR KNOWLEDGE SHARING, NETWORKING, AND CAREER DEVELOPMENT TO THE LOCAL TECHNICAL COMMUNITY.
 
 ---
 
+## Annual General Body Meeting (AGM) 2018
+
 The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chairman of IEEE Hyderabad Section), Dr N V Rao (Past Chairman of IEEE Hyderabad Section) and M G P L Narayana (Past Chairman of IEEE Hyderabad Section) recommended the SLATE 2018. The new committee will become the Office bearers of the Section after the AGM on 28-Jan-2018.
-
-
-#### Annual General Body Meeting (AGM) 2018
 
 ##### Section AGM to be held on Sunday, 28th January, 2018 from 10 am to 12:30 pm, followed by lunch, at the Plaza Hotel, Begumpet.
 
