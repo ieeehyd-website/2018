@@ -2,9 +2,9 @@
 
 ---
 
-**Section Chair Name**: Dr. Lakshmi Narayana Merugu (2016, 2017)  
+**Section Chair Name**: Dr. Lakshminarayana Merugu (2016, 2017)  
 **Year Started**: 1984  
-**Current Member Strength**: 5730+
+**Current Member Strength**: 5800+
 
 ## Vision
 
@@ -15,6 +15,56 @@
 > TO PROVIDE A PLATFORM FOR KNOWLEDGE SHARING, NETWORKING, AND CAREER DEVELOPMENT TO THE LOCAL TECHNICAL COMMUNITY.
 
 ---
+
+## Member Statistics
+
+---
+
+Guntur Sub-Section           |        |
+|----------------------------|--------|
+|Fellow                      |1       |
+|Graduate Student Member     |38      |
+|Life Fellow                 |1       |
+|Life Member                 |1       |
+|Member                      |120     |
+|Senior Member               |12      |
+|Student Member              |207     |
+|Associate Member            |0       |
+
+Viag Bay Sub-Section         |        |
+|----------------------------|--------|
+|Fellow                      |0       |
+|Graduate Student Member     |79      |
+|Life Fellow                 |0       |
+|Life Member                 |0       |
+|Member                      |392     |
+|Senior Member               |42      |
+|Student Member              |981     |
+|Associate Member            |4       |
+
+Hyderabad  Section           |        |
+|----------------------------|--------|
+|Fellow                      |0       |
+|Graduate Student Member     |330     |
+|Life Fellow                 |6       |
+|Life Member                 |4       |
+|Life Senior                 |9       |
+|Member                      |1076    |
+|Senior Member               |161     |
+|Student Member              |2317    |
+|Associate Member            |30      |
+
+### Total Members: 5811
+
+
+## Executive Committee (2017)
+
+---
+
+[SLATE 2017 of IEEE Hyderabad Section](/section/execom/2017/IEEEHydSEC_Slate_2017.pdf)
+
+[More about IEEE Hyderabad Section...](/section/section.md)
+
 
 ## Annual General Body Meeting (AGM) 2018
 
@@ -185,3 +235,11 @@ The IEEE Young Professionals is an international community of innovative members
 IEEE Hyderabad Section constituted an exclusive committee under the chairmanship of C. Satish in the SEC-9/2016 held on 16 Oct 2016. The main objectives of the committe are recommendations to aligh the global objectives of IEEE and exclusively for the benefit of the members of IEEE Hyderbad Section.
 
 [More about the committee...](/section/future-directions/2018.md)
+
+[Future Direction Committee Report](/section/future-directions/FutureDirectionsCommittee-Report-2017.pdf)
+
+## More about the Section
+
+---
+
+[Read more about IEEE Hyderabad Section...](/section/section.md)
