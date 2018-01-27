@@ -68,7 +68,11 @@ The event specially focuses on providing a platform to all the Student Branches 
 The convention provides a forum and an opportunity for our future entrepreneurs to share their ideas and will give a head start to their career growth. Various technical and non-technical events are being planned during the two day Congress.
 
 Finally, the IEEE Hyderabad Section extends its warm welcome to all the Student Members, Branch Counselors and office bearers of the Student Branches to come and be a part of this mega event to be held on 4th and 5th of November, 2017.
-![](img/Picture9.jpg) ![](img/Picture10.jpg)
+![](img/IMG_3807.jpg) 
+
+![](img/IMG_3781.jpg) 
+
+![](img/DSC_0080.jpg)
 
 ---
 
