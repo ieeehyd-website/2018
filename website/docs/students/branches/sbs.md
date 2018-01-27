@@ -13,19 +13,20 @@ To start a Student Branch, here are the steps to be followed.
 
 Basic necessities :
 
-1 : Three faculty members
-2 : Min. 20 student members needed to start a Student Branch
-3 : Bank Account Details
+1. Three faculty members
+2. Min. 20 student members needed to start a Student Branch
+3. Bank Account Details
 
-#### (Note: Faculty and Students have to take up the IEEE Membership)
+**(Note: Faculty and Students have to take up the IEEE Membership)**
 
 With the above, one has to file the petition.
 
-The petition can be found [here.](https://www.ieee.org/societies_communities/geo_activities/forms_petitions/forms_petitions_index.html) Fill up the petition form especially pages 3 to 9 
-and then scan the same and make a pdf of it sequentially and mail it to *petition@ieee.org* and mark a cc to us.
+The petition can be found [here.](https://www.ieee.org/societies_communities/geo_activities/forms_petitions/forms_petitions_index.html) Fill up the petition form especially pages 3 to 9 and then scan the same and make a pdf of it sequentially and mail it to *petition@ieee.org* and mark a cc to us.
+
 or any further queries on the same, kindly feel free to communicate with us.
-SAC Chair - Mr. Venkata Rami Reddy (dvrreddy1@ieee.org)
-SSR - Mr. S.Sai Thejeshwar (ssai.thejeshwar.in@ieee.org)
+
+**SAC Chair - Mr. Venkata Rami Reddy (dvrreddy1@ieee.org)
+SSR - Mr. S.Sai Thejeshwar (ssai.thejeshwar.in@ieee.org)**
 
 
 ## IEEE Hyderabad Section Student Branches
