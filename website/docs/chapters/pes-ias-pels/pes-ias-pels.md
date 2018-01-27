@@ -29,7 +29,52 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 
 ---
 
-1. Strategy plan to win chapter outstanding award (Dec 27, 2017)
+Strategy plan to win chapter outstanding award (Dec 27, 2017)
+PES/IAS/PLS  Ideation Meeting Notes held on 27/12/2017 at Plaza Hotel
+
+1.	Sign MOU with Industry to formulate and rollout programs mutually beneficial.
+    a.	Not practical in  Indian situation .Case by case attempt can be made to associate the Industry. In the past NTPC, PGCI, TSSPDCL         TPL are associated in our events and provided meeting infrastructure and logistics.
+2.	Extend special invitations to industry professionals for special events concerning the public good and well being.
+    a.	Practice followed.
+    b.	Need targeting to enlist as members / resource for invited talks / authors for papers to conferences / interface to government            departments
+3.	Organise 3 or 4 field visits with the help of the industry.
+    a.	Solar Roof Top Installation in villages of Nalgonda District-Cygni Energy extended support
+    b.	NTPC came forward to arrange visit to their TPS at Ramagundam
+    c.	Utility Scale Solar PV installation @ Ananthapur – Tata Projects likely partner
+4.	Network with Visitors of Industry associations to your Section and sub - sections.
+    a.	Have relationship with FASI ; FTAPCC ; SETA ; Telgunadu Electrical Contractors Association.
+    b.	Need to develop contacts with ELECRAMA : ELCINA ; Cll
+5.	Plan and Establish PES University
+    a.	Not practical to implement in our joint chapter
+    b.	We can take the example of Skill  connect program  run by our section. Conduct courses on usage of Engineering tools  for plant         design / Substation design / Motor Control Centers / SCADA / PLC
+6.	Create content and Conduct short term courses for professional and skill development .   
+    a.	Axiom Energy has content for Power Electronics.
+    b.	Dr.Rajgopal P.V.Retired G.M BHEL R & D has expertise in this domain , He can plan some programs.
+7.	Create and deliver value for Professional Practitioners through Hands on Workshops.
+    a.	Schneider, Siemens and ABB can be approached to conduct one day workshops to configure and program their Intelligent Electronic         Devices
+8.	Increase number of Distinguished Lectures. Network with chapters in India and neighbouring countries to facilitate this.
+    a.	We have to establish relations with Bangalore , Chennai, Pune, Delhi chapters
+    b.	We have to establish relationships with Singapore, Indonesia, China, Australia and NewZealand,
+9.	Organise one day tutorial on Burning topic.                                                                              
+    a.  Electrical Safety for construction and agriculture farm labor                                                                                        
+10.	Promote entrepreneurial talent.                                                                                                         a. Self employment in the domain Solar Roof top sola PV / Electrical Vehicle Charging    stations
+11.	Spread awareness of
+    a.	IEEE Standard 1547 For Interconnecting Distributed Energy Resources with Electrical Power Systems
+    b.	IEEE Smart City Pilot in Mexico and lend teeth to Metropolitan initiatives..
+    c.	Smart Villages - Empowering Billions of Lives
+12.	Invite Professionals to register and evangelize the above initiative
+    a.	Work with Administrative Staff College of India to communicate with agencies driving these initiatives
+13.	Use social media sites of LinkedIn and Twitter by following the parent society and  introducing  Indian context.
+14.	Use section website and periodically add content for the chapter web pages                                                               a. Involve Student section in the activities.
+15.	Provide representation to student communities joint chapter Excom. Similarly nominate joint chapter representative in student           communities
+16.	On similar lines involve WIE members.
+17.	Identify potential candidates for professional development to take up roles in the joint chapter social media events.
+18.	Move the chapter events around the subsections and involve them in the administrative meetings. For this purpose increase    
+    administrative meetings.
+19.	Institute Outstanding awards to 2 Engineers and one student volunteer.
+20.	Order promotional items and distribute at public events.
+
+
 
 ## Awards and Achievements
 
