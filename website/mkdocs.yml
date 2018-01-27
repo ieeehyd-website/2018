@@ -23,7 +23,7 @@ pages:
     - 'Flagship Events':
                 - 'Conferences': 'section/flagship-programs/conferences/conferences.md'
                 - 'Faraday Memorial Lecture (FML)': 'section/flagship-programs/fml/fml.md'
-                - 'Section Student Congress (SSC)': 'section/flagship-programs/section-student-congress/ssc.md'
+                - 'Section Student Congress (SSC)': 'students/flagship-programs/programs.md'
                 - 'SIGHT': 'section/flagship-programs/sight/sight.md'
                 - 'Skill Connect': 'section/flagship-programs/skill-connect/skill-connect.md'
                 - 'CAS/EDS': 'chapters/cas-eds/flagship-programs/details.md'
@@ -54,6 +54,10 @@ pages:
     - 'Students':
                 - 'Activites': 'students/students.md'
                 - 'Student Branches': 'students/branches/sbs.md'
+                - 'Events': 'students/events/details.md'
+                - 'Benefits': 'students/benefits/benefits.md'
+                - 'Opprtunities': 'students/opprtunities/jpbs-internships.md'
+                
 
     - 'More...':
         - 'News Room': 'news-room/details.md'
