@@ -49,8 +49,6 @@ pages:
 
     - 'More...':
         - 'News Room': 'news-room/details.md'
-        - 'Upcoming Events': 'more/announcements/upcoming-events/upcoming-events.md'
-        - 'Get Involved': 'section/get-involved/volunteering.md'
         - 'FAQ': 'support/faq/faq.md'
         - 'Content Instructions': 'support/faq/content-template.md'
         - 'Contact': 'support/contact/ieeehyderabad.md'
