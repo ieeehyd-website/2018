@@ -1,9 +1,10 @@
 # Opportunities
+
 ---
 
 IEEE opens the door to opportunities that will help you develop your professional identity in IEEE's designated fields of interest: sciences, technology, engineering, and mathematics (STEM). In addition to accessing a range of membership benefits, you'll make global connections with people who can help you along your targeted career path through IEEE's international community of members and volunteers.
 
-# Awards/Scholarships won by Student Branches/ Students
+## Awards/Scholarships won by Student Branches/ Students
 
 The below are the Awards/Scholarships won by Student Branches/ Students of IEEE Hyderabad Section in 2017
 
@@ -14,7 +15,8 @@ The below are the Awards/Scholarships won by Student Branches/ Students of IEEE 
 * WIE Outstanding Student Volunteer Award of R10:  Ms. Shaik Suraiah Thaseen of GPREC  in recognition of leadership for Student WIE.
 
 
-# Scholarships, grants, and fellowships
+## Scholarships, grants, and fellowships
+
 ---
 
 [**IEEE Computational Intelligence Society Conference Travel Grants:**](https://www.ieee.org/membership_services/membership/students/awards/comp_intelligence.html) This program offers a number of travel grants to assist IEEE Student members presenting papers at IEEE NNS (Neural Networks Society) sponsored conferences. 
@@ -41,7 +43,8 @@ The below are the Awards/Scholarships won by Student Branches/ Students of IEEE 
 
 **(Note: Each Society has more than the mentioned Awards. Please check out the respective Society websites for more details.)**
 
-# IEEEXtreme
+## IEEEXtreme
+
 ---
 
 EEEXtreme is a global challenge in which teams of IEEE Student members—advised and proctored by an IEEE member, and often supported by an IEEE Student Branch—compete in a 24-hour time span against each other to solve a set of programming problems. 
@@ -50,6 +53,7 @@ Registration for IEEEXtreme 11.0 is closed. For more information please visit [w
 
 
 ## Call for Volunteers
+
 ---
 
 Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us in IEEE Hyderabad Section and get the best out of yourself to Create Impact.

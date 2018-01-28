@@ -1,4 +1,5 @@
-## The Student Branch Program
+# The IEEE Student Branch Program
+
 ---
 
 IEEE was founded in 1884 with Alexander Graham Bell and Thomas Edison among its charter members. Today, IEEE serves over 400,000 members worldwide. Over 100,000 Student and Graduate Student members worldwide make up 25% of the membership of IEEE and are essential to its continued growth and vitality. Not only is IEEE the world’s largest technical and professional society, it also publishes a significant amount of the electrical engineering and computer-science literature in the world.
@@ -7,9 +8,9 @@ IEEE worldwide membership is geographically divided into ten Regions. These Regi
 
 Student Branches provide an opportunity for IEEE Student members to begin networking in their areas of interest and future profession. There are over 3,000 Student Branches in over 100 countries, globally.
 
-## How to Start an IEEE Student Branch?
+## Starting an IEEE Student Branch
 
-To start a Student Branch, here are the steps to be followed. 
+To start a Student Branch, here are the steps to be followed.
 
 Basic necessities :
 
@@ -28,8 +29,8 @@ or any further queries on the same, kindly feel free to communicate with us.
 **SAC Chair - Mr. Venkata Rami Reddy (dvrreddy1@ieee.org)
 SSR - Mr. S.Sai Thejeshwar (ssai.thejeshwar.in@ieee.org)**
 
-
 ## IEEE Hyderabad Section Student Branches
+
 ---
 | S.No | School Name                                       | Count of Members |
 |------|---------------------------------------------------|------------------|
@@ -121,36 +122,46 @@ SSR - Mr. S.Sai Thejeshwar (ssai.thejeshwar.in@ieee.org)**
 | 86   | Vasavi College Of Engineering                     | 3                |
 
 
-# IEEE organization
+## IEEE organization
+
 ---
 
 To provide services for members, IEEE depends not only on a well-trained staff but also on thousands of dedicated volunteers, including Student Branch officers, faculty counselors, Section officers, and Regional volunteers. The Student Activities Committee, Student Services Headquarters staff, Student Branch Chapters, Student Branch affinity groups, and faculty counselors are all committed to the success of the student program. To review the formal guidelines for the student program, please refer to the [Member and Geographic Activities Operations Manual](https://www.ieee.org/documents/section_09_june_2016.pdf) (PDF, 361 KB).
 
-# Branch administration
+## Branch administration
+
 ---
 
 The responsibility for administering Branch operations lies within your Student Branch Executive Committee. The Executive Committee should consist of all of the Branch Officers, sub-committee Chairs, and the Branch Counselor. The key to an efficient and fun Executive Committee lies in regular meetings and good communication. Please see the [Branch Calendar](https://www.ieee.org/membership_services/membership/students/st_calendar-student_branch_development.pdf) (PDF, 286 KB).
 
-# Executive Committee
+## SB Executive Committee
+
 ---
 
 The key to running a successful Student Branch is in the administration. There are several key positions: the Branch Officers (Chair, Vice-Chair, Treasurer, and Secretary), the Branch Counselor (or Faculty Advisor), and the subcommittee Chairs. While each has somewhat different duties, it is important to work together as a team. All officers should be aware of the benefits of IEEE membership. [Find more information.](https://www.ieee.org/membership_services/membership/benefits/benefits.html)
 
-# Branch operations
+## Student Branch operations
+
 ---
 
 Effective Student Branch operations comes from knowing how to develop a varied and interesting program of activities for members. The intent of this section is to provide you with some ideas on how to keep your Student Branch vibrant and how to provide new services to your members.
 
-# Branch program
+## Student Branch program
+
 ---
 
 In planning your Branch programs for the year, it is important to keep in mind that events where students are highly engaged are critical to your Branch’s success. Ask your members what their interests are and invite them to participate in a subcommittee that interests them. When choosing an event, you should ask several questions to evaluate the potential of that event:
 
  1. Will this event attract new members?
+
  2. Do we have the resources to carry it through (e.g., time, people, funding)?
+
  3. How will it satisfy the needs of existing members?
+
  4. Does it meet a specific need for your Branch?
+
  5. Will you need to undertake a fundraising effort to hold this event?
+
 Once you have decided on Branch programs for the year, you need to organize the subcommittees and ensure the commitment is there. 7. These committees will gain valuable leadership experience. Be sure to involve as many members (and non-members) as possible in order to ensure the growth of your Branch.
 
 The following is a list of some activities that Student Branches have undertaken in the recent years:
@@ -167,24 +178,28 @@ The following is a list of some activities that Student Branches have undertaken
 * Publish a Student Branch newsletter
 * Participate in engineering awareness programs
 
-# Branch planning
+## Student Branch planning
+
 ---
 
 To ensure success of any Branch program, careful planning is crucial: assess the state of your Branch; identify major goals and objectives for the year; identify activities that will allow you to meet these goals and objectives. For each activity, develop an action plan.
 
-# Reporting requirements
+## SB Reporting requirements
+
 ---
 
 To help you keep track of your yearly activities, your Student Branch is required to [submit the Student Branch Activity Report.](https://sbr.vtools.ieee.org/) It also serves as a valuable historical document to aid future executives in their planning and records financial statements so it is important that the Student Branch Treasurer is involved in the preparation of the report. To encourage you to submit this plan and to meet IEEE Bylaw requirements, an incentive allotment of US$100 is given if your Branch has 50 or more members or US$50 if your Student Branch has fewer than 50 members. The due date for filing this report is on or before 1 November annually. In addition, IEEE provides an incentive rebate of US$2 per Student or Graduate Student member at your Branch (based on membership statistics as of 31 December of the previous year).
 
 Completing the Student Branch Activity Report should help you evaluate the success of your program and to provide some continuity for future years. IEEE requires that Student Branches report their activities and maintain a minimum of 10 Student or Graduate Student members. 
 
-# Elections
+## SB Elections
+
 ---
 
 You can hold elections at any time. All active IEEE Student and Graduate Student members should participate in your elections. Be sure to provide incoming officers the Branch records and transferring any accounts to the new leadership. Assist the new leadership by developing the Branch program for the upcoming academic year and arranging for new committees to meet and begin planning. [Be sure to record the newly elected Chair and Counselor information.](https://officers.vtools.ieee.org/)
 
-# Membership
+## SB Membership
+
 ---
 
 Attracting and retaining new Student and Graduate Student members is an opportunity and a challenge for most Student Branches. Student Branches have natural attrition, through graduation and to members letting their membership lapse.

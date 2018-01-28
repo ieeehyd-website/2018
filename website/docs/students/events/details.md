@@ -1,9 +1,11 @@
-## Events
+# IEEE SAC Events
+
 ---
 
 IEEE SAC Hyderabad Section has organized more than 10 events in 2017 year. We have organized Technical Seminars, Technology Workshops, Webinars and Student Congress Conference with IEEE Distinguished Speakers and experts coming from Industry, Academia and other professional bodies. Recently, we have organized a flagship Conference Section Student Congress on "Shaping The Digital Future" at The Platinum Jubilee Conference Hall, OU Campus, Hyderabad. This conference was attended by over 150 delegates giving deeper insights into AI and other Tech Talks with a view on Real-time projects.
 
 ## Planned Events
+
 ---
 
 Event | Description     |
@@ -15,11 +17,11 @@ Event | Description     |
 
 **More Events Coming Soon..**
 
-
 ## Flagship Events
+
 ---
 
-### IEEE Hyderabad Section Student Congress
+### IEEE Hyderabad Section Student Congress 2017
 
 #### Theme: Shaping The Digital Future
 
@@ -31,8 +33,8 @@ The convention provides a forum and an opportunity for our future entrepreneurs 
 
 Finally, the IEEE Hyderabad Section extends its warm welcome to all the Student Members, Branch Counselors and office bearers of the Student Branches to come and be a part of this mega event to be held on 4th and 5th of November, 2017.
 
-![](img/IMG_3807.jpg) 
+![SSC-17](/students/img/IMG_3807.png)
 
-![](img/IMG_3781.jpg) 
+![SSC-17](/students/img/IMG_3781.png)
 
-![](img/DSC_0080.jpg)
+![SSC-17](/students/img/DSC_0080.png)

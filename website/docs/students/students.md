@@ -1,4 +1,6 @@
-# Student Activities Committee
+# Section Student Activities Committee
+
+---
 
 IEEE Student Activities Committee (SAC) is responsible for student programs and
 benefits, and making recommendations to Section. The Committee includes professional member
@@ -7,35 +9,29 @@ branches These volunteer members provide important viewpoints and information, a
 the voice of the over 4000 IEEE Student and Graduate Student members present at the Section
 level.
 
-# Mission
+## Mission
+
+---
 
 The mission of IEEE SAC is "To deliver a common, high quality IEEE Student member
 experience, for lifelong, professional success through IEEE membership."
 SAC oversee the IEEE student strategy. The goals of the strategy include:
-1. Strengthen partnership between student activities and all other IEEE Societies and Affinity
-groups of the section
+
+1. Strengthen partnership between student activities and all other IEEE Societies and Affinity groups of the section
 2. Create student-friendly information management system
-3. Diversify the IEEE Student membership to reflect IEEE&#39;s technical fields of interests and
-interdependent professions
+3. Diversify the IEEE Student membership to reflect IEEE&#39;s technical fields of interests and interdependent professions
 4. Create activities that students are interested in
-5. Develop and deploy a strategy and plan for first-year Student members
-Some basic information that a SAC Chair should be aware of is:
+5. Develop and deploy a strategy and plan for first-year Student members Some basic information that a SAC Chair should be aware of is:
 6. How to form a Student Branch
 7. How to form Student Branch Chapters and Affinity Groups
 8. Student officer reporting
 9. Student Branch activity reporting
-10. Student Branch Chair and Student Branch Counselor responsibilities and work closely
-with these volunteers
-11. Section SAC Chair responsibility is to act as the interface between Student Branches and
-the Section.
-12. Review and recommend funding requests and proposals that are submitted to the Section
-for student events.
-13. SAC Chair is also responsible for encouraging Student Branches to participate in
-Regional and MGA SAC competitions and to apply for awards.
-14. SAC Chair may organize a Section Student Congress and may institute some Section
-student awards.
-15. Section SAC Chair is responsible for endorsing nominations and applications for grants
-to Region 10
+10. Student Branch Chair and Student Branch Counselor responsibilities and work closely with these volunteers
+11. Section SAC Chair responsibility is to act as the interface between Student Branches and the Section.
+12. Review and recommend funding requests and proposals that are submitted to the Section for student events.
+13. SAC Chair is also responsible for encouraging Student Branches to participate in Regional and MGA SAC competitions and to apply for awards.
+14. SAC Chair may organize a Section Student Congress and may institute some Section student awards.
+15. Section SAC Chair is responsible for endorsing nominations and applications for grants to Region 10
 
 ## Activities
 
@@ -49,15 +45,25 @@ IEEE SAC Hyderabad Section has organized more than 10 events in 2017 year. We ha
 
 |                                       | Name & Designation      |Organization       |E-mail            |
 |---------------------------------------|-------------------------|-------------------|------------------|
-|![chair](img/chair.jpg?raw=true)    |Chairman: Mr. Venkata Rami Reddy |GCET, Hyderabad     |dvrreddy1@ieee.org  |
-|![SSR](img/ssr.jpg?raw=true)  |Section Student Representative: Mr. S.Sai Thejeshwar |Student- SNIST     |ssai.thejeshwar.in@ieee.org |
+|![chair](/students/img/chair.png?raw=true)    |Chairman: Mr. Venkata Rami Reddy |GCET, Hyderabad     |dvrreddy1@ieee.org  |
+|![SSR](/students/img/ssr.png?raw=true)  |Section Student Representative: Mr. S.Sai Thejeshwar |Student- SNIST     |ssai.thejeshwar.in@ieee.org |
+
+## Upcoming Events in 2018
+
+Event | Description     |
+|-----|-----------------|
+| 1   | Webinar: IEEE SAC and SB Chairs Meet |
+| 2   | Webinar: Writing Effective Papers |
+| 3   | IEEEXtreme SB Training |
+
+**More Events Coming Soon..**
 
 
 ## Flagship Events
 
 ---
 
-### IEEE Hyderabad Section Student Congress
+### IEEE Hyderabad Section Student Congress 2017
 
 #### Theme: Shaping The Digital Future
 
@@ -68,23 +74,14 @@ The event specially focuses on providing a platform to all the Student Branches 
 The convention provides a forum and an opportunity for our future entrepreneurs to share their ideas and will give a head start to their career growth. Various technical and non-technical events are being planned during the two day Congress.
 
 Finally, the IEEE Hyderabad Section extends its warm welcome to all the Student Members, Branch Counselors and office bearers of the Student Branches to come and be a part of this mega event to be held on 4th and 5th of November, 2017.
-![](img/IMG_3807.jpg) 
 
-![](img/IMG_3781.jpg) 
+![SSC-17](/students/img/IMG_3807.png)
 
-![](img/DSC_0080.jpg)
+![SSC-17](/students/img/IMG_3781.png)
+
+![SSC-17](/students/img/DSC_0080.png)
 
 ---
-
-### 2018
-
-Event | Description     |
-|-----|-----------------|
-| 1   | Webinar: IEEE SAC and SB Chairs Meet |
-| 2   | Webinar: Writing Effective Papers |
-| 3   | IEEEXtreme SB Training |
-
-**More Events Coming Soon..**
 
 ## Call for Volunteers
 
@@ -93,3 +90,4 @@ Event | Description     |
 Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us in IEEE Hyderabad Section and get the best out of yourself to Create Impact.
 
 #### [Get in touch with us through mail](dvrreddy1@ieee.org or ssai.thejeshwar.in@ieee.org)
+

@@ -12,14 +12,13 @@ Finally, the IEEE Hyderabad Section extends its warm welcome to all the Student 
 
 Event was held on 4th and 5th of November, 2017. 110+ Participants from 11 Student Branches have attended the Congress. The two day Congress was a sucess with 13+ Speakers talking on Artificial Intelligence, IoT, Self Driving Cars, Human Values and the benefits Of IEEE.
 
-![](img/IMG_3807.jpg) 
+![SSC-17](/students/img/IMG_3807.png)
 
-![](img/IMG_3781.jpg) 
+![SSC-17](/students/img/IMG_3781.png)
 
-![](img/DSC_0080.jpg)
+![SSC-17](/students/img/DSC_0080.png)
 
 
-SSC 2018 Edition would be tentavely held in the month of July. 
+SSC 2018 Edition would be tentavely held in the month of July.
 
 **2018 would be marking many events from the SAC for the benefit of Students.
-

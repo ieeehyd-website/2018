@@ -9,3 +9,10 @@ Theory and practice of education and educational technology and professional dev
 |-------------------------------------------------------------------|---------------------------|
 |[![EdSoc](/media/chapters/ed-logo.gif)](/chapters/edusoc/edusoc.md)|                           |
 
+
+## A report on EdSoc Chapter (2017)
+
+---
+
+[A breif report on IEEE Education Society Chapter 2017](/chapters/edusoc/events/IEEE-Education-Society-Chapter-2017.pdf)
+
