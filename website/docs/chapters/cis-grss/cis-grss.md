@@ -159,8 +159,7 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 5. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
 Date and Time : Wednesday, 9th February 2018, 10:30 am to 12:00 noon
-Venue: National Remote Sensing Centre, Shadnagar, Hyderabad. 
-Map https://goo.gl/maps/JCctsDQLhTR2 
+Venue: National Remote Sensing Centre, Shadnagar, Hyderabad. Map https://goo.gl/maps/JCctsDQLhTR2  
 Coordinator: NESA President, Shri. C.V. Srinivas srinivas_cv@nrsc.gov.in
 
 [Flyer Event#5](https://drive.google.com/open?id=1PAVTXAIesoFjIwRGGTAgbgi3pLYoEPgC)
