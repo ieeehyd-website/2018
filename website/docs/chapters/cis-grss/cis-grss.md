@@ -159,23 +159,23 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 5. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
 Date and Time : Wednesday, 9th February 2018, 10:30 am to 12:00 noon
-Venue: National Remote Sensing Centre, Shadnagar, Hyderabad
+Venue: National Remote Sensing Centre, Shadnagar, Hyderabad. 
 Map https://goo.gl/maps/JCctsDQLhTR2
 Coordinator: NESA President, Shri. C.V. Srinivas srinivas_cv@nrsc.gov.in
 
 [Flyer Event#5](https://drive.google.com/open?id=1PAVTXAIesoFjIwRGGTAgbgi3pLYoEPgC)
 
-4. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
+4. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
 Date and Time : Wednesday, 8th February 2018, 04:30 pm to 05:45 pm
-Venue: Mahindra Ecole Centrale, Hyderabad
+Venue: Mahindra Ecole Centrale, Hyderabad. 
 Map https://goo.gl/maps/6dkew98CJYD2
 Coordinator: Dr. Arya Bhattacharya, Dean R&D, arya.bhattacharya@mechyd.ac.in
 
 [Flyer Event#4](https://drive.google.com/open?id=1EWe75INGHalwOYJvAUdbBDuUx5FL8drq)
 
-3. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
+3. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @UoH**
 Date and Time : Wednesday, 8th February 2018, 10:30 am to 12:00 noon
-Venue: Raman Auditorium, University of Hyderabad, Hyderabad
+Venue: Raman Auditorium, University of Hyderabad, Hyderabad. 
 Map https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator: Mr. Prasad B, prasadb@ieee.org
 
