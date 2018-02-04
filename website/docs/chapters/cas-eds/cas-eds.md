@@ -24,7 +24,7 @@ The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was es
 | -------------------------|:--------------------------------| :--------------------------- | :-------------------------------- |
 | Dr. Kaleem Fatima        | Chair                           | MJCET                        | kaleemfatima@gmail.com            |
 | Dr. Arif Sohel           | Vice Chair                      | MJCET                        | Arif.sohel@ieee.org               |
-| Mr. A.G. Krishnakanth    | Secretary/ Treasurer            | AMS Semiconductor Pvt. Ltd   | gowrikrishnakanthavalur@gmail.com |
+| Mr. A.G. Krishnakanth    | Secretary/ Treasurer            | AMS Semiconductor Pvt. Ltd   | kkavalur@gmail.com |
 | Dr. P.A. Govindacharyulu | Immediate Past Chair            | Vasavi                       | pagovindacharyulu@yahoo.com       |
 | Dr. M.B. Srinivas        | Founder Chair and Execom member | BMS Munjal University, Noida | Mandalika.srinivas@gmail.com      |
 

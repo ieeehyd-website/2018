@@ -2,11 +2,45 @@
 
 ---
 
-**Section Chair Name**: Dr. Lakshminarayana Merugu (2016, 2017)  
+**Section Chairman (2018)**: P V S Maruthi Rao  
 **Year Started**: 1984  
 **Current Member Strength**: 5800+  
 
-## Chairman's Message
+## Executive Committee - 2018
+
+| Name                     | Designation                     | Organization                 | Email Address|
+|:-------------------------|:--------------------------------| :--------------------------- | :-------------------------------- |
+| P V S Maruthi Rao        | Chairman                        | Vidcentum R&D        | chairman@ieeehyd.org       |
+| Dr. Amit Kumar           | Vice Chair                      | BioAxis DNA Research Centre  | vice-chairman@ieeehyd.org  |
+| N. Venkatesh             | Secretary                       | Redpine Signals              |secretary@ieeehyd.org      |
+| Sreenivas Jasti          | Treasurer                       | TCS                          | treasurer@ieeehyd.org      |
+| Dr. Lakshminarayana Sadasivuni   | Member                  | CSIR                         | sln@ieee.org |
+| Madhav Negi              | Member                          | DXC                          | m.j.negi@ieee.org          |
+| Jose Reddypogu           | Member                          | TCS                          | jose.reddypogu@tcs.com     |
+| Lakshminarayana Merugu   | Immediate Past Chairman         | DLRL, DRDO (Retd.)           | lnmerugu@ieee.org          |
+
+## AGM 2018
+
+---
+
+The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chairman of IEEE Hyderabad Section), Dr N V Rao (Past Chairman of IEEE Hyderabad Section) and M G P L Narayana (Past Chairman of IEEE Hyderabad Section) recommended the SLATE 2018. The new committee will become the Office bearers of the Section after the AGM on 28-Jan-2018.
+
+
+#### Annual General Body Meeting (AGM) 2018
+
+##### Section AGM to be held on Sunday, 28th January, 2018 from 10 am to 12:30 pm, followed by lunch, at the Plaza Hotel, Begumpet
+
+##### Please RSVP to Venu at venu_ieee2001@yahoo.com
+
+#### Links
+
+1. [SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
+2. [Pre-Audited Balance Sheet for the year 2017](/section/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)
+3. [IEEE Hyderabad Section ByLaws](/section/society/Bylaws_IEEEHYD_Jun_2010.pdf)
+
+> NOTE: Only higher garde members (GSM, Associates, Members, Senior Members, Life Members, Life Senior Members, Fellows, Life Fellows) are eligible to attend the AGM.
+
+## Past Chairman's Message (2016, 2017)
 
 ![DR.MLN](/section/img/Dr.MLN.png)
 
@@ -32,27 +66,6 @@ All the best to all volunteers for their future endeavours.
 
 1. [SLATE 2017 of IEEE Hyderabad Section](/section/execom/2017/IEEEHydSEC_Slate_2017.pdf)
 
-
-## AGM 2018
-
----
-
-The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chairman of IEEE Hyderabad Section), Dr N V Rao (Past Chairman of IEEE Hyderabad Section) and M G P L Narayana (Past Chairman of IEEE Hyderabad Section) recommended the SLATE 2018. The new committee will become the Office bearers of the Section after the AGM on 28-Jan-2018.
-
-
-#### Annual General Body Meeting (AGM) 2018
-
-##### Section AGM to be held on Sunday, 28th January, 2018 from 10 am to 12:30 pm, followed by lunch, at the Plaza Hotel, Begumpet
-
-##### Please RSVP to Venu at venu_ieee2001@yahoo.com
-
-#### Links
-
-1. [SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
-2. [Pre-Audited Balance Sheet for the year 2017](/section/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)
-3. [IEEE Hyderabad Section ByLaws](/section/society/Bylaws_IEEEHYD_Jun_2010.pdf)
-
-> NOTE: Only higher garde members (GSM, Associates, Members, Senior Members, Life Members, Life Senior Members, Fellows, Life Fellows) are eligible to attend the AGM.
 
 ## Future Directions Committee
 
