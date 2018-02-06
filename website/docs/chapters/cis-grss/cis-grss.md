@@ -240,7 +240,7 @@ Event | Description     |
 ## Volunteer Recognition  
 ---   
 
-### Felicatation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE  
+## Felicitation of Prof. Kalyanmoy Deb @ IDRBT Fellow IEEE  
 ![](img/events/debdrbt2017.jpg?raw=true)  
 
 ### CIS Outstanding Supporter Award 2017  
