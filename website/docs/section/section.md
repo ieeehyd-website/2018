@@ -9,15 +9,18 @@
 ## Executive Committee - 2018
 
 | Name                     | Designation                     | Organization                 | Email Address|
-|:-------------------------|:--------------------------------| :--------------------------- | :-------------------------------- |
-| P V S Maruthi Rao        | Chairman                        | Vidcentum R&D        | chairman@ieeehyd.org       |
-| Dr. Amit Kumar           | Vice Chair                      | BioAxis DNA Research Centre  | vice-chairman@ieeehyd.org  |
-| N. Venkatesh             | Secretary                       | Redpine Signals              |secretary@ieeehyd.org      |
-| Sreenivas Jasti          | Treasurer                       | TCS                          | treasurer@ieeehyd.org      |
-| Dr. Lakshminarayana Sadasivuni   | Member                  | CSIR                         | sln@ieee.org |
-| Madhav Negi              | Member                          | DXC                          | m.j.negi@ieee.org          |
-| Jose Reddypogu           | Member                          | TCS                          | jose.reddypogu@tcs.com     |
-| Lakshminarayana Merugu   | Immediate Past Chairman         | DLRL, DRDO (Retd.)           | lnmerugu@ieee.org          |
+|:-------------------------|:--------------------------------| :--------------------------- | :----------------------------|
+| P V S Maruthi Rao        | Chairman                        | Vidcentum R&D        | chairman@ieeehyd.org                 |
+| Dr. Amit Kumar           | Vice Chair                      | BioAxis DNA Research Centre  | vice-chairman@ieeehyd.org    |
+| N. Venkatesh             | Secretary                       | Redpine Signals              |secretary@ieeehyd.org         |
+| Sreenivas Jasti          | Treasurer                       | TCS                          | treasurer@ieeehyd.org        |
+| Dr. Lakshminarayana Sadasivuni   | Member                  | CSIR                         | sln@ieee.org                 |
+| Madhav Negi              | Member                          | DXC                          | m.j.negi@ieee.org            |
+| Arni Swarna Bai          | Member                          | RCI, DRDO                    | swarnabai.arniker.dr@ieee.org|
+| Jose Reddypogu           | Member                          | TCS                          | jose.reddypogu@tcs.com       |
+| Lakshminarayana Merugu   | Immediate Past Chairman         | DLRL, DRDO (Retd.)           | lnmerugu@ieee.org            |
+
+[SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
 
 ## AGM 2018
 
