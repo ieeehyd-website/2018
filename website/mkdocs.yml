@@ -9,73 +9,47 @@ markdown_extensions:
     - smarty
 
 pages:
-  - 'Home': 'index.md'
-  - 'Section':
-      - 'Execom':
-          - 'Execom 2018': 'execom/2018/slate-2018.md'
-          - 'Execom 2017': 'execom/2017/slate-2017.md'
-      - 'Sub-Sections': 
-          - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
-          - 'Guntur (Amaravathi)': 'sub-sections/guntur/guntur.md'
-          - 'Ananthapur': 'sub-sections/ananthapur/ananthapur.md'
-      - 'SEC Proceedings':
-          - 'SEC Proceedings 2018': 
-              - 'January': 'sec-proceedings/2018/january.md'
-      - 'Finances':
-          - 'Current Year Finances (2017-2018)': 'finances/finances.md'
-      - 'AGM':
-          - 'AGM 2018': 'agm/2018/agm-2018.md'
-          - 'AGM 2017': 'agm/2017/agm-2017.md'
-          - 'SAGM 2017': 'sagm/sagm-2017.md'
-      - 'Contact': 'support/contact/ieeehyderabad.md'
-  - 'Programs':
-      - 'Industry Relations':
-          - 'Industry Engagement': 'industry-relations/industry/engagement.md'
-          - 'IEEE Standards': 'industry-relations/standards/participation.md'
-      - 'Students':
-          - 'Student Benefits': 'students/benefits/benefits.md'
-          - 'Student Branches': 'students/branches/sbs.md'
-      - 'Affinity Groups':
-          - 'Young Professionals (YP)': 'affinity-groups/yp/yp.md'
-          - 'Women in Engineering (WiE)': 'affinity-groups/wie/wie.md'
-      - 'Conferences': 'conferences/conferences.md'
-      - 'Faraday Memorial Lecture (FML)': 'fml/fml.md'
-      - 'Section Student Congress (SSC)': 'students/section-student-congress/ssc.md'
-      - 'SIGHT': 'sight/sight.md'
-      - 'Skill Connect': 'skill-connect/skill-connect.md'
-  - 'Chapters':
-          - 'Computer Society Chapter': 'chapters/cs/computers.md'
-          - 'PES/IAS/PELS Society Joint Chapter': 'chapters/pes-ias-pels/pes-ias-pels.md'
-          - 'MTT/AP/EMC Society Joint Chapter': 'chapters/mtt-ap-emc/mtt-ap-emc.md'
-          - 'ComSoc/SP Society Joint Chapter': 'chapters/comsoc-sp/comsoc-sp.md'
-          - 'Computational Intelligence / GRSS Society Joint Chapter': 'chapters/cis-grss/cis-grss.md'
-          - 'Education Society Chapter': 'chapters/edusoc/edusoc.md'
-          - 'Photonics Society Chapter': 'chapters/photonics/photonics.md'
-          - 'Technology and Engineering Management Society Chapter': 'chapters/tems/tems.md'
-          - 'CAS/EDS Society Joint Chapter': 'chapters/cas-eds/cas-eds.md'
-  - 'Sub-Sections': 
-          - 'Vizag Bay':
-                - 'About': 'sub-sections/vizag/vizag.md'
-                - 'Programs': 'sub-sections/vizag/programs/programs.md'
-          - 'Guntur (Amaravathi)': 
-                - 'About': 'sub-sections/guntur/guntur.md'
-                - 'Programs': 'sub-sections/guntur/programs/programs.md'
-          - 'Ananthapur': 
-                - 'About': 'sub-sections/ananthapur/ananthapur.md'
-                - 'Programs': 'sub-sections/ananthapur/programs/programs.md'
-  - 'Dashboard':
-          - 'Events': 'dashboard/events-summary.md'
-          - 'Membership': 'dashboard/membership-summary.md'
-          - 'Awards & Recognitions': 'dashboard/awards-recognitions-summary.md'
-          - 'Alumni Network': 'dashboard/alumni-network-summary.md'
-  - 'More...':
-      - 'Announcements':
-          - 'Upcoming Events': 'announcements/upcoming-events/upcoming-events.md'
-      - 'Get Involved': 'announcements/get-involved/get-involved.md'
-      - 'Member Benefits': 'support/member-benefits/member-benefits.md'
-      - 'Policies': 'support/policies/policies.md'
-      - 'FAQ': 'support/faq/faq.md'
-      - 'Content Instructions': 'support/faq/content-template.md'
-      - 'Contact': 'support/contact/ieeehyderabad.md'
-      - 'Archives': 'archives/years.md'
-  
+    - 'Home': 'index.md'
+
+    - 'Section': 
+                - 'IEEE Hyderabad Section': 'section/section.md'
+                - 'Future Directions Committee': 'section/future-directions/2018.md'
+                - 'News Room': 'news-room/details.md'
+                - 'Contact': 'support/contact/ieeehyderabad.md'
+    - 'Sub-Sections': 
+                - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
+                - 'Guntur (Amaravathi)': 'sub-sections/guntur/guntur.md'
+                - 'Ananthapur': 'sub-sections/ananthapur/ananthapur.md'
+    - 'Flagship Events':
+                - 'Conferences': 'section/flagship-programs/conferences/conferences.md'
+                - 'Faraday Memorial Lecture (FML)': 'section/flagship-programs/fml/fml.md'
+                - 'Section Student Congress (SSC)': 'students/flagship-programs/programs.md'
+                - 'Skill Connect': 'section/flagship-programs/skill-connect/skill-connect.md'
+                
+    - 'Chapters/AG':
+                - 'CAS/EDS': 'chapters/cas-eds/cas-eds.md'
+                - 'CIS/GRSS': 'chapters/cis-grss/cis-grss.md'
+                - 'Computer Society': 'chapters/cs/computers.md'
+                - 'ComSoc/SP': 'chapters/comsoc-sp/comsoc-sp.md'
+                - 'Education Society': 'chapters/edusoc/edusoc.md'
+                - 'MTT/AP/EMC': 'chapters/mtt-ap-emc/mtt-ap-emc.md'
+                - 'PES/IAS/PELS': 'chapters/pes-ias-pels/pes-ias-pels.md'
+                - 'Photonics': 'chapters/photonics/photonics.md'
+                - 'TEMS': 'chapters/tems/tems.md'
+                - 'Women in Engineering (WiE)': 'affinity-groups/wie/wie.md'
+                - 'Young Professionals (YP)': 'affinity-groups/yp/yp.md'
+
+    - 'Students':
+                - 'Activites': 'students/students.md'
+                - 'Student Branches': 'students/branches/sbs.md'
+                - 'Events': 'students/events/details.md'
+                - 'Benefits': 'students/benefits/benefits.md'
+                - 'Opportunities': 'students/opportunities/jobs-internships.md'
+                
+
+    - 'More...':
+        - 'News Room': 'news-room/details.md'
+        - 'FAQ': 'support/faq/faq.md'
+        - 'Content Instructions': 'support/faq/content-template.md'
+        - 'Contact': 'support/contact/ieeehyderabad.md'
+

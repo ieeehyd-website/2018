@@ -1,13 +1,24 @@
-# IEEE CAS/EDS Society Joint Chapter
+# IEEE CAS/EDS Joint Chapter
 
-## About the Chapter
-### IEEE Circuits and Systems/Electron Devices Society Chapter.
-The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was established in 2011 in IEEE Hyderabad Section. In a short period of time that chapter has become one of the most active society chapters of Hyderabad section. It has organised three IEEE International Conferences - PrimeAsia 2012, PrimeAsia 2013 and PrimeAsia 2015.  It has established International Linkages with - IEEE CAS Japan, Singapore, Malaysia, Indonesia and Sri Lanka by way of conducting joint workshops and conferences in collaboration with these countries. The chapter aims at bidding for ISCAS and APCCAS to bring them to Hyderabad. There are two flagship events organised by the chapter annually.
+** IEEE Circuits and Systems/Electron Devices Society Joint Chapter. **
 
-1. CAS-EDS Research Forum for Ph.D scholars and students interesting in pursuing research. 
-2. Industry workshop on “Analog IC Design – Concept of Silicon” conducted by industry professionals of ams semiconductor India Pvt. Ltd. 
+---
 
-## Executive Committee
+|                                                                   |                            |
+|------------------------------------------------------------------:|:---------------------------|
+|[![CAS](/media/chapters/cass-logo.png)](/chapters/cas-eds/cas-eds.md)|[![EDS](/media/chapters/eds-logo.png)](/chapters/cas-eds/cas-eds.md) |
+
+CAS's unique and profound expertise in circuits, systems, signals, modeling, analysis, and design have a decisive impact on sustainable energy, bio-health, green information technology, nano-technology, and scalable information technology systems. Membership includes access to multiple periodicals, networking opportunities, and reduced conference registration rates.
+
+EDS promotes excellence in the field of electron devices by enhancing the quality of life for humanity through its members’ contributions in R&D, manufacturing, and application of electronic and ionic devices. Membership includes access to multiple periodicals, opportunities to network with peers, the Resource Center, and exclusive webinars.  
+
+### History
+
+The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was established in 2011 in IEEE Hyderabad Section. In a short period of time that chapter has become one of the most active society chapters of Hyderabad section. It has organised three IEEE International Conferences - PrimeAsia 2012, PrimeAsia 2013 and PrimeAsia 2015.  It has established International Linkages with - IEEE CAS Japan, Singapore, Malaysia, Indonesia and Sri Lanka by way of conducting joint workshops and conferences in collaboration with these countries. The chapter aims at bidding for ISCAS and APCCAS to bring them to Hyderabad.
+
+## Executive Committee 2018
+
+---
 
 | Name                     | Designation                     | Organization                 | Email Address                     |
 | -------------------------|:--------------------------------| :--------------------------- | :-------------------------------- |
@@ -35,4 +46,49 @@ The Joint Chapter of IEEE Circuits and Systems/ Electron Device Societies was es
 7. CAS EDS Research forum at Hyderabad Section
 8. EDS DL by Dr. Manoj Saxena
 9. Two day Workshop on Analog IC Design at CBIT
+
+=======
+| Dr. Kaleem Fatima        | Chair                           | MJCET                        | kaleemfatima@gmail.com            |
+| Dr. Arif Sohel           | Vice Chair                      | MJCET                        | Arif.sohel@ieee.org               |
+| Mr. A.G. Krishnakanth    | Secretary/ Treasurer            | AMS Semiconductor Pvt. Ltd   | kkavalur@gmail.com |
+| Dr. P.A. Govindacharyulu | Immediate Past Chair            | Vasavi                       | pagovindacharyulu@yahoo.com       |
+| Dr. M.B. Srinivas        | Founder Chair and Execom member | BMS Munjal University, Noida | Mandalika.srinivas@gmail.com      |
+
+## Forthcoming Events
+
+---
+
+Event | Description     |
+|-----|-----------------|
+|1    | EDS DL on “Electronics for All” by Prof. M.M. Hussain at IIT Hyderabad |
+|2    | Career Opportunities in Electronics Sector  |
+
+## Flagship Programs (2017)
+
+---
+
+There are two flagship events organised by the chapter annually.
+
+Event | Description     |
+|-----|-----------------|
+|1    | CAS-EDS Research Forum for Ph.D scholars and students interesting in pursuing research. |
+|2    | Industry workshop on “Analog IC Design – Concept of Silicon” conducted by industry professionals of ams semiconductor India Pvt. Ltd. |
+
+## Past Events (2017)
+
+---
+
+Event | Description     |
+|-----|-----------------|
+|1    | CAS EDS Research Forum at Guntur Subsection |
+|2    | CAS EDS Networking Dinner |
+|3    | EDS - DL talk on Nanotechnology for IoT by Dr. Hector J De Los Santos |
+|4    | CASS Networking techno meetup at IEEE Sri Lanka – Colombo |
+|5    | CASS International membership development workshop on IoT at Indonesia |
+|6    | CASS membership development workshop at Hyderabad |
+|7    | CAS EDS Research forum at Hyderabad Section |
+|8    | EDS DL by Dr. Manoj Saxena |
+|9    | Two day Workshop on Analog IC Design at CBIT |
+
+> For details of events of last six years Please visit us at https://sites.google.com/site/casshyderabad/
 
