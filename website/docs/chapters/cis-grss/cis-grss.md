@@ -116,6 +116,8 @@ CIS Outstanding Chapter Award - $2500 (2013)
 
 3. [Autonomous Car-- A New Driver for Resiliency and Testability, Dr. Nirmal R. Saxena, NVIDIA](https://drive.google.com/open?id=1q4lqtHwgmr0VZMbbSzjVhzod1EJcv0wc)
 
+4. [Statistical Information Theory and Geometry for SAR Image Analysis, Prof. Alejandro C. Frery, Brazil](https://drive.google.com/open?id=1R-WM14NBmbePri0v03L5OCtFDG5p6yik)
+
 ### Videos
 1. IEEE CIS Distinguished Lecturer Program, Talk on "Evolution of Neural Networks", By Distinguished speaker Prof. Risto Miikkulainen, @ IBM Hyderabad, 14 Dec 2017
 
@@ -160,7 +162,11 @@ Coordinator: NESA President, Shri. C.V. Srinivas srinivas_cv@nrsc.gov.in
 
 [Flyer Event#5](https://drive.google.com/open?id=1ENkrR7YpsIaY7dmjKrMM1JxkpDmapePm)
 
-4. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
+## Past Events  
+---  
+### 2018
+
+4.**A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
 Date and Time : Thursday, 8th February 2018, 04:30 pm to 05:45 pm
 Venue: Mahindra Ecole Centrale, Hyderabad. 
 Map https://goo.gl/maps/6dkew98CJYD2 
@@ -175,11 +181,6 @@ Map https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator: Mr. Prasad B, prasadb@ieee.org
 
 [Flyer Event#3](https://drive.google.com/open?id=1FOHFCkrojVFKXeSHIc7jzZgBuccbz1SN)
-
-## Past Events  
----  
-### 2018
-
 
 2. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH**  
 Date and Time: Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM  
