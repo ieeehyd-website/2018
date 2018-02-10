@@ -23,20 +23,8 @@ pages:
     - 'Flagship Events':
                 - 'Conferences': 'section/flagship-programs/conferences/conferences.md'
                 - 'Faraday Memorial Lecture (FML)': 'section/flagship-programs/fml/fml.md'
-                - 'Section Student Congress (SSC)': 'section/flagship-programs/section-student-congress/ssc.md'
-                - 'SIGHT': 'section/flagship-programs/sight/sight.md'
+                - 'Section Student Congress (SSC)': 'students/flagship-programs/programs.md'
                 - 'Skill Connect': 'section/flagship-programs/skill-connect/skill-connect.md'
-                - 'CAS/EDS': 'chapters/cas-eds/flagship-programs/details.md'
-                - 'CIS/GRSS': 'chapters/cis-grss/flagship-programs/details.md'
-                - 'Computer Society': 'chapters/cs/flagship-programs/details.md'
-                - 'ComSoc/SP': 'chapters/comsoc-sp/flagship-programs/details.md'
-                - 'Education Society': 'chapters/edusoc/flagship-programs/details.md'
-                - 'MTT/AP/EMC': 'chapters/mtt-ap-emc/flagship-programs/details.md'
-                - 'PES/IAS/PELS': 'chapters/pes-ias-pels/flagship-programs/details.md'
-                - 'Photonics': 'chapters/photonics/flagship-programs/details.md'
-                - 'TEMS': 'chapters/tems/flagship-programs/details.md'
-                - 'Women in Engineering (WiE)': 'affinity-groups/wie/flagship-programs/details.md'
-                - 'Young Professionals (YP)': 'affinity-groups/yp/flagship-programs/details.md'
                 
     - 'Chapters/AG':
                 - 'CAS/EDS': 'chapters/cas-eds/cas-eds.md'
@@ -54,11 +42,13 @@ pages:
     - 'Students':
                 - 'Activites': 'students/students.md'
                 - 'Student Branches': 'students/branches/sbs.md'
+                - 'Events': 'students/events/details.md'
+                - 'Benefits': 'students/benefits/benefits.md'
+                - 'Opportunities': 'students/opportunities/jobs-internships.md'
+                
 
     - 'More...':
         - 'News Room': 'news-room/details.md'
-        - 'Upcoming Events': 'more/announcements/upcoming-events/upcoming-events.md'
-        - 'Get Involved': 'section/get-involved/volunteering.md'
         - 'FAQ': 'support/faq/faq.md'
         - 'Content Instructions': 'support/faq/content-template.md'
         - 'Contact': 'support/contact/ieeehyderabad.md'

@@ -31,7 +31,7 @@ IEEE CIS chapter Hyderabad Section has organized more than 25 events this year. 
 |![secretary](img/ec/secretary.jpg?raw=true)  |Secretary/Treasurer: T Hitendra Sarma|SRIT, Ananthapuramu|t.hitendrasarma@gmail.com|M 91168866|
 |![member](img/ec/Member1.jpg?raw=true)       |Webmaster: Mousmi Ajay Chaurasia|MJCET, Hyderabad |mousmi.ksu@ieee.org |M 91191414|
 |  |Chapter Promoter: Mr. P.Laxman Rao| |polisetty_laxman@yahoo.com| M 40296160|
-|![member](img/ec/Member3.jpg?raw=true)       |Chapter Coordinator: Vijayalaxmi|VITS, Hyderabad |laxmi81181@gmail.com |M 92478983|
+|![member](img/ec/member3.jpg?raw=true)       |Chapter Coordinator: Vijayalaxmi|VITS, Hyderabad |laxmi81181@gmail.com |M 92478983|
 |![member](img/ec/member2.jpg?raw=true)       |Assistant Newsletter Editor : Hari Priya Sakethapuram  |NRSC, Hyderabad          |priya.s@ieee.org |M 94573404|
 |![Immediate Past Chairman](img/ec/immediatepastchair.jpg?raw=true) |Immediate Past Chairman: Atul Negi|UoH, Hyderabad|atul.negi@ieee.org|SM 3803707|
 
@@ -156,20 +156,21 @@ upcoming initiatives that support future directions in Earth and planetary obser
 ## Forthcoming Events  
 ---  
 
-
 ## Past Events  
 ---  
 ### 2018
 
-5. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
+5. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
+
 Date and Time : Friday, 9th February 2018, 10:30 am to 12:00 noon
 Venue: National Remote Sensing Centre, Balanagar, Hyderabad. 
-Map https://goo.gl/maps/JCctsDQLhTR2 
+Map https://goo.gl/maps/cHCR6gwXmNK2 
 Coordinator: NESA President, Shri. C.V. Srinivas srinivas_cv@nrsc.gov.in
 
 [Flyer Event#5](https://drive.google.com/open?id=1ENkrR7YpsIaY7dmjKrMM1JxkpDmapePm)
 
-4.**A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
+4. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
+
 Date and Time : Thursday, 8th February 2018, 04:30 pm to 05:45 pm
 Venue: Mahindra Ecole Centrale, Hyderabad. 
 Map https://goo.gl/maps/6dkew98CJYD2 
@@ -177,7 +178,7 @@ Coordinator: Dr. Arya Bhattacharya, Dean R&D, arya.bhattacharya@mechyd.ac.in
 
 [Flyer Event#4](https://drive.google.com/open?id=1zo0u0L3kR4K5oWRUrIRWl--Tv88AUYC0)
 
-3. **A Distinguished Lecture on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @UoH**
+3. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @UoH**
 Date and Time : Thursday, 8th February 2018, 10:30 am to 12:00 noon
 Venue: Raman Auditorium, University of Hyderabad, Hyderabad. 
 Map https://goo.gl/maps/tUJYUc1zAJA2 

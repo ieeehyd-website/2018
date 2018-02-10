@@ -8,7 +8,7 @@
 
 ---
 
-> Coming soon...
+[January 2018 Edition](/news-room/published/2018-January.pdf) 
 
 ## Past Editions
 

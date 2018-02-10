@@ -2,18 +2,79 @@
 
 ---
 
-**Section Chair Name**: Dr. Lakshmi Narayana Merugu (2016, 2017)  
+**Section Chairman (2018)**: P V S Maruthi Rao  
 **Year Started**: 1984  
-**Current Member Strength**: 5730  
+**Current Member Strength**: 5800+  
 
-## AGM 2018
+## Vision
+
+> TO BE AN ESSENTIAL RESOURCE FOR THE PROFESSIONAL DEVELOPMENT IN SPECIFIC FIELDS OF INTEREST OF IEEE FOR THE BENEFIT OF MANKIND.
+
+## Mission
+
+> TO PROVIDE A PLATFORM FOR KNOWLEDGE SHARING, NETWORKING, AND CAREER DEVELOPMENT TO THE LOCAL TECHNICAL COMMUNITY.
 
 ---
 
+## Executive Committee - 2018
+
+| Name                     | Designation                     | Organization                 | Email Address|
+|:-------------------------|:--------------------------------| :--------------------------- | :----------------------------|
+| P V S Maruthi Rao        | Chairman                        | Vidcentum R&D        | chairman@ieeehyd.org                 |
+| Dr. Amit Kumar           | Vice Chair                      | BioAxis DNA Research Centre  | vice-chairman@ieeehyd.org    |
+| N. Venkatesh             | Secretary                       | Redpine Signals              |secretary@ieeehyd.org         |
+| Sreenivas Jasti          | Treasurer                       | TCS                          | treasurer@ieeehyd.org        |
+| Dr. Lakshminarayana Sadasivuni   | Member                  | CSIR                         | sln@ieee.org                 |
+| Madhav Negi              | Member                          | DXC                          | m.j.negi@ieee.org            |
+| Arni Swarna Bai          | Member                          | RCI, DRDO                    | swarnabai.arniker.dr@ieee.org|
+| Jose Reddypogu           | Member                          | TCS                          | jose.reddypogu@tcs.com       |
+| Lakshminarayana Merugu   | Immediate Past Chairman         | DLRL, DRDO (Retd.)           | lnmerugu@ieee.org            |
+
+[SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
+
+## Member Statistics (Jan 2018)
+
+---
+
+Guntur Sub-Section           |        |
+|----------------------------|--------|
+|Fellow                      |1       |
+|Graduate Student Member     |38      |
+|Life Fellow                 |1       |
+|Life Member                 |1       |
+|Member                      |120     |
+|Senior Member               |12      |
+|Student Member              |207     |
+|Associate Member            |0       |
+
+Viag Bay Sub-Section         |        |
+|----------------------------|--------|
+|Fellow                      |0       |
+|Graduate Student Member     |79      |
+|Life Fellow                 |0       |
+|Life Member                 |0       |
+|Member                      |392     |
+|Senior Member               |42      |
+|Student Member              |981     |
+|Associate Member            |4       |
+
+Hyderabad  Section           |        |
+|----------------------------|--------|
+|Fellow                      |0       |
+|Graduate Student Member     |330     |
+|Life Fellow                 |6       |
+|Life Member                 |4       |
+|Life Senior                 |9       |
+|Member                      |1076    |
+|Senior Member               |161     |
+|Student Member              |2317    |
+|Associate Member            |30      |
+
+### Total Members: 5811
+
+## Annual General Body Meeting (AGM) 2018
+
 The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chairman of IEEE Hyderabad Section), Dr N V Rao (Past Chairman of IEEE Hyderabad Section) and M G P L Narayana (Past Chairman of IEEE Hyderabad Section) recommended the SLATE 2018. The new committee will become the Office bearers of the Section after the AGM on 28-Jan-2018.
-
-
-#### Annual General Body Meeting (AGM) 2018
 
 ##### Section AGM to be held on Sunday, 28th January, 2018 from 10 am to 12:30 pm, followed by lunch, at the Plaza Hotel, Begumpet.
 
@@ -26,6 +87,15 @@ The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chair
 3. [IEEE Hyderabad Section ByLaws](/section/society/Bylaws_IEEEHYD_Jun_2010.pdf)
 
 > NOTE: Only higher garde members (GSM, Associates, Members, Senior Members, Life Members, Life Senior Members, Fellows, Life Fellows) are eligible to attend the AGM.
+
+## Executive Committee (2017)
+
+---
+
+[SLATE 2017 of IEEE Hyderabad Section](/section/execom/2017/IEEEHydSEC_Slate_2017.pdf)
+
+[More about IEEE Hyderabad Section...](/section/section.md)
+
 
 ## IEEE Society Chapters
 
@@ -180,3 +250,11 @@ The IEEE Young Professionals is an international community of innovative members
 IEEE Hyderabad Section constituted an exclusive committee under the chairmanship of C. Satish in the SEC-9/2016 held on 16 Oct 2016. The main objectives of the committe are recommendations to aligh the global objectives of IEEE and exclusively for the benefit of the members of IEEE Hyderbad Section.
 
 [More about the committee...](/section/future-directions/2018.md)
+
+[Future Direction Committee Report](/section/future-directions/FutureDirectionsCommittee-Report-2017.pdf)
+
+## More about the Section
+
+---
+
+[Read more about IEEE Hyderabad Section...](/section/section.md)

@@ -2,9 +2,25 @@
 
 ---
 
-**Section Chair Name**: Dr. Lakshmi Narayana Merugu (2016, 2017)  
+**Section Chairman (2018)**: P V S Maruthi Rao  
 **Year Started**: 1984  
-**Current Member Strength**: 5730  
+**Current Member Strength**: 5800+  
+
+## Executive Committee - 2018
+
+| Name                     | Designation                     | Organization                 | Email Address|
+|:-------------------------|:--------------------------------| :--------------------------- | :----------------------------|
+| P V S Maruthi Rao        | Chairman                        | Vidcentum R&D        | chairman@ieeehyd.org                 |
+| Dr. Amit Kumar           | Vice Chair                      | BioAxis DNA Research Centre  | vice-chairman@ieeehyd.org    |
+| N. Venkatesh             | Secretary                       | Redpine Signals              |secretary@ieeehyd.org         |
+| Sreenivas Jasti          | Treasurer                       | TCS                          | treasurer@ieeehyd.org        |
+| Dr. Lakshminarayana Sadasivuni   | Member                  | CSIR                         | sln@ieee.org                 |
+| Madhav Negi              | Member                          | DXC                          | m.j.negi@ieee.org            |
+| Arni Swarna Bai          | Member                          | RCI, DRDO                    | swarnabai.arniker.dr@ieee.org|
+| Jose Reddypogu           | Member                          | TCS                          | jose.reddypogu@tcs.com       |
+| Lakshminarayana Merugu   | Immediate Past Chairman         | DLRL, DRDO (Retd.)           | lnmerugu@ieee.org            |
+
+[SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
 
 ## AGM 2018
 
@@ -27,6 +43,33 @@ The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chair
 
 > NOTE: Only higher garde members (GSM, Associates, Members, Senior Members, Life Members, Life Senior Members, Fellows, Life Fellows) are eligible to attend the AGM.
 
+## Past Chairman's Message (2016, 2017)
+
+![DR.MLN](/section/img/Dr.MLN.png)
+
+Dear Section Members,
+
+Wish You all Happy and Prosperous New Year 2018.
+
+I am pleased to inform you that the activities of Hyderabad Section held during the year of 2017. In all, the year 2017 has been a very eventful year in which all technical societies chapters have actively conducted good number of events. The future directions committee (FDC) has recommended a set of goals for the Section in line with Vision and Mission which we have already informed you in the previous edition of the Newsletter. These are towards knowledge sharing, networking and career development so that IEEE Hyderabad Section can sustain itself as a high performing Section at the IEEE global level. All stakeholders organizing events henceforth are requested to keep these goals in view. The need for an interactive Website had been a long-standing requirement of Hyderabad section. With the efforts of Mr. P.V.S. Maruthi Rao, the Section website has been revamped and is ready for release shortly. I am confident that this website grows into a full-fledged one over the next few months. The Section has established Geoscience and Remote Sensing Society (GRSS) Society Chapter by adding with existing Computational Intelligence Society (CIS Chapter forming CIS/GRSS Joint Society Chapter. With this, the Section represents sixteen technical societies with nine chapters.
+
+The Section membership reveals that there is large potential to form Chapter(s) with Aerospace and Electronic Systems (AES), Robotics & Automation and Vehicular Technology Societies. I am sure this could be taken up in near future. The CAS/EDS, CIS/GRSS, MTT/AP/EMC Chapters were able to garner support funds from their respective parent Societies to organize special projects / events. This way, for instance, CASS/EDS Chapter could organize a three day workshop for improving IEEE CASS membership in Indonesia reaching out to 13 universities from various parts of Indonesia. As part of the CASS networking program, the Chapter team has visited Sri Lanka Section to spread awareness on CAS society. Further, Region 10 has partially supported the organization of WIE and Education Society Chapter events.
+
+I appreciate all Chapters and Affinity Groups of the Section for having organized number of technical events to qualify the Section as an Outstanding Large Section. I am happy to note that this year Section/Chapter flagship events: Faraday Memorial
+Lecture, Section Student Congress, John McCarthy Memorial Lecture, and Sir J. C. Bose Memorial lecture organized in this
+quarter were well attended. I am glad to observe that the Vizag Bay Subsection and Guntur Subsection have also reported good activities in this last quarter. The Warangal zone has been contributing significantly with very encouraging participation in all the events conducted in the area. I strongly believe that the Society Chapters are well qualified to organize and host high quality IEEE Conferences, and I urge all Chapter Chairs to plan for conferences in the near future to cater to the needs of the local IEEE fraternity. A very important aspect of organizing a conference is maintaining high quality in terms of paper selection and scrupulous scrutiny in terms of plagiarism. In all, I feel that the past two years have been very eventful and thank the Section ExCom and Volunteers of Slate 2016 & Slate 2017 for having done wonderfully well in terms of organizing activities at international and national level creating a niche for the IEEE Hyderabad Section. I wish that the Section grows to unprecedented heights in the future. Finally, I appreciate the efforts of Mr. Rajagopalan Kannan and Dr. Mohammed Arifuddin Sohel for bringing out this edition of Section Newsletter.
+
+All the best to all volunteers for their future endeavours.
+
+---
+
+## Executive Committee (2017)
+
+---
+
+1. [SLATE 2017 of IEEE Hyderabad Section](/section/execom/2017/IEEEHydSEC_Slate_2017.pdf)
+
+
 ## Future Directions Committee
 
 ---
@@ -34,6 +77,8 @@ The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chair
 IEEE Hyderabad Section constituted an exclusive committee under the chairmanship of C. Satish in the SEC-9/2016 held on 16 Oct 2016. The main objectives of the committe are recommendations to aligh the global objectives of IEEE and exclusively for the benefit of the members of IEEE Hyderbad Section.
 
 [More about the committee...](/section/future-directions/2018.md)
+
+[Future Direction Committee Report](/section/future-directions/FutureDirectionsCommittee-Report-2017.pdf)
 
 ## IEEE Hyderabad Section at a glance
 
@@ -67,11 +112,88 @@ Today there are 9 chapters and 2 Affinity Groups and our Section.
 |[IEEE Women In Engineering (WiE)](/affinity-groups/wie/wie.md)|
 |[IEEE Young Professionals (YP)](/affinity-groups/yp/yp.md)|
 
-A milestone in Section’s history is the organization of an annual Faraday Memorial Lecture (FML) right from 1991, the 200th anniversary of Faraday’s birthday. It has been an annual event organised continuously since 1991. Some of the eminent speakers for FML are Prof. M Ramamurty, Mr. Elya B. Joffe, Dr Kodali V Prasad, Dr BL Deekshatulu et al.
+
+
+## Industry Collaboration
+
+---
+Industrial Relations Committee (IRC) of Hyderabad Section brigs synergy between Industry, Academia, Start-ups, Government and practising professionals by briging them together onto a common platform. Conducts technical talks, workshops with IEEE Society Chapters. Symposium on IoT and IEEE standards, one day workshop on UAV's/DRONES-Technological Advances and Innovations are among the important programs organised.
+
+## Awards And Recognition
+
+---
+
+### The following are the awards received in 2017
+
+- Dr. Koduri Srinivas on being awarded with the Region 10 Outstanding Volunteer Award.
+
+- Ms. Shaik Suraiah Thaseen for Outstanding WIE student volunteer award
+
+- Mr. Sai Thejeshwar for Richard E Merwin Award.
+
+### Some of the Awards received in 2016 and before
+
+- R10 Outstanding Large Section Award in 2012 and 2016
+
+- R10 Outstanding Volunteer Award (13 volunteers since 1996)
+
+- IAS most Vibrant Chapter: IAS/PES/PELS Joint Chapter
+
+- Darrel Chong Activity Awarded to IEEE Student Branches
+
+- Haraden Pratt Award from IEEE
+
+### Award Received from IEEE Society Head Quarters (2016)
+
+- MTT-SsBest Chapter Award, MTT/AP/EMC Joint Chapter
+
+- IAS Most Vibrant Chapter: IAS/PES/PELS Joint Chapter
+
+### IEEE Computer Society Richard  Merwin Student Scholarship (2016)
+
+- Akshita Gulati  (VBIT)
+
+- G. Naveen Reddy (GRIET)
+
+### Award Received from IEEE MGA (2016)
+
+- Young Professional Achievement Award: Preeti Kovvali
+
+### Award(s) received from R10 (2016)
+
+- R10 Outstanding Large Section Award: Hyderabad Section
+
+### Darrel Chong Award 2016 under Silver Category for SBs (2016)
+
+- MVSR Engineering College
+
+- Muffakham Jah College of Engineering and Technology
+
+## Award constituted by the section for SBs
+
+- Vibrant Student Branch Award
+
+- Upcoming Student Branch Award
+
+## Special Initiatives
+
+---
+
+The Section has constituted Future Directions and Committee for formulation of future activites and stategies. Conference committee to screen and recommend the conferences proposed by non-IEEE OU's for technical co-sponsorship. Two projects on EPICS have been executed. Electrical safety to prevent accidental deaths due to open wire power lines. Formed a committee to take up SIGHT activites. Taken up Skill Connect Program for improving the skills and employability for engineering students.
+
 
 ## Significant Programs
 
 ---
+
+### Faraday Memorial Lecture
+
+A milestone in Section’s history is the organization of an annual Faraday Memorial Lecture (FML) right from 1991, the 200th anniversary of Faraday’s birthday. It has been an annual event organised continuously since 1991. Some of the eminent speakers for FML are Prof. M Ramamurty, Mr. Elya B. Joffe, Dr Kodali V Prasad, Dr BL Deekshatulu et al.
+
+[FML Events (from 1991)](/section/flagship-programs/fml/fml.md)
+
+### Other Programs
+
 |    |
 |----|
 |Fundamentals on Electromagnetic Theory by Prof Nannapaneni Narayana Rao, University of Illinois, USA. 3rd June to 11th June, 2009.|
