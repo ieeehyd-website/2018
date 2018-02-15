@@ -48,6 +48,7 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 ---
 
    1. PROFESSIONAL DEVELOPMENT PROGRAM: DELAYED CURRENT ZERO (DCZ) PHENOMENON  
+   Speaker: Sri Pratap Mysore of Pratap Consulting Services LLC, Minnesota, USA
    Location: Seminar Hall, Power Grid Corporation of India Limited, Kavadiguda, Secunderabad  
    Date & Time: 16-Feb-2018, 3:00PM to 5:00PM  
    For more details, visit https://events.vtools.ieee.org/m/161353  
