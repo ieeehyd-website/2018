@@ -18,7 +18,7 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 | ------------|:------------|:----------------|:---------------|
 |  P.V.Rajgopal       | Chair       | Gen.Mgr. BHEL R&D (rtd.)             | pv_rajgopal@yahoo.co.in           |
 |  Gaddam Mallesham      | Vice Chair  |Dept.of EEE OUCE             | gm.eed.cs@gmail.com            |
-|  Krishna Narasimha Namala      | Secretary   | KVA Engineering             | nknfive@gmail.com            |
+|  Krishna Narasimha Namala      | Secretary   | KVA Engineering             | krishna.namala@ieee.com            |
 |  Balakrishna Prasad Chavali   | Treasurer   | Tech Mahindra            |persuasivebalu@gmail.com            |
 |  R U Srujana     | Member      | Entrepreneur           | srujana.iitd@gmail.com            |
 |  C Harinath       | Member      | GPREC Kurnool           | charinathr@gmail.com            |
@@ -47,7 +47,11 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 
 ---
 
-> To be announced later.
+   1. PROFESSIONAL DEVELOPMENT PROGRAM: DELAYED CURRENT ZERO (DCZ) PHENOMENON  
+   Speaker: Sri Pratap Mysore of Pratap Consulting Services LLC, Minnesota, USA
+   Location: Seminar Hall, Power Grid Corporation of India Limited, Kavadiguda, Secunderabad  
+   Date and Time: 16-Feb-2018, 3:00PM to 5:00PM  
+   For more details, visit https://events.vtools.ieee.org/m/161353  
 
 ## Past Activities
 
