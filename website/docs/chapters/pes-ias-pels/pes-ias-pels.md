@@ -47,7 +47,7 @@ A PES/IAS/PELS Chapter is a technical sub-unit of IEEE Hyderabad Section and it 
 
 ---
 
- 
+> To be announced later
 
 ## Past Activities
 
