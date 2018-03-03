@@ -155,6 +155,22 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 ## Forthcoming Events  
 ---  
+1. Field visit to Zen Technologies
+
+Date and Time : Tuesday, 13 March 2018, 10:00am 
+Venue: Zen Technologies, Sanath Nagar, Hyderabad. 
+Map https://goo.gl/maps/dyA5AHWV1cq
+Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org 
+
+2. 2-day Tutorial on " Machine Learning and Evolutionary Optimization - Foundations, Recent Trends and Future Challenges"  by Prof. Swagatam Das, Indian Statistical Institute (ISI), Kolkatta @IDRBT, Hyderabad. 
+
+Date and Time : Saturday-Sunday, 24-25 March 2018, 9:00 am to 4:00 pm
+[Register here](https://in.explara.com/e/cistutorial)
+Venue: IDRBT, Hyderabad. 
+Map https://goo.gl/maps/vsccXNjpbQ52 
+Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org 
+
+[Flyer Event#6](https://drive.google.com/open?id=1IMOVrFGU5Y0e5wE5XoCiSBxJt42XYxvx)
 
 ## Past Events  
 ---  
