@@ -199,7 +199,7 @@ Map https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator: Mr. Prasad B, prasadb@ieee.org
 
 [Flyer Event#3](https://drive.google.com/open?id=1FOHFCkrojVFKXeSHIc7jzZgBuccbz1SN)
-
+![](img/events/uoh.jpg)
 2. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @UOH**  
 Date and Time: Monday, 08th January 2018 Timing: 11:00 AM to 12:30 PM  
 Venue:  CMSD Seminar Hall University of Hyderabad, Gachibowli, Hyderabad
@@ -207,7 +207,7 @@ Map  https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator: Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS atul.negi@ieee.org
 
 [Flyer Event#2](https://drive.google.com/open?id=1ZuWYuW_z-wLx7MV9gme-dqrlacT8xNYl)
-![](img/events/uoh.jpg)
+
 
 1. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET**  
 Date and Time: Sunday, 07th January 2018 Timing: 3:00 PM to 4:30 PM
