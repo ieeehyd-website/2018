@@ -181,7 +181,9 @@ Map https://goo.gl/maps/cHCR6gwXmNK2
 Coordinator: NESA President, Shri. C.V. Srinivas srinivas_cv@nrsc.gov.in
 
 [Flyer Event#5](https://drive.google.com/open?id=1ENkrR7YpsIaY7dmjKrMM1JxkpDmapePm)
+![](img/events/nrsc1.jpg)
 
+![](img/events/nrsc2.jpg)
 4. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
 Date and Time : Thursday, 8th February 2018, 04:30 pm to 05:45 pm
 Venue: Mahindra Ecole Centrale, Hyderabad. 
@@ -205,6 +207,7 @@ Map  https://goo.gl/maps/tUJYUc1zAJA2
 Coordinator: Prof. Atul Negi, UOH, Immediate Past Chair, IEEE CIS atul.negi@ieee.org
 
 [Flyer Event#2](https://drive.google.com/open?id=1ZuWYuW_z-wLx7MV9gme-dqrlacT8xNYl)
+![](img/events/uoh.jpg)
 
 1. **Autonomous Car -- A New Driver for Resiliency and Testability by Dr. Nirmal Saxena, Distinguished Engineer NVIDIA and Fellow IEEE @MJCET**  
 Date and Time: Sunday, 07th January 2018 Timing: 3:00 PM to 4:30 PM
