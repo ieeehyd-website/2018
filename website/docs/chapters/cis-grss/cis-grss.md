@@ -155,17 +155,15 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 ## Forthcoming Events  
 ---  
-1. Field visit to Zen Technologies
-
+1. **Field visit to Zen Technologies**
 Date and Time : Tuesday, 13 March 2018, 10:00am 
 Venue: Zen Technologies, Sanath Nagar, Hyderabad. 
 Map https://goo.gl/maps/dyA5AHWV1cq
 Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org 
 
-2. 2-day Tutorial on " Machine Learning and Evolutionary Optimization - Foundations, Recent Trends and Future Challenges"  by Prof. Swagatam Das, Indian Statistical Institute (ISI), Kolkatta @IDRBT, Hyderabad. 
-
+2. **Two-day Tutorial on " Machine Learning and Evolutionary Optimization - Foundations, Recent Trends and Future Challenges"  by Prof. Swagatam Das, Indian Statistical Institute (ISI), Kolkatta @IDRBT, Hyderabad.** 
 Date and Time : Saturday-Sunday, 24-25 March 2018, 9:00 am to 4:00 pm
-[Register here](https://in.explara.com/e/cistutorial)
+**[Register here](https://in.explara.com/e/cistutorial)**
 Venue: IDRBT, Hyderabad. 
 Map https://goo.gl/maps/vsccXNjpbQ52 
 Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org 
@@ -177,7 +175,6 @@ Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org
 ### 2018
 
 5. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
-
 Date and Time : Friday, 9th February 2018, 10:30 am to 12:00 noon
 Venue: National Remote Sensing Centre, Balanagar, Hyderabad. 
 Map https://goo.gl/maps/cHCR6gwXmNK2 
@@ -186,7 +183,6 @@ Coordinator: NESA President, Shri. C.V. Srinivas srinivas_cv@nrsc.gov.in
 [Flyer Event#5](https://drive.google.com/open?id=1ENkrR7YpsIaY7dmjKrMM1JxkpDmapePm)
 
 4. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @MEC**
-
 Date and Time : Thursday, 8th February 2018, 04:30 pm to 05:45 pm
 Venue: Mahindra Ecole Centrale, Hyderabad. 
 Map https://goo.gl/maps/6dkew98CJYD2 
