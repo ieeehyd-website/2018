@@ -4,6 +4,29 @@
 
 IEEE opens the door to opportunities that will help you develop your professional identity in IEEE's designated fields of interest: sciences, technology, engineering, and mathematics (STEM). In addition to accessing a range of membership benefits, you'll make global connections with people who can help you along your targeted career path through IEEE's international community of members and volunteers.
 
+## Student Network Team
+The Student Network Member acts as a link between IEEE student organizations in the section and the Executive committee.
+
+The usual term of office is 1 year. Term of office begins in April. The time needed to fulfill this volunteer position is approximately 7 hours per week.
+
+### Summary of Duties and Responsibilities:
+
+* Understand the role in carrying out the student-related goals and objectives of the Section
+* Coordinating and encouraging activities of interest to all IEEE student organizations that report to the Section
+* Work closely with Student Branches and its sub-unit Chairs and other leaders in your Section in carrying out these activities
+* Provide a regular report to the Section Executive Committee about status of student units (SB, WIE, SBC)
+* Passes on to successor all relevant records at the end of term
+
+### Qualifications:
+* Must be an IEEE member in good standing
+* Must be an IEEE Undergraduate Student Member or Graduate Student Member
+* Must reside in the geographic boundaries of the Section
+* Student branch officer experience
+* Ability to spend sufficient time and energy to represent student branches and chapters
+* Ability to respond quickly to communications by email
+
+---
+
 ## Awards/Scholarships won by Student Branches/ Students
 
 The below are the Awards/Scholarships won by Student Branches/ Students of IEEE Hyderabad Section in 2017
