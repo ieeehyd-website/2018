@@ -16,6 +16,7 @@ pages:
                 - 'Future Directions Committee': 'section/future-directions/2018.md'
                 - 'News Room': 'news-room/details.md'
                 - 'Contact': 'support/contact/ieeehyderabad.md'
+                - 'Announcements': 'section/announce.md'
     - 'Sub-Sections': 
                 - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
                 - 'Guntur (Amaravathi)': 'sub-sections/guntur/guntur.md'
