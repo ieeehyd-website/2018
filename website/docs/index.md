@@ -253,7 +253,12 @@ IEEE Hyderabad Section constituted an exclusive committee under the chairmanship
 
 [Future Direction Committee Report](/section/future-directions/FutureDirectionsCommittee-Report-2017.pdf)
 
-## Announcements(/section/announce.md)
+## Announcements
+
+---
+Student Activities Committe (SAC) Calls For Student Network Members. Apply Now.
+
+[Call For Student Network Members...](/section/announce.md)
 
 
 ## More about the Section
