@@ -253,6 +253,9 @@ IEEE Hyderabad Section constituted an exclusive committee under the chairmanship
 
 [Future Direction Committee Report](/section/future-directions/FutureDirectionsCommittee-Report-2017.pdf)
 
+## Announcements(/section/announce.md)
+
+
 ## More about the Section
 
 ---
