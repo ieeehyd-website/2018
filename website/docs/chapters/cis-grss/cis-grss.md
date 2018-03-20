@@ -98,6 +98,20 @@ Dr. Shiv Mohan (shivmohan.isro@gmail.com)
 
 Dr. Anup Kumar Das (anup@sac.isro.gov.in)
 
+### Project name: GRSS Student Grand Challenge
+
+Proposed by: Adriano Camps
+Contact name: David Kunkee
+
+Project description:
+This proposal is for a one and a half year project intended to engage students and young professionals in solving a complex engineering problem within the scope of GRSS and other sister societies (e.g., Aerospace and Electronic Systems, Antenna Propagation, Ocean Engineering, Computer, Microwave Theory and Techniques). Student chapters DO NOT have to be formed at the time of submitting the proposal, but if selected, they commit to form it before the end of the current year.
+The "grand challenge" is to design and implement an end-to-end observing system based on drones or RPAS to address a problem linked to strategic themes like the observation of the polar regions, precision farming, forest monitoring, desertification. This should include the definition of the problem to be addressed, the techniques that will be used, the instrument concept that will be implemented, the data storage/transmission system AND an smart phone app to display the results interactively.
+
+Important dates:
+- May 15, 2018: teams willing to participate must send a brief description of their mission concept (< 10 pages), indicating: team description, feasibility study of the proposed mission concept, budget proposal (budget can be higher than 6K$, but GRSS request must be less than 6K$). If the proposing team is not yet part of an already established GRSS Student Chapter, it is important that commitment to form a new Chapter by the end of 2018 be included in the proposal.
+Proposals should be sent to David Kunkee (david.b.kunkee@aero.org).
+- June 15, 2018: announcement of the 5 selected teams. Selected teams will receive 6K$ to implement the system, and to travel to attend IGARSS
+2019 in Yokohama (Japan) to present their results in a dedicated oral half session.
 
 ## Awards and Achievements  
 ---  
