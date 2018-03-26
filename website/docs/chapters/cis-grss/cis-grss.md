@@ -169,13 +169,22 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 ## Forthcoming Events  
 ---  
-1. **Field visit to Zen Technologies**
+
+## Past Events  
+---  
+### 2018
+
+7. **Field visit to Zen Technologies**
 Date and Time : Saturday, 17 March 2018, 10:00am 
 Venue: Zen Technologies, Sanath Nagar, Hyderabad. 
 Map https://goo.gl/maps/dyA5AHWV1cq
 Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org 
 
-2. **Two-day Tutorial on " Machine Learning and Evolutionary Optimization - Foundations, Recent Trends and Future Challenges"  by Prof. Swagatam Das, Indian Statistical Institute (ISI), Kolkatta @Dept. of CSE, JNTUH College of Engineering, Hyderabad.** 
+![](img/events/ZenTech.jpg)
+
+![](img/events/ZenTech1.jpg)
+
+6. **Two-day Tutorial on " Machine Learning and Evolutionary Optimization - Foundations, Recent Trends and Future Challenges"  by Prof. Swagatam Das, Indian Statistical Institute (ISI), Kolkatta @Dept. of CSE, JNTUH College of Engineering, Hyderabad.** 
 Date and Time : Saturday-Sunday, 24-25 March 2018, 9:00 am to 4:00 pm
 **[Register here](https://in.explara.com/e/cistutorial)**
 Venue: JNTUH, Kukatpally Hyderabad. 
@@ -184,9 +193,9 @@ Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org
 
 [Flyer Event#6](https://drive.google.com/open?id=1hBT9G27ovBD8cGHwqmARBV0peUP18Fwt)
 
-## Past Events  
----  
-### 2018
+![](img/events/Dr. Swagatam.jpg)
+
+![](img/events/tutorial JNTUH.jpg)
 
 5. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
 Date and Time : Friday, 9th February 2018, 10:30 am to 12:00 noon
