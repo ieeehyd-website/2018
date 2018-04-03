@@ -15,14 +15,16 @@ pages:
                 - 'IEEE Hyderabad Section': 'section/section.md'
                 - 'Future Directions Committee': 'section/future-directions/2018.md'
                 - 'News Room': 'news-room/details.md'
+                - 'IEEE Exhibits': 'section/exhibits.md'
                 - 'Contact': 'support/contact/ieeehyderabad.md'
                 - 'Announcements': 'section/announce.md'
     - 'Sub-Sections': 
                 - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
                 - 'Guntur (Amaravathi)': 'sub-sections/guntur/guntur.md'
                 - 'Ananthapur': 'sub-sections/ananthapur/ananthapur.md'
-    - 'Flagship Events':
+    - 'Flagship Programs':
                 - 'Conferences': 'section/flagship-programs/conferences/conferences.md'
+                - 'IEEE Exhibits': 'section/exhibits.md'
                 - 'Faraday Memorial Lecture (FML)': 'section/flagship-programs/fml/fml.md'
                 - 'Section Student Congress (SSC)': 'students/flagship-programs/programs.md'
                 - 'Skill Connect': 'section/flagship-programs/skill-connect/skill-connect.md'

@@ -20,7 +20,7 @@
 | Jose Reddypogu           | Member                          | TCS                          | jose.reddypogu@tcs.com       |
 | Lakshminarayana Merugu   | Immediate Past Chairman         | DLRL, DRDO (Retd.)           | lnmerugu@ieee.org            |
 
-[SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
+**Slate 2018 will be updated soon**
 
 ## AGM 2018
 
@@ -37,7 +37,7 @@ The nomiation committe under the chairmanship of Dr. Koduri Srinivas (Past Chair
 
 #### Links
 
-1. [SLATE 2018 of IEEE Hyderabad Section](/section/execom/2018/IEEEHydSECSlate2018.pdf)
+1. **Slate 2018 will be updated soon**
 2. [Pre-Audited Balance Sheet for the year 2017](/section/execom/2018/2017IEEEHydBalanceSheetDraft.pdf)
 3. [IEEE Hyderabad Section ByLaws](/section/society/Bylaws_IEEEHYD_Jun_2010.pdf)
 
@@ -282,6 +282,6 @@ IEEE Hyderabad Section has following sub-sections in her region.
 |17  |Dr. Atul Negi (2012-2013)|
 |18  |Dr. Koduri Srinivas (2014-2015)
 |19  |Dr. Merugu Lakshminarayana (2016-2017)|
-
+|20  |Mr. P V S Maruthi Rao (2018)
 
 
