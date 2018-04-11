@@ -196,7 +196,7 @@ Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org
 
 ![](img/events/Dr.Swagatam.jpg)
 
-![](img/events/tutorial JNTUH.jpg)
+![](img/events/tutorial_JNTUH.jpg)
 
 5. **A Distinguished Lecturer Event on “Statistical Information Theory and Geometry for SAR Image Analysis” By Prof. Alejandro C. Frery, Universidade Federal de Alagoas, Maceió, Brazil @NRSC**
 Date and Time : Friday, 9th February 2018, 10:30 am to 12:00 noon
