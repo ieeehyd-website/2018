@@ -13,6 +13,7 @@ pages:
 
     - 'Section': 
                 - 'IEEE Hyderabad Section': 'section/section.md'
+                - 'Policies': 'section/policies/policies.md'
                 - 'Future Directions Committee': 'section/future-directions/2018.md'
                 - 'News Room': 'news-room/details.md'
                 - 'IEEE Exhibits': 'section/exhibits.md'
