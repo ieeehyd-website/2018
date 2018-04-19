@@ -169,6 +169,22 @@ upcoming initiatives that support future directions in Earth and planetary obser
 
 ## Forthcoming Events  
 ---  
+#### Webinar on "The Social and Ethical Implications Of Computational Intelligence" ####
+
+Computational Intelligence  Society (CIS) is organizing a webinar and please find the details below. 
+---------------------------------------
+Webinar Speaker: Dr Matt Garratt, University of New South Wales
+
+Webinar Title: The Social and Ethical Implications Of Computational Intelligence
+
+Date: Thu, May 17, 2018 1:30 PM - 2:30 PM IST
+
+Registration link: https://attendee.gotowebinar.com/register/2071141647237678337
+
+***Abstract***: Computational Intelligence (CI) is a term encompassing a basket of soft-computing methodologies used to solve problems that are not suited to solution by mathematical or other traditional methods. CI techniques include technologies such as fuzzy logic, artificial neural networks, deep learning, evolutionary computation and cognitive and developmental systems. Today, CI techniques are embodied within many technologies ranging from autonomous driverless cars to automated decision making on the stock exchange. These technologies already have a significant positive effect on the global economy and when used properly can greatly enhance the lives of many people. There are however risks with misuse of CI. In this webinar, we will discuss what the moral principles should be that govern the behaviour of CI technology, as well as the designer. These principles cover balancing the ecological footprint of technologies against the economic benefits, managing the impact of automation on the workforce, ensuring privacy is not adversely affected and dealing with the legal implications of embodying CI technologies in autonomous systems.
+
+***Speaker Bio:***
+Matthew A Garratt received a BE degree in Aeronautical Engineering from Sydney University, Australia, a graduate diploma in applied computer science from Central Queensland University  and a PhD in the field of biologically inspired robotics from the Australian National University in 2008. Prior to entering academia, Matt worked as an engineer in the Royal Australian Navy for a decade. Some of his research successes include demonstration of terrain following using vision for an unmanned helicopter, landing an unmanned helicopter onto a moving deck simulator and control of helicopters using neural networks. Some of his current research projects include achieving autonomous flight in cluttered environments using monocular cameras and range sensors, landing UAVs on moving platforms, adaptive flight control for flapping wing and rotary wing vehicles, trusted human-autonomy teaming in teleoperations and self-organising Unmanned Systems in contested RF environments. He is an Associate professor with the School of Engineering and Information Technology (SEIT) at the University of New South Wales, Canberra. Matt is currently the Deputy Head of School (Research) in SEIT and is the chair of the Computational Intelligence Society task force on the Ethics and Social Implications of CI. His research interests include sensing, guidance and control for autonomous systems with particular emphasis on biologically inspired and Computational Intelligence approaches.
 
 ## Past Events  
 ---  
@@ -192,6 +208,7 @@ Map https://goo.gl/maps/xff64HQzQ9S2
 Contact: Dr. Mousmi Ajay Chaurasia, +91-91601-46701, mousmi.ksu@ieee.org 
 
 [Flyer Event#6](https://drive.google.com/open?id=1hBT9G27ovBD8cGHwqmARBV0peUP18Fwt)
+
 [Download Tutorial material](https://drive.google.com/open?id=1ORoPC7pqnF4VMcpepp0bhGfoGsa9j6bU)
 
 ![](img/events/Dr.Swagatam.jpg)
