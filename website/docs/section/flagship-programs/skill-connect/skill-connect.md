@@ -56,4 +56,8 @@ The activities and programs under this initiative wil be managed by the 'Skill C
 
 - Talk on Skill Devevlopment at Potti Sriramulu College, Vijayawada.
 
+## Rapid Skill Connect Program
+
+1. [Rapid Skill Connect Program](docs/Rapid Skill Connect for Colleges.pdf)
+
 
