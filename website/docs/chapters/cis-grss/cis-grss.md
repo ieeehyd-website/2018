@@ -66,6 +66,21 @@ A Teachers lesson plan giving suggestions on how to use the teaching pack with t
 
 ## Opportunities  
 ---  
+### GRSS Summer School - 9-13 July 2018
+
+A 5-day Remote Sensing workshop/summer school is to be held Monday-Friday, July 9-13 on the campus of Mississippi State University, Starkville, MS.  This is the IEEE Geoscience and Remote Sensing Society (GRSS) annual summer school. The intensive workshop is designed to jumpstart a student or professional who is relatively new to the field of remote sensing and particularly for scientists who want to utilize remote sensing technologies.  This year’s workshop will have seminars and hands-on sessions with UAVs and agricultural analysis, so that is very exciting.
+The summer school is held each year during the days  just prior to the IEEE International Geoscience and Remote Sensing Symposium (IGARSS).  While IGARSS typically has 1500-2000 attendees, we typically only have about 50-60 students and young professionals participate in the summer school, so they get a lot of one-on-one attention from the leading experts we bring in to teach the sessions.  It is VERY affordable ($100 registration), so it is a great opportunity to add on a few days of intensive learning before the IGARSS conference or as a stand-alone activity on its own. Student housing is VERY inexpensive ($45/night – single; $30/night double), and we encourage attendees to take advantage of this opportunity.
+This highly useful program giving insights into UAVs, remote sensing sensors and their applications to agricultural analysis. 
+
+[Important Links](http://www.ece.msstate.edu/remotesensing)
+
+[Website](http://igarss2018.org/)
+
+[Poster](https://drive.google.com/open?id=1xHV2ziZVpULyJl_QDeqiG0cZCDDK3qm9)
+
+Contact: John Ball, Co-chair, IEEE GRSS Summer School
+         jeball@grad.msstate.edu
+         
 ### Educational Activities 2018 - Graduate Student Research Grants
 
 The IEEE CIS is inviting applications for funding opportunity, for deserving undergraduate, graduate and PhD students who need financial support to carry out their research during an academic break period. Any student with a meritorious project is invited to apply, but scholarships will be granted only to applicants who are student members of the IEEE CIS and students at the time the scholarship is awarded.  
