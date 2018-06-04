@@ -256,9 +256,9 @@ IEEE Hyderabad Section constituted an exclusive committee under the chairmanship
 ## Announcements
 
 ---
-Student Activities Committe (SAC) Calls For Student Network Members. Apply Now.
+One Week Workshop for young faculty on "Data Science".
 
-[Call For Student Network Members...](/section/announce.md)
+[Click here to know more...](/section/announce.md)
 
 
 ## More about the Section
