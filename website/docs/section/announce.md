@@ -1,6 +1,33 @@
 # Announcements
 ---
-## IEEE Hyderabad Section- Student Activities Committe (SAC)- Call For Student Network Members
+## 1. One Week Workshop for young faculty on "Data Science" 
+
+The main objective of this workshop is to introduce data science area to young faculty about new foundational, theoretical results,
+methods,applications and tools. The goal of the workshop is to discuss and identify important challenges that need to be addressed, both
+in theory and practice,for further advancement of data science.
+
+### Topics to be discussed:
+* Understanding the Data
+* Machine Learning Classification
+* Time-Series Analysis
+* Tools and Technologies for Data Science
+* Data Visualizations and Statistical Analysis
+* Big Data Analytics using Spark
+* Hands-on Training on Machine Learning Algorithms
+* Neural Networks
+* Tensor Flow
+
+Workshop is being organised by Department of Information Technology, SVEC, Tirupathi in association with Young Professionals Hyderabad
+Section during 19-23, June 2018.
+
+### Venue - SREE VIDYANIKETHAN ENGINEERING COLLEGE (Autonomous), Tirupathi, India
+### Date- 19-23, June 2018
+### [Registrater Here ](https://docs.google.com/forms/d/e/1FAIpQLSfHn-QE-mPWq481sO5R6XP-UNdnwYblY_TvUkyWroug3Ofstg/viewform)
+
+We are expecting your active participation and get benefited from this workshop.
+
+
+## 2. IEEE Hyderabad Section- Student Activities Committe (SAC)- Call For Student Network Members
 
 Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. 
 You will get an opportunity to hone your leadership qualities and skills through organizing events and 
