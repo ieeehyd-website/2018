@@ -19,3 +19,10 @@ The IEEE Young Professionals is an international community of innovative members
 ### 2017
 
 [IEEE Hyderabad Section YP Report 2017](/affininity-groups/yp/events/YPAGWebContent.pdf)
+
+---
+
+### Upcoming Events
+
+[Research Methodologies](/affininity-groups/yp/events/Research Methodologies.pdf)
+[YP Meetup Vizag](/affininity-groups/yp/events/YP Meetup Vizag.pdf)
