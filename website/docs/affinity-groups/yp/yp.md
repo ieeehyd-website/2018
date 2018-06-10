@@ -30,7 +30,7 @@ in theory and practice,for further advancement of data science.
 * Neural Networks
 * Tensor Flow
 
-### [Click Here](/affinity-groups/yp/events/SVEC_Data Science.pdf)to download the brochure
+### [Click Here](https://drive.google.com/file/d/0B13_bwL5BIjPaHF5RzVBNzluRk12QkF1eExNdE5YY2t4d0pB/view?usp=sharing)to download the brochure
 
 Workshop is being organised by Department of Information Technology, SVEC, Tirupathi in association with Young Professionals Hyderabad
 Section during 19-23, June 2018.
@@ -42,6 +42,18 @@ Section during 19-23, June 2018.
 We are expecting your active participation and get benefited from this workshop.
 
 ---
+
+
+## Research Workshop 2018
+
+Department of CSE, JNTUH College of Engineering & IEEE Young Professionals, Hyderabad in support with WIE is organising Research Workshop 2018, introducing the concept of how to go about with the Research. 
+
+
+[Click to download Flyer](https://drive.google.com/file/d/1SVD3_olKEBh_u-mNHNYRDHEWCMb865sP/view)
+
+[Click to Register](https://www.stumagz.com/researchworkshop2018/) 
+
+### Note- (Seats are limited to 60)
 
 ## Past Events Report
 
