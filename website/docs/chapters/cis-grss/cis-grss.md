@@ -70,14 +70,20 @@ A Teachers lesson plan giving suggestions on how to use the teaching pack with t
 ### CIS SUMMER SCHOOL - 22-28 November 2018
 A 6-day Computer Intelligence Society summer school is to be held from November 22-18, 2018 on the campus of Muffakham Jah College of Engineering & Technology, Banjarahills, Hyderabad, India. Recent spurt in adoption of computational intelligence based techniques by Industry giants for commercial use has created a demand to reskill the young professionals. Also, many startups that provide computational intelligence based solutions to customers have sprung up and are on lookout for graduate students who have prior exposure and working knowledge in computational intelligence. This in turn has led to a requirement to provide additional skills to new job aspirants. This summer schools attempts to fulfill the above requirements through a balanced program design incorporating theory, implementation and applications of computational intelligence technologies. 
 
-Registration : To be announced soon
-Website: To be launched soon
+Registration : https://www.payumoney.com/events/#/buyTickets/cis-ss2018 
+
+Website: https://cishyd-ss.ieeehyd.org/
+
+Venue: Muffakham Jah College of Engineering & Technology (M.J.C.E.T.) Banjara hills, Hyderabad
 
 Contact: Atul Negi, Chair, IEEE CIS Summer School
          atul.negi@ieee.org
          M.Naresh, Co-Chair , IEEE CIS Summer School
          nareshm@ieee.org
-               
+         
+[Announcement](https://drive.google.com/file/d/1Qmx-8vHtB6g-2insWkFhXjYyyuts_lpX/view?usp=sharing)
+
+
 ### GRSS Summer School - 9-13 July 2018
 
 A 5-day Remote Sensing workshop/summer school is to be held Monday-Friday, July 9-13 on the campus of Mississippi State University, Starkville, MS.  This is the IEEE Geoscience and Remote Sensing Society (GRSS) annual summer school. The intensive workshop is designed to jumpstart a student or professional who is relatively new to the field of remote sensing and particularly for scientists who want to utilize remote sensing technologies.  This year’s workshop will have seminars and hands-on sessions with UAVs and agricultural analysis, so that is very exciting.
