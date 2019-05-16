@@ -58,6 +58,61 @@ Abstract :IEEE All Hyderabad Computer Society Student Congress brings you "Demys
 
 ---
 
+### 2019
+
+Event | Description     |
+|-----|-----------------|
+| 9   | Workshop on Digital Reality at IEEE Hyderabad Section by Nikeelu Gundra, Ikram Ali Shaikh and Sai Satish, 11 May 2019|
+| 8   | Workshop on Design Thinking at Anurag Group of Institutes, 22 March 2019|
+| 7   | Hackathon on Python Programming at Anurag Group of Institutes, 22 March 2019|
+| 6   | A 5 Day hands-on workshop on Cloud Computing at Vardhaman College of Engineering, 11-15 March 2019|
+| 5   | Technical Seminar on Next Generation Cloud Transformation by Pavankumar Allu at SV College of Engineering, 23 February 2019|
+| 4   | Workshop on Blockchain with Lab at MVSR College of Engineering, 22-23 February 2019 |
+| 3   | Technical Seminar on future cloud transformation by Prof. Jabbar at Geetanjali College of Engineering, 24 Jan 2019  |
+| 2   | Workshop on Quantum Computing at Microsoft Garage, 19 Jan 2019  |
+| 1   | AHCSSC (All Hyderabad Computer Society Student Congress) Flagship Event at Vardharman College of Engineering, 3-5 Jan 2019  |
+
+---
+
+
+
+### 2018
+
+Event | Description     |
+|-----|-----------------|
+|24   | IEEE SIG on Quantum Computing by Reena Dayal, 27 November 2018 |
+|23   | Artificial Intelligence: DCGANs – Architecture, Applications and Implications by Kishore Kopalle, 14 October 2018 |
+|22   | Technical Seminar: Comprehensive Perspective of Digital Ecosystem, by Venkat Kadari, CSI Office, December 17, 2017 |
+|21   | Technology Workshop on Data Science – Level 1 by Pavan Damaraju,Nilesh and Sudheer, 29-30 September 2018 |
+|20   | Technology Workshop on Cloud and Blockchain Computing by Madhu Vadlamani and Amarnath, 28-29 September 2018 |
+|19   | Webinar: IEEE XTreme Sessions - Python Programming in collaboration with IEEE SAC by Purnachander, 22 September 2018 |
+|18   | IEEE Road to Success by Bala Peddigari at Jayamukhi Institute of Technology and Science, 12 September 2018 |
+|17   | World Blockchain Hackathon in Association with Vagdevi College of Engineering, 31 August 2018 |
+|16   | Digital Marketing Powered by AI by Vidyasagar Tejomurtula at Vizag IEEE Section, 18 August 2018 |
+|15   | Conversational Experience driven by AI by Bala Peddigari at Vizag IEEE Section, 18 August 2018 |
+|15   | Workshop on Academic Writing Skills by Dr. Md. Mamun Bin Ibne Reaz at Vardhaman College of Engineering, 11 August 2018 |
+|14   | Technical Seminar-Digital Trends in IT at SRIT College, 3 August 2018 |
+|13   | Technical Seminar -Driving Innovation through Artificial Intelligence at JNTU Ananthapur, 3 August 2018 |
+|12   | Blockchain Summit - Driven with Practical Approach at Anurag Group of Colleges, 20-21 July 2018 |
+|11   | Next Generation Cloud Computing by Allan Leinwand CTO ServiceNow, June 26 2018 |
+|10   | Session on Future of AI and its Impact by Bala Peddigari, 23 June 2018 |
+| 9   | Expert Talk on Big Data and Analytics by Madhu Vadlmaani, 23 June 2018  |
+| 8   | Expert Talk on Deep Learning Applications by Ketan Kotecha, 22 June 2018  |
+| 7   | Digital Trends – Reimagining the Future Impact of Contemporary Engineering and Technologies at PS Engineering College, 2 April 2018  |
+| 6   | EA for Insight, Foresight and Oversight by Pallab Saha, 31 March 2018  |
+| 5   | Project Day 2K18 BITS Warangal, 29 March 2018  |
+| 4   | Technology Trends in Digital Context, 24 March 2018  |
+| 3   | IOT – Challenges and Opportunities, Guru Nanak Institutions Technical Campus, 22 March 2018  |
+| 2   | Blockchain and its impact at Anurag Group of Institutes, 10 March 2018  |
+| 1   | Particle Swarm Optimization (PSO) and its applications at CSI Office Hyderabad, 4 Feb 2018  |
+
+---
+
+
+
+
+
+
 ### 2017 and 2018
 
 Event | Description     |
@@ -87,10 +142,13 @@ Event | Description     |
 | 2   | IEEE CS Chapter Inauguration : Vaagdevi College of Engineering, Warangal  |
 | 1   | Conference:Emerging Trends in Intelligent Machines, in collaboration with Industrial Relations Committee  |
 
+---
+
+
 ## Call for Volunteers
 
 ---
 
 Volunteers are the blood line of the chapter. As a volunteer you play a key role in shaping the future of this chapter. You will get an oppurtunity to horn your leadership qualities and skills through organizing events and interactions with fellow members in our community. You will be the first to know latest happennings in your area of work or expertise. You will get oppurtunities to colloborate with top notch professionals working in the field of computational intelligence and geospatial technologies both from the industry and academia. Come join us in IEEE Computer Society Chapter and get the best out of yourself to Create Impact.
 
-#### [Get in touch with us through mail](bala.peddigari@ieee.org or balasparks@gmail.com)
+#### [Get in touch with us through mail](sagarvt@ieee.org or sagarvt@gmail.com)

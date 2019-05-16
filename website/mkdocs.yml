@@ -19,6 +19,7 @@ pages:
                 - 'IEEE Exhibits': 'section/exhibits.md'
                 - 'Contact': 'support/contact/ieeehyderabad.md'
                 - 'Announcements': 'section/announce.md'
+                - 'Execom': 'section/execom/2019/slate-2019.md'
     - 'Sub-Sections': 
                 - 'Vizag Bay': 'sub-sections/vizag/vizag.md'
                 - 'Guntur (Amaravathi)': 'sub-sections/guntur/guntur.md'
@@ -49,7 +50,16 @@ pages:
                 - 'Events': 'students/events/details.md'
                 - 'Benefits': 'students/benefits/benefits.md'
                 - 'Opportunities': 'students/opportunities/jobs-internships.md'
+
+    - 'Section Activities':
+                - 'Section Newsletter': 'section/news-letters/news-letters.md'
+                - 'Section Minutes': 'section/meeting-minutes/meeting-minutes.md'
+    
+    - 'Upcoming Events': 'section/upcoming-events/upcoming-events.md'
+
+    - 'Gallery': 'gallery/gallery.md'
                 
+                             
 
     - 'More...':
         - 'News Room': 'news-room/details.md'
